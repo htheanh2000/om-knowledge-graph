@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "vi-VN",
-    baseUrl: "htheanh2000.github.io/om-knowledge-graph",
+    baseUrl: "bol.huynhtheanh.com",
     ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
