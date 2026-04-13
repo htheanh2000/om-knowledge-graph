@@ -54,6 +54,22 @@ Chi phí khi khách hàng NHẬN ĐƯỢC sản phẩm lỗi - **ĐẮT NHẤT t
 - Mất khách hàng, mất uy tín
 - Xử lý khiếu nại
 
+> **Sơ đồ Chi phí chất lượng (Cost of Quality):**
+
+```mermaid
+flowchart LR
+    subgraph COQ["Costs of Quality"]
+        subgraph Conformance["Cost of Conformance<br/>(Đầu tư phòng ngừa)"]
+            PC[Prevention Costs<br/>Đào tạo, thiết kế]
+            AC[Appraisal Costs<br/>Kiểm tra, kiểm định]
+        end
+        subgraph NonConformance["Cost of Non-Conformance<br/>(Chi phí do lỗi)"]
+            IF[Internal Failure<br/>Phế phẩm, sửa lại]
+            EF[External Failure<br/>Bảo hành, mất KH]
+        end
+    end
+```
+
 > **Quy tắc 1:10:100**: Phát hiện lỗi ở giai đoạn thiết kế tốn 1 đồng, ở giai đoạn sản xuất tốn 10 đồng, sau khi đến tay khách hàng tốn 100 đồng. → Đầu tư vào [[Prevention Cost]] là hiệu quả nhất!
 
 ### Ví dụ thực tế
@@ -73,6 +89,9 @@ Samsung Galaxy Note 7 (2016): Chi phí lỗi bên ngoài khổng lồ - thu hồ
 [[Total Quality Management]] (TQM) là triết lý quản lý nhấn mạnh ba nguyên tắc: (1) sự hài lòng của khách hàng, (2) sự tham gia của mọi nhân viên, và (3) cải tiến liên tục trong chất lượng.
 
 ### Giải thích chi tiết
+
+> ![Figure 3.2 - TQM và Six Sigma](/images/figures/ch03_fig3.2.jpg)
+> *Figure 3.2: Bánh xe TQM - các nguyên tắc quản lý chất lượng toàn diện*
 
 **Ba nguyên tắc cốt lõi:**
 
@@ -149,6 +168,17 @@ Trong thống kê, [[Sigma]] (σ) là [[Standard Deviation]] (độ lệch chu�
    - Duy trì cải tiến, ngăn tái phát
    - Công cụ: [[Control Chart]], [[Standard Operating Procedure]] (SOP), đào tạo
 
+> **Sơ đồ chu trình DMAIC (Six Sigma):**
+
+```mermaid
+flowchart LR
+    D[Define<br/>Xác định vấn đề] --> M[Measure<br/>Đo lường hiện trạng]
+    M --> A[Analyze<br/>Phân tích nguyên nhân]
+    A --> I[Improve<br/>Cải tiến quy trình]
+    I --> C[Control<br/>Kiểm soát duy trì]
+    C -.->|Lặp lại| D
+```
+
 **Hệ thống đai (Belt System):**
 - [[Green Belt]]: Nhân viên được đào tạo, dành một phần thời gian cho Six Sigma
 - [[Black Belt]]: Chuyên gia Six Sigma toàn thời gian
@@ -212,6 +242,22 @@ Quy trình chỉ có Common Cause Variation gọi là [[In Statistical Control]]
 
 Thông thường: $UCL = \bar{x} + 3\sigma$ và $LCL = \bar{x} - 3\sigma$ (giới hạn 3-sigma)
 
+> **Minh họa Biểu đồ kiểm soát (Control Chart):**
+
+```mermaid
+xychart-beta
+    title "Control Chart - Biểu đồ kiểm soát"
+    x-axis "Sample Number" [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    y-axis "Measurement" 0 --> 20
+    line "UCL" [16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
+    line "Center" [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+    line "LCL" [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+    line "Data" [9, 11, 8, 12, 10, 13, 9, 11, 14, 10]
+```
+
+> ![Figure 3.4 - Biểu đồ kiểm soát](/images/figures/ch03_fig3.4.jpg)
+> *Figure 3.4: Các mẫu bất thường trên Control Chart (trend, shift, cycle)*
+
 **Quy tắc phát hiện bất thường:**
 - Điểm nằm ngoài UCL hoặc LCL
 - 7 điểm liên tiếp nằm cùng một phía so với Center Line (xu hướng - [[Run]])
@@ -224,6 +270,9 @@ Thông thường: $UCL = \bar{x} + 3\sigma$ và $LCL = \bar{x} - 3\sigma$ (giớ
 | Dữ liệu | Liên tục (đo được) | Rời rạc (đếm được) |
 | Ví dụ | Trọng lượng, chiều dài, nhiệt độ | Số lỗi, tỷ lệ hỏng, đạt/không đạt |
 | Biểu đồ | [[X-bar Chart]] + [[R Chart]] (hoặc [[S Chart]]) | [[p Chart]], [[c Chart]], [[np Chart]] |
+
+> ![Figure 3.5 - X-bar và R Chart](/images/figures/ch03_fig3.5.jpg)
+> *Figure 3.5: Biểu đồ X-bar (trung bình) và R (range) theo dõi biến số*
 
 **[[X-bar Chart]]** (Biểu đồ X-bar): Theo dõi giá trị TRUNG BÌNH của mẫu
 $$UCL_{\bar{x}} = \bar{\bar{x}} + A_2 \bar{R}$$
@@ -260,6 +309,9 @@ Nhà máy sản xuất chai nước suối kiểm tra dung tích. Mỗi giờ l�
 [[Process Capability]] đo lường khả năng quy trình sản xuất sản phẩm nằm trong [[Specification Limits]] (giới hạn đặc tính kỹ thuật) do khách hàng hoặc kỹ sư thiết kế đặt ra.
 
 ### Giải thích chi tiết
+
+> ![Figure 3.8 - Năng lực quy trình](/images/figures/ch03_fig3.8.jpg)
+> *Figure 3.8: Process Capability - so sánh biến động quy trình với specification limits*
 
 > **Phân biệt quan trọng:**
 > - [[Control Limits]] (UCL, LCL): Do QUY TRÌNH quyết định - "Quy trình đang làm gì"

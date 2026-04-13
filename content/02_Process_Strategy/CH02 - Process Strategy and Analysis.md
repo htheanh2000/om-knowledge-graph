@@ -23,6 +23,9 @@ Hiểu chương này giúp bạn biết cách phân tích bất kỳ quy trình 
 
 #### Giải thích chi tiết
 
+> ![Figure 2.1 - Ma trận tiếp xúc khách hàng](/images/figures/ch02_fig2.1.jpg)
+> *Figure 2.1: Front Office (nhiều tiếp xúc) → Hybrid → Back Office (ít tiếp xúc)*
+
 Ma trận có hai trục:
 - **Trục dọc**: Mức độ tiếp xúc khách hàng và tùy chỉnh (từ thấp đến cao)
 - **Trục ngang**: [[Process Divergence]] (sự đa dạng) và [[Process Flow]] (dòng chảy quy trình)
@@ -45,6 +48,25 @@ Bốn loại quy trình dịch vụ (từ ít tiếp xúc đến nhiều tiếp 
    - Tùy chỉnh: Cao
    - Dòng chảy: Linh hoạt ([[Flexible Flow]])
    - Ví dụ: Bác sĩ khám bệnh, tư vấn tài chính, luật sư
+
+> **Sơ đồ Ma trận tiếp xúc khách hàng (Customer-Contact Matrix):**
+
+```mermaid
+flowchart TB
+    subgraph Matrix["Customer-Contact Matrix"]
+        direction TB
+        subgraph High["High Contact & Customization"]
+            FO[Front Office<br/>Consulting, Healthcare<br/>Legal Services]
+        end
+        subgraph Medium["Medium Contact"]
+            HO[Hybrid Office<br/>Bank Branches<br/>Retail Stores]
+        end
+        subgraph Low["Low Contact & Customization"]
+            BO[Back Office<br/>Data Processing<br/>Warehouse Operations]
+        end
+    end
+    High --> Medium --> Low
+```
 
 > **Quy tắc quan trọng**: Mức tiếp xúc khách hàng càng cao → Quy trình càng khó chuẩn hóa → Chi phí càng cao → Nhưng khách hàng hài lòng hơn vì được cá nhân hóa.
 
@@ -70,6 +92,9 @@ Ngân hàng Vietcombank:
 [[Product-Process Matrix]] là công cụ giúp doanh nghiệp sản xuất chọn loại quy trình phù hợp dựa trên sản lượng (volume) và mức độ tùy chỉnh sản phẩm (customization).
 
 #### Giải thích chi tiết
+
+> ![Figure 2.2 - Ma trận Sản phẩm-Quy trình](/images/figures/ch02_fig2.2.jpg)
+> *Figure 2.2: Job → Batch → Line → Continuous Flow (tăng dần volume, giảm dần variety)*
 
 Năm loại quy trình sản xuất (từ tùy chỉnh cao/sản lượng thấp đến chuẩn hóa/sản lượng cao):
 
@@ -97,6 +122,22 @@ Năm loại quy trình sản xuất (từ tùy chỉnh cao/sản lượng thấp
    - Ví dụ: Lọc dầu, sản xuất thép, nhà máy điện, sản xuất giấy
    - Đặc điểm: Tự động hóa cao, vốn đầu tư lớn, dừng máy rất tốn kém
 
+> **Sơ đồ Ma trận sản phẩm - quy trình (Product-Process Matrix):**
+
+```mermaid
+flowchart TB
+    subgraph Matrix["Product-Process Matrix"]
+        direction LR
+        subgraph Volume["Low Volume ──────────── High Volume"]
+            JP["Job Process<br/>Custom products<br/>e.g., Custom furniture"]
+            BP["Batch Process<br/>Moderate variety<br/>e.g., Bakery"]
+            LP["Line Process<br/>Few products, high vol<br/>e.g., Auto assembly"]
+            CF["Continuous Flow<br/>Commodity<br/>e.g., Oil refinery"]
+        end
+    end
+    JP --> BP --> LP --> CF
+```
+
 5. **[[Project Process]]** (Quy trình dự án)
    - Đặc biệt: Mỗi sản phẩm là duy nhất, quy mô lớn, thời gian dài
    - Ví dụ: Xây dựng cầu, phát triển phần mềm lớn, tổ chức Olympic
@@ -120,6 +161,9 @@ Năm loại quy trình sản xuất (từ tùy chỉnh cao/sản lượng thấp
 ---
 
 ## Process Strategy Decisions (Quyết định chiến lược quy trình)
+
+> ![Figure 2.3 - Chiến lược quy trình](/images/figures/ch02_fig2.3.jpg)
+> *Figure 2.3: Các quyết định chiến lược quy trình*
 
 ### Customer Involvement (Sự tham gia của khách hàng)
 
@@ -251,12 +295,28 @@ Ví dụ: Ford Motor phát hiện phòng kế toán thanh toán có 500 nhân vi
 [[Flowchart]] là sơ đồ biểu diễn trực quan các bước trong quy trình, sử dụng các ký hiệu chuẩn để mô tả hoạt động, quyết định, và dòng chảy.
 
 #### Giải thích chi tiết
+
+> ![Figure 2.5 - Ví dụ Flowchart](/images/figures/ch02_fig2.5.jpg)
+> *Figure 2.5: Ví dụ lưu đồ quy trình với các ký hiệu chuẩn*
+
 Các ký hiệu cơ bản:
 - **Hình chữ nhật** (□): Hoạt động / Bước xử lý
 - **Hình thoi** (◇): Điểm quyết định (Có/Không)
 - **Mũi tên** (→): Hướng dòng chảy
 - **Hình oval**: Bắt đầu / Kết thúc
 - **Hình bình hành**: Đầu vào / Đầu ra
+
+> **Sơ đồ minh họa các ký hiệu lưu đồ (Flowchart Symbols):**
+
+```mermaid
+flowchart LR
+    A((Start)) --> B[Operation<br/>□ Rectangle]
+    B --> C{Decision<br/>◇ Diamond}
+    C -->|Yes| D[/Document<br/>▱ Parallelogram/]
+    C -->|No| E[(Database<br/>⬭ Cylinder)]
+    D --> F([End])
+    E --> F
+```
 
 [[Swimlane Flowchart]] (Lưu đồ phân làn) thêm các "làn bơi" để phân biệt ai chịu trách nhiệm cho từng bước. Rất hữu ích khi quy trình liên quan đến nhiều bộ phận.
 

@@ -23,6 +23,9 @@ Dự báo không chỉ là công việc của bộ phận kinh doanh mà là tr�
 
 #### Demand Patterns (Các mẫu nhu cầu)
 
+> ![Figure 8.1 - Mẫu nhu cầu](/images/figures/ch08_fig8.1.jpg)
+> *Figure 8.1: 4 mẫu nhu cầu: Trend, Seasonal, Cyclical, Random*
+
 Nhu cầu hiếm khi ổn định hoàn toàn. Có 5 thành phần cơ bản của [[Demand Patterns]]:
 
 1. **[[Trend]]** (Xu hướng): Sự tăng hoặc giảm dài hạn trong nhu cầu. Ví dụ: nhu cầu xe điện Tesla tăng liên tục qua các năm do xu hướng xanh hóa giao thông.
@@ -151,6 +154,9 @@ Một cửa hàng Highlands Coffee dự báo bán 200 ly cà phê/ngày. Thực 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+> ![Figure 8.3 - Tổng quan phương pháp dự báo](/images/figures/ch08_fig8.3.jpg)
+> *Figure 8.3: Phân loại các phương pháp dự báo*
+
 Sử dụng khi: sản phẩm mới, không có dữ liệu lịch sử, hoặc môi trường thay đổi nhanh.
 
 1. **[[Sales Force Estimates]]** (Dự báo từ đội ngũ bán hàng)
@@ -192,6 +198,9 @@ Khi Apple ra mắt iPhone đời đầu (2007), không có dữ liệu lịch s�
 [[Causal Methods]] giả định rằng nhu cầu có **mối quan hệ nhân quả** với một hoặc nhiều biến độc lập. [[Linear Regression]] tìm đường thẳng tốt nhất biểu diễn mối quan hệ này.
 
 ### Giải thích chi tiết (Detailed Explanation)
+
+> ![Figure 8.8 - Hồi quy tuyến tính](/images/figures/ch08_fig8.8.jpg)
+> *Figure 8.8: Đường hồi quy y = a + bx fit dữ liệu*
 
 #### Mô hình hồi quy tuyến tính:
 $$\hat{y} = a + bx$$
@@ -259,6 +268,9 @@ $$F_{t+1} = D_t$$
 - Dùng làm **benchmark** để so sánh với phương pháp phức tạp hơn
 
 ---
+
+> ![Figure 8.4 - Biểu đồ Moving Average](/images/figures/ch08_fig8.4.jpg)
+> *Figure 8.4: So sánh Simple Moving Average với dữ liệu thực tế*
 
 ### 2. [[Moving Average]] (Trung bình trượt)
 

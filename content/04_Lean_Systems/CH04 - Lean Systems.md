@@ -31,6 +31,29 @@ Chương trình bày các công cụ quan trọng của Lean: [[Kanban System]],
 7. **D - [[Defect Waste]]** (Sai lỗi): Sản phẩm lỗi phải sửa hoặc bỏ
 8. **S - [[Skills Waste]]** (Lãng phí tài năng): Không tận dụng kỹ năng/ý tưởng của nhân viên
 
+> **Sơ đồ 8 loại lãng phí (TIMWOODS):**
+
+```mermaid
+mindmap
+  root((8 Lãng phí<br/>TIMWOODS))
+    T - Transportation
+      Di chuyển vật liệu không cần thiết
+    I - Inventory
+      Tồn kho dư thừa
+    M - Motion
+      Chuyển động thừa của người
+    W - Waiting
+      Chờ đợi
+    O - Overproduction
+      Sản xuất thừa
+    O - Overprocessing
+      Xử lý thừa
+    D - Defects
+      Khuyết tật/Phế phẩm
+    S - Skills waste
+      Lãng phí tài năng
+```
+
 #### Nguyên tắc Lean (5 Lean Principles):
 1. **[[Value]]**: Xác định giá trị từ góc nhìn khách hàng
 2. **[[Value Stream]]**: Nhận diện toàn bộ dòng giá trị
@@ -53,6 +76,9 @@ Bệnh viện áp dụng Lean: Giảm thời gian chờ khám từ 3 giờ xuố
 ## Strategic Characteristics of Lean Systems (Đặc điểm chiến lược của hệ thống Lean)
 
 ### Giải thích chi tiết
+
+> ![Figure 4.2 - Cấu trúc Lean System](/images/figures/ch04_fig4.2.jpg)
+> *Figure 4.2: Cấu trúc hệ thống Lean*
 
 Các đặc điểm chiến lược:
 
@@ -110,6 +136,9 @@ Các đặc điểm chiến lược:
 
 ### Giải thích chi tiết
 
+> ![Figure 4.4 - Hệ thống sản xuất Toyota](/images/figures/ch04_fig4.4.jpg)
+> *Figure 4.4: TPS House - 2 trụ cột JIT + Jidoka trên nền tảng Heijunka & Kaizen*
+
 **Ngôi nhà TPS:**
 
 ```
@@ -133,6 +162,31 @@ Các đặc điểm chiến lược:
           │  Heijunka + Kaizen +    │  ← NỀN MÓNG
           │  Standardized Work + 5S │
           └─────────────────────────┘
+```
+
+> **Sơ đồ Ngôi nhà TPS (Toyota Production System House):**
+
+```mermaid
+flowchart TB
+    GOAL["🏠 Goal: Highest Quality, Lowest Cost, Shortest Lead Time"]
+    GOAL --- JIT
+    GOAL --- JIDOKA
+    subgraph JIT["JIT - Just-in-Time"]
+        J1[Continuous Flow]
+        J2[Takt Time]
+        J3[Pull System]
+    end
+    subgraph JIDOKA["Jidoka - Tự kiểm tra"]
+        K1[Stop & Notify]
+        K2[Separate Human & Machine Work]
+    end
+    JIT --- FOUNDATION
+    JIDOKA --- FOUNDATION
+    subgraph FOUNDATION["Foundation - Nền tảng"]
+        F1[Heijunka<br/>San bằng sản xuất]
+        F2[Standardized Work<br/>Tiêu chuẩn hóa]
+        F3[Kaizen<br/>Cải tiến liên tục]
+    end
 ```
 
 **Hai cột trụ:**
@@ -211,6 +265,12 @@ Xưởng cơ khí truyền thống: tất cả máy tiện ở khu A, máy phay 
 
 ### Giải thích chi tiết
 
+> ![Figure 4.5 - Hệ thống Kanban](/images/figures/ch04_fig4.5.jpg)
+> *Figure 4.5: Kanban cards điều khiển dòng sản xuất*
+
+> ![Figure 4.6 - Luồng vận hành Kanban](/images/figures/ch04_fig4.6.jpg)
+> *Figure 4.6: Production Kanban và Withdrawal Kanban luân chuyển giữa workstations*
+
 #### Các quy tắc Kanban:
 1. Mỗi container phải có thẻ Kanban
 2. Trạm sau (downstream) "kéo" sản phẩm từ trạm trước (upstream)
@@ -221,6 +281,22 @@ Xưởng cơ khí truyền thống: tất cả máy tiện ở khu A, máy phay 
 #### Hai loại Kanban chính:
 - **[[Production Kanban]]** (Kanban sản xuất): Báo hiệu trạm sản xuất cần sản xuất thêm
 - **[[Withdrawal Kanban]]** (Kanban rút hàng): Báo hiệu cần di chuyển vật liệu đến trạm tiếp theo
+
+> **Sơ đồ dòng chảy Kanban (Kanban Flow):**
+
+```mermaid
+flowchart LR
+    subgraph WS1["Workstation 1"]
+        P1[Sản xuất]
+    end
+    subgraph WS2["Workstation 2"]
+        P2[Sản xuất]
+    end
+    WS1 -->|"Container + Production Kanban"| STORE[(Kho trung gian)]
+    STORE -->|"Container + Withdrawal Kanban"| WS2
+    WS2 -.->|"Withdrawal Kanban quay lại"| STORE
+    STORE -.->|"Production Kanban quay lại"| WS1
+```
 
 #### Công thức tính số container Kanban:
 
@@ -262,6 +338,9 @@ Cần ít nhất 1 container Kanban. Trong thực tế thường làm tròn lên
 
 ### Giải thích chi tiết
 
+> ![Figure 4.7 - VSM Current State](/images/figures/ch04_fig4.7.jpg)
+> *Figure 4.7: Value Stream Map - Bản đồ hiện trạng (Current State Map)*
+
 #### Current State Map (Bản đồ trạng thái hiện tại)
 [[Current State Map]] mô tả quy trình HIỆN TẠI:
 - Tất cả các bước xử lý
@@ -277,6 +356,9 @@ Cần ít nhất 1 container Kanban. Trong thực tế thường làm tròn lên
 - Mũi tên đẩy: Push flow
 - Mũi tên kéo: Pull flow (supermarket)
 - Đường timeline ở dưới: Phân biệt thời gian tạo giá trị vs không tạo giá trị
+
+> ![Figure 4.8 - VSM Future State](/images/figures/ch04_fig4.8.jpg)
+> *Figure 4.8: Value Stream Map - Bản đồ tương lai (Future State Map)*
 
 #### Future State Map (Bản đồ trạng thái tương lai)
 [[Future State Map]] mô tả quy trình SAU KHI cải tiến:

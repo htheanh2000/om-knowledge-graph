@@ -63,6 +63,9 @@ Phòng gym có công suất 200 người/lúc. Giờ cao điểm (5-8pm) có 190
 [[Economies of Scale]] là hiện tượng chi phí trung bình trên mỗi đơn vị sản phẩm GIẢM khi sản lượng TĂNG.
 
 #### Giải thích chi tiết
+> ![Figure 5.1 - Kinh tế quy mô](/images/figures/ch05_fig5.1.jpg)
+> *Figure 5.1: Đường cong chi phí trung bình - giảm (economies) rồi tăng (diseconomies)*
+
 Tại sao chi phí giảm khi sản xuất nhiều hơn?
 
 1. **Phân bổ [[Fixed Cost]]**: Tiền thuê nhà máy 100 triệu/tháng. Sản xuất 1.000 SP → 100.000/SP. Sản xuất 10.000 SP → 10.000/SP. → Chi phí cố định trên mỗi SP giảm 10 lần!
@@ -87,6 +90,16 @@ Tại sao "lớn quá" lại tốn kém hơn?
 4. **Tinh thần nhân viên**: Nhà máy quá lớn → nhân viên cảm thấy như "bánh răng trong máy" → động lực giảm
 
 > **Đồ thị chi phí hình chữ U**: Chi phí trung bình giảm khi tăng sản lượng (Economies of Scale) → đạt điểm tối ưu ([[Best Operating Level]]) → tăng khi sản lượng tiếp tục tăng (Diseconomies of Scale).
+
+> **Biểu đồ Economies & Diseconomies of Scale:** Chi phí trung bình giảm khi tăng sản lượng, đạt điểm tối ưu, rồi tăng trở lại.
+
+```mermaid
+xychart-beta
+    title "Economies & Diseconomies of Scale"
+    x-axis "Output Volume" [100, 200, 300, 400, 500, 600, 700, 800]
+    y-axis "Average Unit Cost" 0 --> 100
+    line "Cost Curve" [90, 70, 55, 45, 42, 45, 55, 70]
+```
 
 ### Ví dụ thực tế
 Amazon xây dựng nhiều kho nhỏ phân tán thay vì một kho khổng lồ. Mỗi kho phục vụ một khu vực → giao hàng nhanh hơn, quản lý dễ hơn. Đây là ví dụ về việc tránh Diseconomies of Scale.
@@ -114,6 +127,9 @@ $$\text{Capacity Cushion} = 100\% - \text{Average Utilization Rate (\%)}$$
 
 ### Expansion Strategies (Chiến lược mở rộng)
 
+> ![Figure 5.3 - Chiến lược thời điểm mở rộng](/images/figures/ch05_fig5.3.jpg)
+> *Figure 5.3: Expansionist vs Wait-and-See strategies*
+
 Có ba chiến lược chính:
 
 1. **[[Expansionist Strategy]]** (Chiến lược mở rộng trước)
@@ -132,6 +148,18 @@ Có ba chiến lược chính:
    - Mở rộng khi đối thủ mở rộng
    - Ưu: Không bị tụt hậu
    - Nhược: Có thể tạo ra thừa công suất toàn ngành
+
+> **Sơ đồ so sánh 3 chiến lược mở rộng công suất (Capacity Timing Strategies):**
+
+```mermaid
+flowchart TB
+    subgraph Strategies["Capacity Timing Strategies"]
+        direction LR
+        EX["Expansionist<br/>🔵 Mở rộng trước nhu cầu<br/>Rủi ro: dư thừa<br/>Lợi: không mất khách"]
+        WS["Wait-and-See<br/>🟡 Chờ nhu cầu rõ ràng<br/>Rủi ro: mất khách<br/>Lợi: ít rủi ro tài chính"]
+        FL["Follow-the-Leader<br/>🟢 Theo đối thủ<br/>Cân bằng giữa 2 chiến lược"]
+    end
+```
 
 ### Ví dụ thực tế
 - **Expansionist**: TSMC đầu tư hàng tỷ USD xây nhà máy chip trước khi có đơn hàng, vì họ tin nhu cầu chip sẽ tăng. Chiến lược này giúp họ chiếm >50% thị phần chip hợp đồng.
@@ -205,6 +233,9 @@ VinFast cần mở rộng công suất:
 Ví dụ: Mô phỏng hoạt động sân bay để xác định cần bao nhiêu đường băng, quầy check-in, cổng boarding.
 
 ### Decision Trees (Cây quyết định)
+
+> ![Figure 5.7 - Cây quyết định năng lực](/images/figures/ch05_fig5.7.jpg)
+> *Figure 5.7: Decision Tree cho quyết định mở rộng năng lực*
 
 [[Decision Tree]] đặc biệt hữu ích cho quyết định công suất vì thường có nhiều giai đoạn (mở rộng bây giờ hoặc sau, quy mô lớn hay nhỏ) và nhiều kịch bản nhu cầu. Chi tiết trong [[SA - Decision Making]].
 

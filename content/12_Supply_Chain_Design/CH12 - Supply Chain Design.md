@@ -92,6 +92,9 @@ $$\text{Inventory Turnover} = \frac{2{,}600}{200} = 13 \text{ lần/năm}$$
 
 ## 3. Các lựa chọn chiến lược (Strategic Options)
 
+> ![Figure 12.2 - Chuỗi cung ứng Hiệu quả vs Đáp ứng nhanh](/images/figures/ch12_fig12.2.jpg)
+> *Figure 12.2: Efficient SC (chi phí thấp, nhu cầu ổn định) vs Responsive SC (linh hoạt, nhu cầu biến động)*
+
 ### 3.1 [[Chuỗi cung ứng hiệu quả]] (Efficient Supply Chains)
 
 **Định nghĩa**: Chuỗi cung ứng được thiết kế để **tối thiểu hóa chi phí** trên mỗi đơn vị sản phẩm. Phù hợp với sản phẩm có [[nhu cầu ổn định]] (predictable demand) và [[vòng đời sản phẩm dài]] (long product life cycle).
@@ -248,6 +251,9 @@ Việc thiết kế chuỗi cung ứng không phải là lựa chọn tuyệt đ
 - [[Hiệp định thương mại tự do]] (FTAs) giảm thuế nhập khẩu
 - Cải thiện [[cơ sở hạ tầng]] giao thông và công nghệ thông tin
 - Tiếp cận [[thị trường mới]] và [[nguồn nguyên liệu]]
+
+> ![Figure 12.5 - Tích hợp dọc](/images/figures/ch12_fig12.5.jpg)
+> *Figure 12.5: Backward Integration (nhà cung cấp) vs Forward Integration (phân phối)*
 
 ### 7.2 [[Tích hợp dọc]] (Vertical Integration)
 

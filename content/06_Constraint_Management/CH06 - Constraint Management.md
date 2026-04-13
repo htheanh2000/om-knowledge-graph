@@ -23,6 +23,9 @@ Constraint Management bổ sung cho [[Lean Systems]] và [[Six Sigma]]: Lean lo�
 
 #### Key Principles (Nguyên tắc chính)
 
+> ![Figure 6.1 - Lý thuyết ràng buộc](/images/figures/ch06_fig6.1.jpg)
+> *Figure 6.1: 5 bước tập trung của TOC*
+
 **5 bước tập trung của TOC (Five Focusing Steps):**
 
 1. **IDENTIFY** (Nhận diện): Tìm ra ràng buộc/nút thắt cổ chai ([[Bottleneck]])
@@ -127,6 +130,9 @@ Bottleneck trong sản xuất dễ nhận diện hơn:
 [[Drum-Buffer-Rope]] (DBR) là phương pháp lập lịch sản xuất dựa trên TOC, sử dụng bottleneck làm trung tâm điều phối toàn bộ hệ thống.
 
 ### Giải thích chi tiết
+
+> ![Figure 6.4 - Drum-Buffer-Rope](/images/figures/ch06_fig6.4.jpg)
+> *Figure 6.4: Phương pháp Trống-Đệm-Dây điều độ sản xuất*
 
 **Ba thành phần:**
 

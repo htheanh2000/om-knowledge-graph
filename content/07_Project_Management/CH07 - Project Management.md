@@ -83,6 +83,9 @@ WBS cho dự án "Mở nhà hàng mới":
 
 #### Giải thích chi tiết
 
+> ![Figure 7.3 - Sơ đồ mạng AON](/images/figures/ch07_fig7.3.jpg)
+> *Figure 7.3: Activity-on-Node network diagram*
+
 **Các mối quan hệ thứ tự ([[Precedence Relationship]]):**
 - **[[Finish-to-Start]] (FS)**: A phải kết thúc trước khi B bắt đầu (phổ biến nhất)
   - Ví dụ: Đổ móng (A) → Xây tường (B)
@@ -124,6 +127,9 @@ WBS cho dự án "Mở nhà hàng mới":
 [[Critical Path Method]] (CPM) là kỹ thuật xác định chuỗi hoạt động dài nhất trong dự án, quyết định thời gian hoàn thành TỐI THIỂU của dự án.
 
 #### Giải thích chi tiết
+
+> ![Figure 7.5 - Đường găng & Slack](/images/figures/ch07_fig7.5.jpg)
+> *Figure 7.5: Forward/Backward pass xác định Critical Path và Activity Slack*
 
 **[[Critical Path]]** (Đường găng) là chuỗi hoạt động liên tiếp dài nhất từ đầu đến cuối dự án. Đặc điểm:
 - Tổng thời gian trên đường găng = thời gian hoàn thành dự án
@@ -216,6 +222,9 @@ $$\text{Slack} = LS - ES = LF - EF$$
 [[Crashing]] là kỹ thuật rút ngắn thời gian dự án bằng cách bổ sung nguồn lực (thêm người, làm thêm giờ, thuê ngoài) vào các hoạt động, với chi phí tăng thêm.
 
 ### Giải thích chi tiết
+
+> ![Figure 7.7 - Đánh đổi Chi phí-Thời gian](/images/figures/ch07_fig7.7.jpg)
+> *Figure 7.7: Crashing - tăng chi phí để rút ngắn thời gian dự án*
 
 **Các khái niệm:**
 - **[[Normal Time]]**: Thời gian hoàn thành bình thường

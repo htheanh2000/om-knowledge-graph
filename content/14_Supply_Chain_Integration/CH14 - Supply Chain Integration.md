@@ -66,6 +66,9 @@ Khách hàng không mua được sản phẩm
 
 ## 2. [[Chuỗi cung ứng tích hợp]] (Integrated Supply Chains)
 
+> ![Figure 14.3 - Chuỗi cung ứng tích hợp](/images/figures/ch14_fig14.3.jpg)
+> *Figure 14.3: Tích hợp nội bộ + bên ngoài để đồng bộ thông tin & vật liệu*
+
 ### Định nghĩa (Definition)
 [[Chuỗi cung ứng tích hợp]] là chuỗi cung ứng trong đó tất cả các thành viên chia sẻ thông tin, phối hợp quyết định, và cùng hướng đến mục tiêu chung — tối đa hóa giá trị cho [[khách hàng cuối cùng]] (end customer).
 
@@ -103,6 +106,9 @@ Khách hàng không mua được sản phẩm
 ---
 
 ## 3. [[Hiệu ứng Bullwhip]] (Bullwhip Effect / Hiệu ứng roi da)
+
+> ![Figure 14.2 - Hiệu ứng roi da](/images/figures/ch14_fig14.2.jpg)
+> *Figure 14.2: Bullwhip Effect - biến động nhu cầu khuếch đại khi đi ngược chuỗi cung ứng*
 
 ### Định nghĩa (Definition)
 [[Hiệu ứng Bullwhip]] (tiếng Việt: **hiệu ứng roi da** hay **hiệu ứng cái roi**) là hiện tượng mà **sự biến động của đơn đặt hàng ngày càng tăng** khi di chuyển ngược lên chuỗi cung ứng, từ [[khách hàng]] → [[nhà bán lẻ]] → [[nhà phân phối]] → [[nhà sản xuất]] → [[nhà cung cấp nguyên liệu]].
@@ -226,6 +232,9 @@ Rủi ro liên quan đến hoạt động hàng ngày của chuỗi cung ứng:
 - **Khả năng mở rộng** (Scalability): Tăng/giảm tài nguyên IT linh hoạt theo mùa kinh doanh
 
 ### 5.2 [[Blockchain]]
+
+> ![Figure 14.6 - Blockchain trong chuỗi cung ứng](/images/figures/ch14_fig14.6.jpg)
+> *Figure 14.6: Blockchain tăng tính minh bạch và truy xuất nguồn gốc*
 
 **Định nghĩa**: Công nghệ sổ cái phân tán (distributed ledger) lưu trữ giao dịch theo các khối (blocks) được liên kết bằng mật mã, không thể sửa đổi hoặc xóa.
 

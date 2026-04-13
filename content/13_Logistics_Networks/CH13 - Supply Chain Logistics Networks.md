@@ -117,6 +117,9 @@ $$ld_{P2} = 10(3.16) + 20(3.16) + 15(4.24) = 31.6 + 63.2 + 63.6 = 158.4$$
 
 **Kết luận**: Chọn P2 vì có điểm tải-khoảng cách thấp hơn (158.4 < 169.8).
 
+> ![Figure 13.2 - Phương pháp trọng tâm](/images/figures/ch13_fig13.2.jpg)
+> *Figure 13.2: Center of Gravity - tìm vị trí tối ưu dựa trên tọa độ và tải trọng*
+
 ### 2.3 [[Trọng tâm]] (Center of Gravity)
 
 **Định nghĩa**: Phương pháp tìm vị trí "tối ưu" ban đầu bằng cách tính trung bình có trọng số của tọa độ các điểm, với trọng số là load.
@@ -190,6 +193,9 @@ $$Q^* = \frac{2{,}500 - 2{,}000}{150 - 120} = \frac{500}{30} = 16{,}667 \text{ s
 ---
 
 ## 4. [[Phương pháp vận tải]] (Transportation Method)
+
+> ![Figure 13.5 - Bảng vận tải](/images/figures/ch13_fig13.5.jpg)
+> *Figure 13.5: Transportation Tableau - phân bổ vận chuyển từ nguồn đến đích*
 
 ### Định nghĩa (Definition)
 [[Phương pháp vận tải]] là kỹ thuật [[quy hoạch tuyến tính]] (Linear Programming) đặc biệt, dùng để tìm phương án vận chuyển tối ưu (chi phí thấp nhất) từ nhiều [[nguồn cung]] (plants/warehouses) đến nhiều [[điểm cầu]] (warehouses/customers).

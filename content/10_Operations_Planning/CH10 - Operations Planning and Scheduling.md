@@ -16,6 +16,9 @@ Hãy tưởng tượng một kim tự tháp kế hoạch: trên cùng là [[S&OP
 
 ## Levels in Operations Planning (Các cấp trong lập kế hoạch vận hành)
 
+> ![Figure 10.1 - Phân cấp hoạch định](/images/figures/ch10_fig10.1.jpg)
+> *Figure 10.1: 3 cấp: S&OP (dài hạn) → Resource Planning (trung hạn) → Scheduling (ngắn hạn)*
+
 ### Định nghĩa (Definition)
 Hệ thống lập kế hoạch vận hành được tổ chức thành nhiều cấp, từ dài hạn/tổng quát đến ngắn hạn/chi tiết.
 
@@ -107,6 +110,9 @@ Hệ thống lập kế hoạch vận hành được tổ chức thành nhiều 
 Hai chiến lược cực đoan trong [[S&OP - Sales and Operations Planning]]: [[Chase Strategy]] và [[Level Strategy]]. Thực tế, hầu hết doanh nghiệp dùng [[Mixed Strategy]] kết hợp cả hai.
 
 ### Giải thích chi tiết (Detailed Explanation)
+
+> ![Figure 10.3 - Chase vs Level Strategy](/images/figures/ch10_fig10.3.jpg)
+> *Figure 10.3: So sánh Chase (thay đổi sản lượng theo nhu cầu) vs Level (giữ ổn định)*
 
 #### [[Chase Strategy]] (Chiến lược đuổi theo / Chiến lược theo sát nhu cầu)
 

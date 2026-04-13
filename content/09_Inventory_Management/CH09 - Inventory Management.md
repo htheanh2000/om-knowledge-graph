@@ -136,6 +136,9 @@ Các chiến thuật cụ thể để giảm từng loại tồn kho mà không 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+> ![Figure 9.3 - Phân tích ABC](/images/figures/ch09_fig9.3.jpg)
+> *Figure 9.3: Đường cong ABC - 20% SKU chiếm 80% giá trị (Pareto)*
+
 | Nhóm | % SKU | % Giá trị | Cách quản lý |
 |-------|-------|-----------|--------------|
 | **A** | ~20% | ~80% | Kiểm soát chặt chẽ, dự báo thường xuyên, [[Continuous Review System (Q System)]], đàm phán nhà cung cấp kỹ |
@@ -183,6 +186,9 @@ Chuỗi nhà thuốc Long Châu quản lý hàng nghìn SKU. Thuốc đặc tr�
 4. Chỉ có 2 loại chi phí: [[Holding Cost]] và [[Ordering Cost]]
 5. Không có [[Stockout]] (không hết hàng)
 6. [[Lead Time]] không đổi
+
+> ![Figure 9.5 - Đồ thị chi phí EOQ](/images/figures/ch09_fig9.5.jpg)
+> *Figure 9.5: 3 đường cong: Holding Cost (tăng), Ordering Cost (giảm), Total Cost (hình chữ U) - EOQ tại điểm cắt*
 
 #### Derivation (Suy ra công thức):
 
@@ -249,6 +255,9 @@ Chú ý: Holding = Ordering tại điểm tối ưu!
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+> ![Figure 9.6 - Hệ thống Q](/images/figures/ch09_fig9.6.jpg)
+> *Figure 9.6: Q System - đặt hàng cố định Q khi tồn kho chạm Reorder Point R*
+
 #### Hoạt động:
 - Theo dõi tồn kho liên tục (mỗi khi có giao dịch xuất/nhập)
 - Khi Inventory Position ≤ R → đặt hàng Q đơn vị
@@ -311,6 +320,9 @@ $$\sigma_{dLT} = \sqrt{L\sigma_d^2 + \bar{d}^2\sigma_{LT}^2}$$
 [[Periodic Review System (P System)]] (hay [[Fixed-Interval Reorder System]]) kiểm tra tồn kho theo **chu kỳ cố định** (P), và đặt hàng đủ để nâng tồn kho lên mức mục tiêu [[Target Inventory Level]] (T). Mỗi lần đặt hàng số lượng **khác nhau**.
 
 ### Giải thích chi tiết (Detailed Explanation)
+
+> ![Figure 9.9 - Hệ thống P](/images/figures/ch09_fig9.9.jpg)
+> *Figure 9.9: P System - kiểm tra định kỳ P, đặt hàng đến Target Inventory Level T*
 
 #### Hoạt động:
 - Mỗi P ngày/tuần, kiểm tra tồn kho

@@ -117,6 +117,9 @@ Toyota Việt Nam có MPS cho Vios: tuần 15 sản xuất 200 chiếc Vios 1.5G
 
 ## Bill of Materials (BOM)
 
+> ![Figure 11.10 - Cây BOM](/images/figures/ch11_fig11.10.jpg)
+> *Figure 11.10: Bill of Materials tree - cấu trúc sản phẩm từ thành phẩm → linh kiện*
+
 ### Định nghĩa (Definition)
 [[Bill of Materials (BOM)]] (Bảng kê vật liệu / Cấu trúc sản phẩm) liệt kê **tất cả** linh kiện, bộ phận, và nguyên vật liệu cần thiết để sản xuất **một đơn vị** sản phẩm cuối, cùng với số lượng mỗi loại.
 
@@ -209,6 +212,9 @@ Level 0: Trà sữa trân châu đường nâu (1 ly)
 ---
 
 ## Inventory Record (Bản ghi tồn kho)
+
+> ![Figure 11.12 - Bản ghi tồn kho MRP](/images/figures/ch11_fig11.12.jpg)
+> *Figure 11.12: MRP Inventory Record - Gross Requirements, Scheduled Receipts, Projected On-Hand, Planned Order Releases*
 
 ### Định nghĩa (Definition)
 [[Inventory Record]] (MRP Record / MRP Grid) là bảng tính chi tiết cho MỖI item, theo dõi tình trạng tồn kho và nhu cầu theo tuần.
@@ -350,6 +356,9 @@ Hệ thống MRP của nhà máy VinFast phát thông báo: "Expedite đơn hàn
 ---
 
 ## Enterprise Resource Planning (ERP)
+
+> ![Figure 11.14 - Hệ thống ERP](/images/figures/ch11_fig11.14.jpg)
+> *Figure 11.14: Các module ERP tích hợp: Finance, HR, Manufacturing, SCM, CRM*
 
 ### Định nghĩa (Definition)
 [[Enterprise Resource Planning (ERP)]] là hệ thống phần mềm **tích hợp toàn diện** quản lý TẤT CẢ quy trình kinh doanh trong một tổ chức trên **một cơ sở dữ liệu duy nhất**. ERP phát triển từ MRP → MRP II → ERP.
