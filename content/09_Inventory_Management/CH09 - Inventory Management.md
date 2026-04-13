@@ -136,8 +136,6 @@ Các chiến thuật cụ thể để giảm từng loại tồn kho mà không 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
-> ![Figure 9.3 - Phân tích ABC](/images/figures/ch09_fig9.3.jpg)
-> *Figure 9.3: Đường cong ABC - 20% SKU chiếm 80% giá trị (Pareto)*
 
 | Nhóm | % SKU | % Giá trị | Cách quản lý |
 |-------|-------|-----------|--------------|
@@ -187,8 +185,6 @@ Chuỗi nhà thuốc Long Châu quản lý hàng nghìn SKU. Thuốc đặc tr�
 5. Không có [[Stockout]] (không hết hàng)
 6. [[Lead Time]] không đổi
 
-> ![Figure 9.5 - Đồ thị chi phí EOQ](/images/figures/ch09_fig9.5.jpg)
-> *Figure 9.5: 3 đường cong: Holding Cost (tăng), Ordering Cost (giảm), Total Cost (hình chữ U) - EOQ tại điểm cắt*
 
 #### Derivation (Suy ra công thức):
 
@@ -255,8 +251,6 @@ Chú ý: Holding = Ordering tại điểm tối ưu!
 
 ### Giải thích chi tiết (Detailed Explanation)
 
-> ![Figure 9.6 - Hệ thống Q](/images/figures/ch09_fig9.6.jpg)
-> *Figure 9.6: Q System - đặt hàng cố định Q khi tồn kho chạm Reorder Point R*
 
 #### Hoạt động:
 - Theo dõi tồn kho liên tục (mỗi khi có giao dịch xuất/nhập)
@@ -321,8 +315,6 @@ $$\sigma_{dLT} = \sqrt{L\sigma_d^2 + \bar{d}^2\sigma_{LT}^2}$$
 
 ### Giải thích chi tiết (Detailed Explanation)
 
-> ![Figure 9.9 - Hệ thống P](/images/figures/ch09_fig9.9.jpg)
-> *Figure 9.9: P System - kiểm tra định kỳ P, đặt hàng đến Target Inventory Level T*
 
 #### Hoạt động:
 - Mỗi P ngày/tuần, kiểm tra tồn kho
@@ -425,3 +417,53 @@ Chuỗi cửa hàng Circle K:
 - [[Quantity Discounts]] - Chiết khấu số lượng
 - [[Lot Size]] - Kích thước lô
 - [[Demand Variability]] - Độ biến thiên nhu cầu
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 9.1](/images/figures/ch09_fig9.1.jpg)
+> *Figure 9.1*
+
+![Figure 9.10](/images/figures/ch09_fig9.10.jpg)
+> *Figure 9.10*
+
+![Figure 9.11](/images/figures/ch09_fig9.11.jpg)
+> *Figure 9.11*
+
+![Figure 9.12](/images/figures/ch09_fig9.12.jpg)
+> *Figure 9.12*
+
+![Figure 9.13](/images/figures/ch09_fig9.13.jpg)
+> *Figure 9.13*
+
+![Figure 9.14](/images/figures/ch09_fig9.14.jpg)
+> *Figure 9.14*
+
+![Figure 9.15](/images/figures/ch09_fig9.15.jpg)
+> *Figure 9.15*
+
+![Figure 9.2](/images/figures/ch09_fig9.2.jpg)
+> *Figure 9.2*
+
+![Figure 9.3](/images/figures/ch09_fig9.3.jpg)
+> *Figure 9.3*
+
+![Figure 9.4](/images/figures/ch09_fig9.4.jpg)
+> *Figure 9.4*
+
+![Figure 9.5](/images/figures/ch09_fig9.5.jpg)
+> *Figure 9.5*
+
+![Figure 9.6](/images/figures/ch09_fig9.6.jpg)
+> *Figure 9.6*
+
+![Figure 9.7](/images/figures/ch09_fig9.7.jpg)
+> *Figure 9.7*
+
+![Figure 9.8](/images/figures/ch09_fig9.8.jpg)
+> *Figure 9.8*
+
+![Figure 9.9](/images/figures/ch09_fig9.9.jpg)
+> *Figure 9.9*
+

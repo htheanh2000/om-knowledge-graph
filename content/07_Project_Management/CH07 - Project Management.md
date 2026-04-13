@@ -83,8 +83,6 @@ WBS cho dự án "Mở nhà hàng mới":
 
 #### Giải thích chi tiết
 
-> ![Figure 7.3 - Sơ đồ mạng AON](/images/figures/ch07_fig7.3.jpg)
-> *Figure 7.3: Activity-on-Node network diagram*
 
 **Các mối quan hệ thứ tự ([[Precedence Relationship]]):**
 - **[[Finish-to-Start]] (FS)**: A phải kết thúc trước khi B bắt đầu (phổ biến nhất)
@@ -128,8 +126,6 @@ WBS cho dự án "Mở nhà hàng mới":
 
 #### Giải thích chi tiết
 
-> ![Figure 7.5 - Đường găng & Slack](/images/figures/ch07_fig7.5.jpg)
-> *Figure 7.5: Forward/Backward pass xác định Critical Path và Activity Slack*
 
 **[[Critical Path]]** (Đường găng) là chuỗi hoạt động liên tiếp dài nhất từ đầu đến cuối dự án. Đặc điểm:
 - Tổng thời gian trên đường găng = thời gian hoàn thành dự án
@@ -223,8 +219,6 @@ $$\text{Slack} = LS - ES = LF - EF$$
 
 ### Giải thích chi tiết
 
-> ![Figure 7.7 - Đánh đổi Chi phí-Thời gian](/images/figures/ch07_fig7.7.jpg)
-> *Figure 7.7: Crashing - tăng chi phí để rút ngắn thời gian dự án*
 
 **Các khái niệm:**
 - **[[Normal Time]]**: Thời gian hoàn thành bình thường
@@ -460,3 +454,47 @@ Dự án xây nhà kế hoạch 100 ngày, ngân sách 1 tỷ VNĐ. Sau 50 ngày
 ---
 
 > **Ghi chú ôn tập**: Chương 7 đòi hỏi THỰC HÀNH nhiều. Hãy luyện tập: (1) Vẽ AON diagram, (2) Tính Forward Pass và Backward Pass để tìm Critical Path, (3) Tính Crashing, (4) Tính PERT. Sử dụng [[Decision Tree]] từ [[SA - Decision Making]] khi có yếu tố không chắc chắn trong dự án.
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 7.1](/images/figures/ch07_fig7.1.jpg)
+> *Figure 7.1*
+
+![Figure 7.10](/images/figures/ch07_fig7.10.jpg)
+> *Figure 7.10*
+
+![Figure 7.11](/images/figures/ch07_fig7.11.jpg)
+> *Figure 7.11*
+
+![Figure 7.12](/images/figures/ch07_fig7.12.jpg)
+> *Figure 7.12*
+
+![Figure 7.13](/images/figures/ch07_fig7.13.jpg)
+> *Figure 7.13*
+
+![Figure 7.2](/images/figures/ch07_fig7.2.jpg)
+> *Figure 7.2*
+
+![Figure 7.3](/images/figures/ch07_fig7.3.jpg)
+> *Figure 7.3*
+
+![Figure 7.4](/images/figures/ch07_fig7.4.jpg)
+> *Figure 7.4*
+
+![Figure 7.5](/images/figures/ch07_fig7.5.jpg)
+> *Figure 7.5*
+
+![Figure 7.6](/images/figures/ch07_fig7.6.jpg)
+> *Figure 7.6*
+
+![Figure 7.7](/images/figures/ch07_fig7.7.jpg)
+> *Figure 7.7*
+
+![Figure 7.8](/images/figures/ch07_fig7.8.jpg)
+> *Figure 7.8*
+
+![Figure 7.9](/images/figures/ch07_fig7.9.jpg)
+> *Figure 7.9*
+

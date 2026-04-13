@@ -23,8 +23,6 @@ Hiểu chương này giúp bạn biết cách phân tích bất kỳ quy trình 
 
 #### Giải thích chi tiết
 
-> ![Figure 2.1 - Ma trận tiếp xúc khách hàng](/images/figures/ch02_fig2.1.jpg)
-> *Figure 2.1: Front Office (nhiều tiếp xúc) → Hybrid → Back Office (ít tiếp xúc)*
 
 Ma trận có hai trục:
 - **Trục dọc**: Mức độ tiếp xúc khách hàng và tùy chỉnh (từ thấp đến cao)
@@ -75,8 +73,6 @@ Ngân hàng Vietcombank:
 
 #### Giải thích chi tiết
 
-> ![Figure 2.2 - Ma trận Sản phẩm-Quy trình](/images/figures/ch02_fig2.2.jpg)
-> *Figure 2.2: Job → Batch → Line → Continuous Flow (tăng dần volume, giảm dần variety)*
 
 Năm loại quy trình sản xuất (từ tùy chỉnh cao/sản lượng thấp đến chuẩn hóa/sản lượng cao):
 
@@ -129,8 +125,6 @@ Năm loại quy trình sản xuất (từ tùy chỉnh cao/sản lượng thấp
 
 ## Process Strategy Decisions (Quyết định chiến lược quy trình)
 
-> ![Figure 2.3 - Chiến lược quy trình](/images/figures/ch02_fig2.3.jpg)
-> *Figure 2.3: Các quyết định chiến lược quy trình*
 
 ### Customer Involvement (Sự tham gia của khách hàng)
 
@@ -263,8 +257,6 @@ Ví dụ: Ford Motor phát hiện phòng kế toán thanh toán có 500 nhân vi
 
 #### Giải thích chi tiết
 
-> ![Figure 2.5 - Ví dụ Flowchart](/images/figures/ch02_fig2.5.jpg)
-> *Figure 2.5: Ví dụ lưu đồ quy trình với các ký hiệu chuẩn*
 
 Các ký hiệu cơ bản:
 - **Hình chữ nhật** (□): Hoạt động / Bước xử lý
@@ -368,3 +360,71 @@ Các công cụ phổ biến để phân tích quy trình:
 ---
 
 > **Ghi chú ôn tập**: Chương 2 là chương kết nối. Customer-Contact Matrix và Product-Process Matrix sẽ giúp bạn hiểu tại sao các chương sau ([[CH03 - Quality and Performance]], [[CH04 - Lean Systems]]) lại quan trọng. Hãy chắc chắn vẽ được cả hai ma trận từ trí nhớ!
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 2.1](/images/figures/ch02_fig2.1.jpg)
+> *Figure 2.1*
+
+![Figure 2.10](/images/figures/ch02_fig2.10.jpg)
+> *Figure 2.10*
+
+![Figure 2.11](/images/figures/ch02_fig2.11.jpg)
+> *Figure 2.11*
+
+![Figure 2.12](/images/figures/ch02_fig2.12.jpg)
+> *Figure 2.12*
+
+![Figure 2.13](/images/figures/ch02_fig2.13.jpg)
+> *Figure 2.13*
+
+![Figure 2.14](/images/figures/ch02_fig2.14.jpg)
+> *Figure 2.14*
+
+![Figure 2.15](/images/figures/ch02_fig2.15.jpg)
+> *Figure 2.15*
+
+![Figure 2.16](/images/figures/ch02_fig2.16.jpg)
+> *Figure 2.16*
+
+![Figure 2.17](/images/figures/ch02_fig2.17.jpg)
+> *Figure 2.17*
+
+![Figure 2.18](/images/figures/ch02_fig2.18.jpg)
+> *Figure 2.18*
+
+![Figure 2.19](/images/figures/ch02_fig2.19.jpg)
+> *Figure 2.19*
+
+![Figure 2.2](/images/figures/ch02_fig2.2.jpg)
+> *Figure 2.2*
+
+![Figure 2.20](/images/figures/ch02_fig2.20.jpg)
+> *Figure 2.20*
+
+![Figure 2.21](/images/figures/ch02_fig2.21.jpg)
+> *Figure 2.21*
+
+![Figure 2.3](/images/figures/ch02_fig2.3.jpg)
+> *Figure 2.3*
+
+![Figure 2.4](/images/figures/ch02_fig2.4.jpg)
+> *Figure 2.4*
+
+![Figure 2.5](/images/figures/ch02_fig2.5.jpg)
+> *Figure 2.5*
+
+![Figure 2.6](/images/figures/ch02_fig2.6.jpg)
+> *Figure 2.6*
+
+![Figure 2.7](/images/figures/ch02_fig2.7.jpg)
+> *Figure 2.7*
+
+![Figure 2.8](/images/figures/ch02_fig2.8.jpg)
+> *Figure 2.8*
+
+![Figure 2.9](/images/figures/ch02_fig2.9.jpg)
+> *Figure 2.9*
+

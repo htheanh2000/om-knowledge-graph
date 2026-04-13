@@ -16,8 +16,6 @@ Hãy tưởng tượng một kim tự tháp kế hoạch: trên cùng là [[S&OP
 
 ## Levels in Operations Planning (Các cấp trong lập kế hoạch vận hành)
 
-> ![Figure 10.1 - Phân cấp hoạch định](/images/figures/ch10_fig10.1.jpg)
-> *Figure 10.1: 3 cấp: S&OP (dài hạn) → Resource Planning (trung hạn) → Scheduling (ngắn hạn)*
 
 ### Định nghĩa (Definition)
 Hệ thống lập kế hoạch vận hành được tổ chức thành nhiều cấp, từ dài hạn/tổng quát đến ngắn hạn/chi tiết.
@@ -111,8 +109,6 @@ Hai chiến lược cực đoan trong [[S&OP - Sales and Operations Planning]]: 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
-> ![Figure 10.3 - Chase vs Level Strategy](/images/figures/ch10_fig10.3.jpg)
-> *Figure 10.3: So sánh Chase (thay đổi sản lượng theo nhu cầu) vs Level (giữ ổn định)*
 
 #### [[Chase Strategy]] (Chiến lược đuổi theo / Chiến lược theo sát nhu cầu)
 
@@ -457,3 +453,41 @@ Khi n job phải qua máy 1 rồi máy 2:
 - [[Makespan]] - Thời gian hoàn thành tổng
 - [[Tardiness]] - Trễ hạn
 - [[Gantt Chart]] - Biểu đồ Gantt
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 10.1](/images/figures/ch10_fig10.1.jpg)
+> *Figure 10.1*
+
+![Figure 10.10](/images/figures/ch10_fig10.10.jpg)
+> *Figure 10.10*
+
+![Figure 10.11](/images/figures/ch10_fig10.11.jpg)
+> *Figure 10.11*
+
+![Figure 10.2](/images/figures/ch10_fig10.2.jpg)
+> *Figure 10.2*
+
+![Figure 10.3](/images/figures/ch10_fig10.3.jpg)
+> *Figure 10.3*
+
+![Figure 10.4](/images/figures/ch10_fig10.4.jpg)
+> *Figure 10.4*
+
+![Figure 10.5](/images/figures/ch10_fig10.5.jpg)
+> *Figure 10.5*
+
+![Figure 10.6](/images/figures/ch10_fig10.6.jpg)
+> *Figure 10.6*
+
+![Figure 10.7](/images/figures/ch10_fig10.7.jpg)
+> *Figure 10.7*
+
+![Figure 10.8](/images/figures/ch10_fig10.8.jpg)
+> *Figure 10.8*
+
+![Figure 10.9](/images/figures/ch10_fig10.9.jpg)
+> *Figure 10.9*
+

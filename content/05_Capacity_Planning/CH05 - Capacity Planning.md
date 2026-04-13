@@ -63,8 +63,6 @@ Phòng gym có công suất 200 người/lúc. Giờ cao điểm (5-8pm) có 190
 [[Economies of Scale]] là hiện tượng chi phí trung bình trên mỗi đơn vị sản phẩm GIẢM khi sản lượng TĂNG.
 
 #### Giải thích chi tiết
-> ![Figure 5.1 - Kinh tế quy mô](/images/figures/ch05_fig5.1.jpg)
-> *Figure 5.1: Đường cong chi phí trung bình - giảm (economies) rồi tăng (diseconomies)*
 
 Tại sao chi phí giảm khi sản xuất nhiều hơn?
 
@@ -118,8 +116,6 @@ $$\text{Capacity Cushion} = 100\% - \text{Average Utilization Rate (\%)}$$
 
 ### Expansion Strategies (Chiến lược mở rộng)
 
-> ![Figure 5.3 - Chiến lược thời điểm mở rộng](/images/figures/ch05_fig5.3.jpg)
-> *Figure 5.3: Expansionist vs Wait-and-See strategies*
 
 Có ba chiến lược chính:
 
@@ -214,8 +210,6 @@ Ví dụ: Mô phỏng hoạt động sân bay để xác định cần bao nhiê
 
 ### Decision Trees (Cây quyết định)
 
-> ![Figure 5.7 - Cây quyết định năng lực](/images/figures/ch05_fig5.7.jpg)
-> *Figure 5.7: Decision Tree cho quyết định mở rộng năng lực*
 
 [[Decision Tree]] đặc biệt hữu ích cho quyết định công suất vì thường có nhiều giai đoạn (mở rộng bây giờ hoặc sau, quy mô lớn hay nhỏ) và nhiều kịch bản nhu cầu. Chi tiết trong [[SA - Decision Making]].
 
@@ -262,3 +256,23 @@ Ví dụ: Mô phỏng hoạt động sân bay để xác định cần bao nhiê
 ---
 
 > **Ghi chú ôn tập**: Chương 5 kết nối với nhiều chương khác: [[SA - Decision Making]] (Break-Even, Decision Tree), [[SB - Waiting Lines]] (Waiting-Line Models), [[CH06 - Constraint Management]] (Bottleneck). Hãy nhớ: Utilization 100% KHÔNG phải mục tiêu, và luôn xem xét cả Economies lẫn Diseconomies of Scale!
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 5.1](/images/figures/ch05_fig5.1.jpg)
+> *Figure 5.1*
+
+![Figure 5.2](/images/figures/ch05_fig5.2.jpg)
+> *Figure 5.2*
+
+![Figure 5.3](/images/figures/ch05_fig5.3.jpg)
+> *Figure 5.3*
+
+![Figure 5.4](/images/figures/ch05_fig5.4.jpg)
+> *Figure 5.4*
+
+![Figure 5.5](/images/figures/ch05_fig5.5.jpg)
+> *Figure 5.5*
+

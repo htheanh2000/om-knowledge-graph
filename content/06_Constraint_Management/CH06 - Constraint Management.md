@@ -23,8 +23,6 @@ Constraint Management bổ sung cho [[Lean Systems]] và [[Six Sigma]]: Lean lo�
 
 #### Key Principles (Nguyên tắc chính)
 
-> ![Figure 6.1 - Lý thuyết ràng buộc](/images/figures/ch06_fig6.1.jpg)
-> *Figure 6.1: 5 bước tập trung của TOC*
 
 **5 bước tập trung của TOC (Five Focusing Steps):**
 
@@ -131,8 +129,6 @@ Bottleneck trong sản xuất dễ nhận diện hơn:
 
 ### Giải thích chi tiết
 
-> ![Figure 6.4 - Drum-Buffer-Rope](/images/figures/ch06_fig6.4.jpg)
-> *Figure 6.4: Phương pháp Trống-Đệm-Dây điều độ sản xuất*
 
 **Ba thành phần:**
 
@@ -322,3 +318,68 @@ Nếu thực tế cần 5 trạm: Efficiency = 8/(5×2) = 80% → 20% thời gia
 ---
 
 > **Ghi chú ôn tập**: TOC là triết lý bổ sung cho [[Lean Systems]] và [[Six Sigma]]. Nhớ 5 bước tập trung (Identify → Exploit → Subordinate → Elevate → Repeat), nguyên tắc Product Mix theo TOC (throughput per bottleneck minute), và công thức Line Balancing. Chương này liên kết chặt với [[CH05 - Capacity Planning]] và [[CH04 - Lean Systems]].
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 6.1](/images/figures/ch06_fig6.1.jpg)
+> *Figure 6.1*
+
+![Figure 6.10](/images/figures/ch06_fig6.10.jpg)
+> *Figure 6.10*
+
+![Figure 6.11](/images/figures/ch06_fig6.11.jpg)
+> *Figure 6.11*
+
+![Figure 6.12](/images/figures/ch06_fig6.12.jpg)
+> *Figure 6.12*
+
+![Figure 6.13](/images/figures/ch06_fig6.13.jpg)
+> *Figure 6.13*
+
+![Figure 6.14](/images/figures/ch06_fig6.14.jpg)
+> *Figure 6.14*
+
+![Figure 6.15](/images/figures/ch06_fig6.15.jpg)
+> *Figure 6.15*
+
+![Figure 6.16](/images/figures/ch06_fig6.16.jpg)
+> *Figure 6.16*
+
+![Figure 6.17](/images/figures/ch06_fig6.17.jpg)
+> *Figure 6.17*
+
+![Figure 6.18](/images/figures/ch06_fig6.18.jpg)
+> *Figure 6.18*
+
+![Figure 6.19](/images/figures/ch06_fig6.19.jpg)
+> *Figure 6.19*
+
+![Figure 6.2](/images/figures/ch06_fig6.2.jpg)
+> *Figure 6.2*
+
+![Figure 6.20](/images/figures/ch06_fig6.20.jpg)
+> *Figure 6.20*
+
+![Figure 6.3](/images/figures/ch06_fig6.3.jpg)
+> *Figure 6.3*
+
+![Figure 6.4](/images/figures/ch06_fig6.4.jpg)
+> *Figure 6.4*
+
+![Figure 6.5](/images/figures/ch06_fig6.5.jpg)
+> *Figure 6.5*
+
+![Figure 6.6](/images/figures/ch06_fig6.6.jpg)
+> *Figure 6.6*
+
+![Figure 6.7](/images/figures/ch06_fig6.7.jpg)
+> *Figure 6.7*
+
+![Figure 6.8](/images/figures/ch06_fig6.8.jpg)
+> *Figure 6.8*
+
+![Figure 6.9](/images/figures/ch06_fig6.9.jpg)
+> *Figure 6.9*
+

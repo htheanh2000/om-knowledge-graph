@@ -16,8 +16,6 @@ Chương bao gồm các chủ đề: logistics ngược (reverse logistics), hi�
 
 ## 1. Ba yếu tố của phát triển bền vững chuỗi cung ứng (Three Elements / [[Triple Bottom Line]])
 
-> ![Figure 15.1 - Ba trụ cột bền vững](/images/figures/ch15_fig15.1.jpg)
-> *Figure 15.1: Triple Bottom Line - People (xã hội), Planet (môi trường), Profit (kinh tế)*
 
 ### Định nghĩa (Definition)
 [[Triple Bottom Line]] (TBL hay 3P) là khung đánh giá hiệu suất doanh nghiệp trên ba khía cạnh: **People** (Con người), **Planet** (Hành tinh), **Profit** (Lợi nhuận) — thay vì chỉ đo bằng lợi nhuận tài chính.
@@ -90,8 +88,6 @@ Chuỗi cung ứng bền vững nằm ở giao điểm cân bằng cả ba yếu
 
 ## 2. **[[Reverse Logistics]]** (Logistics ngược)
 
-> ![Figure 15.3 - Logistics ngược](/images/figures/ch15_fig15.3.jpg)
-> *Figure 15.3: Reverse Logistics flow - thu hồi, tái chế, xử lý sản phẩm cuối vòng đời*
 
 ### Định nghĩa (Definition)
 **[[Reverse Logistics]]** (Logistics ngược) là quá trình di chuyển hàng hóa từ điểm tiêu dùng quay ngược lại điểm sản xuất hoặc điểm xử lý — bao gồm trả hàng, tái chế, tân trang, và xử lý rác thải.
@@ -429,3 +425,20 @@ Chương này tập trung vào khung khái niệm hơn là công thức toán h�
 ---
 
 > **Xem thêm**: [[CH12 - Supply Chain Design]] | [[CH13 - Supply Chain Logistics Networks]] | [[CH14 - Supply Chain Integration]]
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 15.1](/images/figures/ch15_fig15.1.jpg)
+> *Figure 15.1*
+
+![Figure 15.2](/images/figures/ch15_fig15.2.jpg)
+> *Figure 15.2*
+
+![Figure 15.3](/images/figures/ch15_fig15.3.jpg)
+> *Figure 15.3*
+
+![Figure 15.4](/images/figures/ch15_fig15.4.jpg)
+> *Figure 15.4*
+

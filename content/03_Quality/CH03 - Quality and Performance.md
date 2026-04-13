@@ -75,8 +75,6 @@ Samsung Galaxy Note 7 (2016): Chi phí lỗi bên ngoài khổng lồ - thu hồ
 
 ### Giải thích chi tiết
 
-> ![Figure 3.2 - TQM và Six Sigma](/images/figures/ch03_fig3.2.jpg)
-> *Figure 3.2: Bánh xe TQM - các nguyên tắc quản lý chất lượng toàn diện*
 
 **Ba nguyên tắc cốt lõi:**
 
@@ -218,8 +216,6 @@ Quy trình chỉ có Common Cause Variation gọi là [[In Statistical Control]]
 Thông thường: $UCL = \bar{x} + 3\sigma$ và $LCL = \bar{x} - 3\sigma$ (giới hạn 3-sigma)
 
 
-> ![Figure 3.4 - Biểu đồ kiểm soát](/images/figures/ch03_fig3.4.jpg)
-> *Figure 3.4: Các mẫu bất thường trên Control Chart (trend, shift, cycle)*
 
 **Quy tắc phát hiện bất thường:**
 - Điểm nằm ngoài UCL hoặc LCL
@@ -234,8 +230,6 @@ Thông thường: $UCL = \bar{x} + 3\sigma$ và $LCL = \bar{x} - 3\sigma$ (giớ
 | Ví dụ | Trọng lượng, chiều dài, nhiệt độ | Số lỗi, tỷ lệ hỏng, đạt/không đạt |
 | Biểu đồ | [[X-bar Chart]] + [[R Chart]] (hoặc [[S Chart]]) | [[p Chart]], [[c Chart]], [[np Chart]] |
 
-> ![Figure 3.5 - X-bar và R Chart](/images/figures/ch03_fig3.5.jpg)
-> *Figure 3.5: Biểu đồ X-bar (trung bình) và R (range) theo dõi biến số*
 
 **[[X-bar Chart]]** (Biểu đồ X-bar): Theo dõi giá trị TRUNG BÌNH của mẫu
 $$UCL_{\bar{x}} = \bar{\bar{x}} + A_2 \bar{R}$$
@@ -273,8 +267,6 @@ Nhà máy sản xuất chai nước suối kiểm tra dung tích. Mỗi giờ l�
 
 ### Giải thích chi tiết
 
-> ![Figure 3.8 - Năng lực quy trình](/images/figures/ch03_fig3.8.jpg)
-> *Figure 3.8: Process Capability - so sánh biến động quy trình với specification limits*
 
 > **Phân biệt quan trọng:**
 > - [[Control Limits]] (UCL, LCL): Do QUY TRÌNH quyết định - "Quy trình đang làm gì"
@@ -418,3 +410,53 @@ Lợi ích:
 ---
 
 > **Ghi chú ôn tập**: Chương 3 có nhiều công thức. Hãy chắc chắn phân biệt được Control Limits (do quy trình) vs Specification Limits (do thiết kế), và Cp (centered) vs Cpk (actual). SPC liên kết chặt chẽ với [[CH04 - Lean Systems]] và [[Six Sigma]].
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 3.1](/images/figures/ch03_fig3.1.jpg)
+> *Figure 3.1*
+
+![Figure 3.10](/images/figures/ch03_fig3.10.jpg)
+> *Figure 3.10*
+
+![Figure 3.11](/images/figures/ch03_fig3.11.jpg)
+> *Figure 3.11*
+
+![Figure 3.12](/images/figures/ch03_fig3.12.jpg)
+> *Figure 3.12*
+
+![Figure 3.13](/images/figures/ch03_fig3.13.jpg)
+> *Figure 3.13*
+
+![Figure 3.14](/images/figures/ch03_fig3.14.jpg)
+> *Figure 3.14*
+
+![Figure 3.15](/images/figures/ch03_fig3.15.jpg)
+> *Figure 3.15*
+
+![Figure 3.2](/images/figures/ch03_fig3.2.jpg)
+> *Figure 3.2*
+
+![Figure 3.3](/images/figures/ch03_fig3.3.jpg)
+> *Figure 3.3*
+
+![Figure 3.4](/images/figures/ch03_fig3.4.jpg)
+> *Figure 3.4*
+
+![Figure 3.5](/images/figures/ch03_fig3.5.jpg)
+> *Figure 3.5*
+
+![Figure 3.6](/images/figures/ch03_fig3.6.jpg)
+> *Figure 3.6*
+
+![Figure 3.7](/images/figures/ch03_fig3.7.jpg)
+> *Figure 3.7*
+
+![Figure 3.8](/images/figures/ch03_fig3.8.jpg)
+> *Figure 3.8*
+
+![Figure 3.9](/images/figures/ch03_fig3.9.jpg)
+> *Figure 3.9*
+

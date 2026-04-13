@@ -23,8 +23,6 @@ Dự báo không chỉ là công việc của bộ phận kinh doanh mà là tr�
 
 #### Demand Patterns (Các mẫu nhu cầu)
 
-> ![Figure 8.1 - Mẫu nhu cầu](/images/figures/ch08_fig8.1.jpg)
-> *Figure 8.1: 4 mẫu nhu cầu: Trend, Seasonal, Cyclical, Random*
 
 Nhu cầu hiếm khi ổn định hoàn toàn. Có 5 thành phần cơ bản của [[Demand Patterns]]:
 
@@ -154,8 +152,6 @@ Một cửa hàng Highlands Coffee dự báo bán 200 ly cà phê/ngày. Thực 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
-> ![Figure 8.3 - Tổng quan phương pháp dự báo](/images/figures/ch08_fig8.3.jpg)
-> *Figure 8.3: Phân loại các phương pháp dự báo*
 
 Sử dụng khi: sản phẩm mới, không có dữ liệu lịch sử, hoặc môi trường thay đổi nhanh.
 
@@ -199,8 +195,6 @@ Khi Apple ra mắt iPhone đời đầu (2007), không có dữ liệu lịch s�
 
 ### Giải thích chi tiết (Detailed Explanation)
 
-> ![Figure 8.8 - Hồi quy tuyến tính](/images/figures/ch08_fig8.8.jpg)
-> *Figure 8.8: Đường hồi quy y = a + bx fit dữ liệu*
 
 #### Mô hình hồi quy tuyến tính:
 $$\hat{y} = a + bx$$
@@ -269,8 +263,6 @@ $$F_{t+1} = D_t$$
 
 ---
 
-> ![Figure 8.4 - Biểu đồ Moving Average](/images/figures/ch08_fig8.4.jpg)
-> *Figure 8.4: So sánh Simple Moving Average với dữ liệu thực tế*
 
 ### 2. [[Moving Average]] (Trung bình trượt)
 
@@ -503,3 +495,35 @@ Grab Việt Nam sử dụng [[Big Data]] từ hàng triệu chuyến xe mỗi ng
 - [[Predictive Analytics]] - Phân tích dự đoán
 - [[Time-Series Methods]] - Phương pháp chuỗi thời gian
 - [[Causal Methods]] - Phương pháp nhân quả
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 8.1](/images/figures/ch08_fig8.1.jpg)
+> *Figure 8.1*
+
+![Figure 8.2](/images/figures/ch08_fig8.2.jpg)
+> *Figure 8.2*
+
+![Figure 8.3](/images/figures/ch08_fig8.3.jpg)
+> *Figure 8.3*
+
+![Figure 8.4](/images/figures/ch08_fig8.4.jpg)
+> *Figure 8.4*
+
+![Figure 8.5](/images/figures/ch08_fig8.5.jpg)
+> *Figure 8.5*
+
+![Figure 8.6](/images/figures/ch08_fig8.6.jpg)
+> *Figure 8.6*
+
+![Figure 8.7](/images/figures/ch08_fig8.7.jpg)
+> *Figure 8.7*
+
+![Figure 8.8](/images/figures/ch08_fig8.8.jpg)
+> *Figure 8.8*
+
+![Figure 8.9](/images/figures/ch08_fig8.9.jpg)
+> *Figure 8.9*
+

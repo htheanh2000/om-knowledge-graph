@@ -66,8 +66,6 @@ Khách hàng không mua được sản phẩm
 
 ## 2. **[[Integrated Supply Chains]]** (Chuỗi cung ứng tích hợp)
 
-> ![Figure 14.3 - Chuỗi cung ứng tích hợp](/images/figures/ch14_fig14.3.jpg)
-> *Figure 14.3: Tích hợp nội bộ + bên ngoài để đồng bộ thông tin & vật liệu*
 
 ### Định nghĩa (Definition)
 **[[Integrated Supply Chain]]** (Chuỗi cung ứng tích hợp) là chuỗi cung ứng trong đó tất cả các thành viên chia sẻ thông tin, phối hợp quyết định, và cùng hướng đến mục tiêu chung — tối đa hóa giá trị cho khách hàng cuối cùng (end customer).
@@ -107,8 +105,6 @@ Khách hàng không mua được sản phẩm
 
 ## 3. **[[Bullwhip Effect]]** (Hiệu ứng Bullwhip / Hiệu ứng roi da)
 
-> ![Figure 14.2 - Hiệu ứng roi da](/images/figures/ch14_fig14.2.jpg)
-> *Figure 14.2: Bullwhip Effect - biến động nhu cầu khuếch đại khi đi ngược chuỗi cung ứng*
 
 ### Định nghĩa (Definition)
 **[[Bullwhip Effect]]** (tiếng Việt: **hiệu ứng roi da** hay **hiệu ứng cái roi**) là hiện tượng mà **sự biến động của đơn đặt hàng ngày càng tăng** khi di chuyển ngược lên chuỗi cung ứng, từ khách hàng → nhà bán lẻ → nhà phân phối → nhà sản xuất → nhà cung cấp nguyên liệu.
@@ -233,8 +229,6 @@ Rủi ro liên quan đến hoạt động hàng ngày của chuỗi cung ứng:
 
 ### 5.2 [[Blockchain]]
 
-> ![Figure 14.6 - Blockchain trong chuỗi cung ứng](/images/figures/ch14_fig14.6.jpg)
-> *Figure 14.6: Blockchain tăng tính minh bạch và truy xuất nguồn gốc*
 
 **Định nghĩa**: Công nghệ sổ cái phân tán (distributed ledger) lưu trữ giao dịch theo các khối (blocks) được liên kết bằng mật mã, không thể sửa đổi hoặc xóa.
 
@@ -485,3 +479,32 @@ Chương này ít công thức toán học, tập trung vào khung khái niệm 
 ---
 
 > **Xem thêm**: [[CH12 - Supply Chain Design]] | [[CH13 - Supply Chain Logistics Networks]] | [[CH15 - Supply Chain Sustainability]]
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 14.1](/images/figures/ch14_fig14.1.jpg)
+> *Figure 14.1*
+
+![Figure 14.2](/images/figures/ch14_fig14.2.jpg)
+> *Figure 14.2*
+
+![Figure 14.3](/images/figures/ch14_fig14.3.jpg)
+> *Figure 14.3*
+
+![Figure 14.4](/images/figures/ch14_fig14.4.jpg)
+> *Figure 14.4*
+
+![Figure 14.5](/images/figures/ch14_fig14.5.jpg)
+> *Figure 14.5*
+
+![Figure 14.6](/images/figures/ch14_fig14.6.jpg)
+> *Figure 14.6*
+
+![Figure 14.7](/images/figures/ch14_fig14.7.jpg)
+> *Figure 14.7*
+
+![Figure 14.8](/images/figures/ch14_fig14.8.jpg)
+> *Figure 14.8*
+

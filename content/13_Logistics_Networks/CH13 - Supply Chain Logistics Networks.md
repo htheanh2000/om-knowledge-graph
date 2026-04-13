@@ -117,8 +117,6 @@ $$ld_{P2} = 10(3.16) + 20(3.16) + 15(4.24) = 31.6 + 63.2 + 63.6 = 158.4$$
 
 **Kết luận**: Chọn P2 vì có điểm tải-khoảng cách thấp hơn (158.4 < 169.8).
 
-> ![Figure 13.2 - Phương pháp trọng tâm](/images/figures/ch13_fig13.2.jpg)
-> *Figure 13.2: Center of Gravity - tìm vị trí tối ưu dựa trên tọa độ và tải trọng*
 
 ### 2.3 **[[Center of Gravity]]** (Trọng tâm)
 
@@ -194,8 +192,6 @@ $$Q^* = \frac{2{,}500 - 2{,}000}{150 - 120} = \frac{500}{30} = 16{,}667 \text{ s
 
 ## 4. **[[Transportation Method]]** (Phương pháp vận tải)
 
-> ![Figure 13.5 - Bảng vận tải](/images/figures/ch13_fig13.5.jpg)
-> *Figure 13.5: Transportation Tableau - phân bổ vận chuyển từ nguồn đến đích*
 
 ### Định nghĩa (Definition)
 **[[Transportation Method]]** (Phương pháp vận tải) là kỹ thuật **[[Linear Programming]]** (quy hoạch tuyến tính) đặc biệt, dùng để tìm phương án vận chuyển tối ưu (chi phí thấp nhất) từ nhiều nguồn cung (plants/warehouses) đến nhiều điểm cầu (warehouses/customers).
@@ -417,3 +413,53 @@ Quy trình chọn vị trí gồm các bước:
 ---
 
 > **Xem thêm**: [[CH12 - Supply Chain Design]] | [[CH14 - Supply Chain Integration]] | [[CH15 - Supply Chain Sustainability]]
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 13.1](/images/figures/ch13_fig13.1.jpg)
+> *Figure 13.1*
+
+![Figure 13.10](/images/figures/ch13_fig13.10.jpg)
+> *Figure 13.10*
+
+![Figure 13.11](/images/figures/ch13_fig13.11.jpg)
+> *Figure 13.11*
+
+![Figure 13.12](/images/figures/ch13_fig13.12.jpg)
+> *Figure 13.12*
+
+![Figure 13.13](/images/figures/ch13_fig13.13.jpg)
+> *Figure 13.13*
+
+![Figure 13.14](/images/figures/ch13_fig13.14.jpg)
+> *Figure 13.14*
+
+![Figure 13.15](/images/figures/ch13_fig13.15.jpg)
+> *Figure 13.15*
+
+![Figure 13.2](/images/figures/ch13_fig13.2.jpg)
+> *Figure 13.2*
+
+![Figure 13.3](/images/figures/ch13_fig13.3.jpg)
+> *Figure 13.3*
+
+![Figure 13.4](/images/figures/ch13_fig13.4.jpg)
+> *Figure 13.4*
+
+![Figure 13.5](/images/figures/ch13_fig13.5.jpg)
+> *Figure 13.5*
+
+![Figure 13.6](/images/figures/ch13_fig13.6.jpg)
+> *Figure 13.6*
+
+![Figure 13.7](/images/figures/ch13_fig13.7.jpg)
+> *Figure 13.7*
+
+![Figure 13.8](/images/figures/ch13_fig13.8.jpg)
+> *Figure 13.8*
+
+![Figure 13.9](/images/figures/ch13_fig13.9.jpg)
+> *Figure 13.9*
+

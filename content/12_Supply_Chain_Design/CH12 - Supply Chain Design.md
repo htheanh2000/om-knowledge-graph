@@ -92,8 +92,6 @@ $$\text{Inventory Turnover} = \frac{2{,}600}{200} = 13 \text{ lần/năm}$$
 
 ## 3. Các lựa chọn chiến lược (Strategic Options)
 
-> ![Figure 12.2 - Chuỗi cung ứng Hiệu quả vs Đáp ứng nhanh](/images/figures/ch12_fig12.2.jpg)
-> *Figure 12.2: Efficient SC (chi phí thấp, nhu cầu ổn định) vs Responsive SC (linh hoạt, nhu cầu biến động)*
 
 ### 3.1 **[[Efficient Supply Chains]]** (Chuỗi cung ứng hiệu quả)
 
@@ -252,8 +250,6 @@ Toàn cầu hóa đã mở rộng phạm vi lựa chọn nhà cung cấp ra toà
 - Cải thiện cơ sở hạ tầng giao thông và công nghệ thông tin
 - Tiếp cận thị trường mới và nguồn nguyên liệu
 
-> ![Figure 12.5 - Tích hợp dọc](/images/figures/ch12_fig12.5.jpg)
-> *Figure 12.5: Backward Integration (nhà cung cấp) vs Forward Integration (phân phối)*
 
 ### 7.2 **[[Vertical Integration]]** (Tích hợp dọc)
 
@@ -346,3 +342,35 @@ Tự làm tất cả                     Thuê ngoài tất cả
 ---
 
 > **Xem thêm**: [[CH13 - Supply Chain Logistics Networks]] | [[CH14 - Supply Chain Integration]] | [[CH15 - Supply Chain Sustainability]]
+
+
+---
+## Hình minh họa từ sách (Textbook Figures)
+
+![Figure 12.1](/images/figures/ch12_fig12.1.jpg)
+> *Figure 12.1*
+
+![Figure 12.2](/images/figures/ch12_fig12.2.jpg)
+> *Figure 12.2*
+
+![Figure 12.3](/images/figures/ch12_fig12.3.jpg)
+> *Figure 12.3*
+
+![Figure 12.4](/images/figures/ch12_fig12.4.jpg)
+> *Figure 12.4*
+
+![Figure 12.5](/images/figures/ch12_fig12.5.jpg)
+> *Figure 12.5*
+
+![Figure 12.6](/images/figures/ch12_fig12.6.jpg)
+> *Figure 12.6*
+
+![Figure 12.7](/images/figures/ch12_fig12.7.jpg)
+> *Figure 12.7*
+
+![Figure 12.8](/images/figures/ch12_fig12.8.jpg)
+> *Figure 12.8*
+
+![Figure 12.9](/images/figures/ch12_fig12.9.jpg)
+> *Figure 12.9*
+
