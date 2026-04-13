@@ -8,4 +8,4 @@ aliases: []
 
 ## Liên kết
 - [[Automation]]
-- [[Process.md|Process]]
+- [[Process]]
