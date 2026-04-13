@@ -57,6 +57,9 @@ Nhà máy Samsung lắp ráp điện thoại Galaxy S25:
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+![Figure 11.6 - Master Production Schedule](/images/figures/ch11_fig11.6.jpg)
+> *Figure 11.6: Lịch trình sản xuất chính (MPS) -- phân rã từ S&OP xuống kế hoạch sản phẩm cụ thể theo tuần*
+
 #### Vị trí của MPS trong hệ thống kế hoạch:
 ```
 S&OP (product family, tháng)
@@ -117,6 +120,8 @@ Toyota Việt Nam có MPS cho Vios: tuần 15 sản xuất 200 chiếc Vios 1.5G
 
 ## Bill of Materials (BOM)
 
+![Figure 11.10 - Bill of Materials Tree](/images/figures/ch11_fig11.10.jpg)
+> *Figure 11.10: Cây cấu trúc sản phẩm (BOM Tree) -- phân rã sản phẩm thành các cấp linh kiện*
 
 ### Định nghĩa (Definition)
 [[Bill of Materials (BOM)]] (Bảng kê vật liệu / Cấu trúc sản phẩm) liệt kê **tất cả** linh kiện, bộ phận, và nguyên vật liệu cần thiết để sản xuất **một đơn vị** sản phẩm cuối, cùng với số lượng mỗi loại.
@@ -180,10 +185,16 @@ Level 0: Trà sữa trân châu đường nâu (1 ly)
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+![Figure 11.1 - MRP Overview](/images/figures/ch11_fig11.1.jpg)
+> *Figure 11.1: Tổng quan hệ thống MRP -- ba đầu vào chính: MPS, BOM, và Inventory Records*
+
 #### 3 đầu vào chính của MRP:
 1. **[[Master Production Schedule (MPS)]]**: Sản xuất bao nhiêu sản phẩm cuối, khi nào
 2. **[[Bill of Materials (BOM)]]**: Cấu trúc sản phẩm, số lượng linh kiện
 3. **[[Inventory Record]]**: Tồn kho hiện có, hàng đã đặt, lead time
+
+![Figure 11.14 - MRP Explosion](/images/figures/ch11_fig11.14.jpg)
+> *Figure 11.14: Quy trình bung MRP (MRP Explosion) -- tính toán nhu cầu từ Level 0 xuống các level thấp hơn*
 
 #### Quy trình bung:
 1. Bắt đầu từ Level 0 (sản phẩm cuối) theo MPS
@@ -211,6 +222,8 @@ Level 0: Trà sữa trân châu đường nâu (1 ly)
 
 ## Inventory Record (Bản ghi tồn kho)
 
+![Figure 11.12 - MRP Inventory Record](/images/figures/ch11_fig11.12.jpg)
+> *Figure 11.12: Bản ghi tồn kho MRP -- bảng tính chi tiết theo dõi Gross Requirements, Scheduled Receipts, và Planned Order Releases*
 
 ### Định nghĩa (Definition)
 [[Inventory Record]] (MRP Record / MRP Grid) là bảng tính chi tiết cho MỖI item, theo dõi tình trạng tồn kho và nhu cầu theo tuần.
@@ -353,6 +366,8 @@ Hệ thống MRP của nhà máy VinFast phát thông báo: "Expedite đơn hàn
 
 ## Enterprise Resource Planning (ERP)
 
+![Figure 11.43 - ERP System](/images/figures/ch11_fig11.43.jpg)
+> *Figure 11.43: Hệ thống ERP -- tích hợp toàn bộ quy trình kinh doanh trên một cơ sở dữ liệu duy nhất*
 
 ### Định nghĩa (Definition)
 [[Enterprise Resource Planning (ERP)]] là hệ thống phần mềm **tích hợp toàn diện** quản lý TẤT CẢ quy trình kinh doanh trong một tổ chức trên **một cơ sở dữ liệu duy nhất**. ERP phát triển từ MRP → MRP II → ERP.
@@ -503,155 +518,4 @@ Bệnh viện Chợ Rẫy dùng hệ thống ERP y tế (HIS - Hospital Informat
 - [[Bill of Resources]] - Bảng kê nguồn lực (dịch vụ)
 - [[Low-Level Coding]] - Mã hóa cấp thấp
 - [[Usage Quantity]] - Số lượng sử dụng
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 11.1](/images/figures/ch11_fig11.1.jpg)
-> *Figure 11.1*
-
-![Figure 11.10](/images/figures/ch11_fig11.10.jpg)
-> *Figure 11.10*
-
-![Figure 11.11](/images/figures/ch11_fig11.11.jpg)
-> *Figure 11.11*
-
-![Figure 11.12](/images/figures/ch11_fig11.12.jpg)
-> *Figure 11.12*
-
-![Figure 11.13](/images/figures/ch11_fig11.13.jpg)
-> *Figure 11.13*
-
-![Figure 11.14](/images/figures/ch11_fig11.14.jpg)
-> *Figure 11.14*
-
-![Figure 11.15](/images/figures/ch11_fig11.15.jpg)
-> *Figure 11.15*
-
-![Figure 11.16](/images/figures/ch11_fig11.16.jpg)
-> *Figure 11.16*
-
-![Figure 11.17](/images/figures/ch11_fig11.17.jpg)
-> *Figure 11.17*
-
-![Figure 11.18](/images/figures/ch11_fig11.18.jpg)
-> *Figure 11.18*
-
-![Figure 11.19](/images/figures/ch11_fig11.19.jpg)
-> *Figure 11.19*
-
-![Figure 11.2](/images/figures/ch11_fig11.2.jpg)
-> *Figure 11.2*
-
-![Figure 11.20](/images/figures/ch11_fig11.20.jpg)
-> *Figure 11.20*
-
-![Figure 11.21](/images/figures/ch11_fig11.21.jpg)
-> *Figure 11.21*
-
-![Figure 11.22](/images/figures/ch11_fig11.22.jpg)
-> *Figure 11.22*
-
-![Figure 11.23](/images/figures/ch11_fig11.23.jpg)
-> *Figure 11.23*
-
-![Figure 11.24](/images/figures/ch11_fig11.24.jpg)
-> *Figure 11.24*
-
-![Figure 11.25](/images/figures/ch11_fig11.25.jpg)
-> *Figure 11.25*
-
-![Figure 11.26](/images/figures/ch11_fig11.26.jpg)
-> *Figure 11.26*
-
-![Figure 11.27](/images/figures/ch11_fig11.27.jpg)
-> *Figure 11.27*
-
-![Figure 11.28](/images/figures/ch11_fig11.28.jpg)
-> *Figure 11.28*
-
-![Figure 11.29](/images/figures/ch11_fig11.29.jpg)
-> *Figure 11.29*
-
-![Figure 11.3](/images/figures/ch11_fig11.3.jpg)
-> *Figure 11.3*
-
-![Figure 11.30](/images/figures/ch11_fig11.30.jpg)
-> *Figure 11.30*
-
-![Figure 11.31](/images/figures/ch11_fig11.31.jpg)
-> *Figure 11.31*
-
-![Figure 11.32](/images/figures/ch11_fig11.32.jpg)
-> *Figure 11.32*
-
-![Figure 11.33](/images/figures/ch11_fig11.33.jpg)
-> *Figure 11.33*
-
-![Figure 11.34](/images/figures/ch11_fig11.34.jpg)
-> *Figure 11.34*
-
-![Figure 11.35](/images/figures/ch11_fig11.35.jpg)
-> *Figure 11.35*
-
-![Figure 11.36](/images/figures/ch11_fig11.36.jpg)
-> *Figure 11.36*
-
-![Figure 11.37](/images/figures/ch11_fig11.37.jpg)
-> *Figure 11.37*
-
-![Figure 11.38](/images/figures/ch11_fig11.38.jpg)
-> *Figure 11.38*
-
-![Figure 11.39](/images/figures/ch11_fig11.39.jpg)
-> *Figure 11.39*
-
-![Figure 11.4](/images/figures/ch11_fig11.4.jpg)
-> *Figure 11.4*
-
-![Figure 11.40](/images/figures/ch11_fig11.40.jpg)
-> *Figure 11.40*
-
-![Figure 11.41](/images/figures/ch11_fig11.41.jpg)
-> *Figure 11.41*
-
-![Figure 11.42](/images/figures/ch11_fig11.42.jpg)
-> *Figure 11.42*
-
-![Figure 11.43](/images/figures/ch11_fig11.43.jpg)
-> *Figure 11.43*
-
-![Figure 11.44](/images/figures/ch11_fig11.44.jpg)
-> *Figure 11.44*
-
-![Figure 11.45](/images/figures/ch11_fig11.45.jpg)
-> *Figure 11.45*
-
-![Figure 11.46](/images/figures/ch11_fig11.46.jpg)
-> *Figure 11.46*
-
-![Figure 11.47](/images/figures/ch11_fig11.47.jpg)
-> *Figure 11.47*
-
-![Figure 11.48](/images/figures/ch11_fig11.48.jpg)
-> *Figure 11.48*
-
-![Figure 11.49](/images/figures/ch11_fig11.49.jpg)
-> *Figure 11.49*
-
-![Figure 11.5](/images/figures/ch11_fig11.5.jpg)
-> *Figure 11.5*
-
-![Figure 11.6](/images/figures/ch11_fig11.6.jpg)
-> *Figure 11.6*
-
-![Figure 11.7](/images/figures/ch11_fig11.7.jpg)
-> *Figure 11.7*
-
-![Figure 11.8](/images/figures/ch11_fig11.8.jpg)
-> *Figure 11.8*
-
-![Figure 11.9](/images/figures/ch11_fig11.9.jpg)
-> *Figure 11.9*
 

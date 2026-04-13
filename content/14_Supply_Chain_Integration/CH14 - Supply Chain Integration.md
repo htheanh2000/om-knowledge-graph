@@ -19,6 +19,9 @@ Trong bối cảnh sau đại dịch COVID-19 và các gián đoạn chuỗi cun
 ### Định nghĩa (Definition)
 **[[Supply Chain Disruption]]** (Gián đoạn chuỗi cung ứng) là sự kiện bất ngờ làm gián đoạn dòng chảy bình thường của hàng hóa, thông tin, hoặc tài chính trong chuỗi cung ứng, gây ra tác động tiêu cực đến hiệu suất kinh doanh.
 
+![Figure 14.1 - Supply Chain Disruptions](/images/figures/ch14_fig14.1.jpg)
+> *Figure 14.1: Các loại gián đoạn chuỗi cung ứng và hiệu ứng domino lan truyền trong mạng lưới*
+
 ### 1.1 Nguyên nhân gián đoạn (Causes)
 
 | Loại nguyên nhân | Ví dụ cụ thể |
@@ -70,6 +73,9 @@ Khách hàng không mua được sản phẩm
 ### Định nghĩa (Definition)
 **[[Integrated Supply Chain]]** (Chuỗi cung ứng tích hợp) là chuỗi cung ứng trong đó tất cả các thành viên chia sẻ thông tin, phối hợp quyết định, và cùng hướng đến mục tiêu chung — tối đa hóa giá trị cho khách hàng cuối cùng (end customer).
 
+![Figure 14.3 - Integrated Supply Chains](/images/figures/ch14_fig14.3.jpg)
+> *Figure 14.3: Các mức độ tích hợp chuỗi cung ứng — từ hoạt động độc lập đến tích hợp toàn diện*
+
 ### Giải thích chi tiết
 
 **Các mức độ tích hợp**:
@@ -108,6 +114,9 @@ Khách hàng không mua được sản phẩm
 
 ### Định nghĩa (Definition)
 **[[Bullwhip Effect]]** (tiếng Việt: **hiệu ứng roi da** hay **hiệu ứng cái roi**) là hiện tượng mà **sự biến động của đơn đặt hàng ngày càng tăng** khi di chuyển ngược lên chuỗi cung ứng, từ khách hàng → nhà bán lẻ → nhà phân phối → nhà sản xuất → nhà cung cấp nguyên liệu.
+
+![Figure 14.2 - Bullwhip Effect](/images/figures/ch14_fig14.2.jpg)
+> *Figure 14.2: Hiệu ứng Bullwhip — biến động đơn hàng khuếch đại khi đi ngược lên chuỗi cung ứng*
 
 ### Giải thích chi tiết
 
@@ -229,6 +238,8 @@ Rủi ro liên quan đến hoạt động hàng ngày của chuỗi cung ứng:
 
 ### 5.2 [[Blockchain]]
 
+![Figure 14.6 - Blockchain in Supply Chain](/images/figures/ch14_fig14.6.jpg)
+> *Figure 14.6: Ứng dụng Blockchain trong chuỗi cung ứng — truy xuất nguồn gốc và hợp đồng thông minh*
 
 **Định nghĩa**: Công nghệ sổ cái phân tán (distributed ledger) lưu trữ giao dịch theo các khối (blocks) được liên kết bằng mật mã, không thể sửa đổi hoặc xóa.
 
@@ -362,6 +373,9 @@ Quy trình **[[New Product Development]]** (Phát triển sản phẩm mới - [
 ### Định nghĩa (Definition)
 **[[Order Fulfillment Process]]** (Quy trình thực hiện đơn hàng) bao gồm tất cả hoạt động từ khi nhận đơn hàng từ khách hàng đến khi giao hàng thành công. Đây là "xương sống" của chuỗi cung ứng.
 
+![Figure 14.7 - Order Fulfillment Process](/images/figures/ch14_fig14.7.jpg)
+> *Figure 14.7: Quy trình thực hiện đơn hàng — từ tiếp nhận đơn hàng đến giao hàng thành công*
+
 ### Các bước chính
 
 #### 8.1 **[[Customer Demand Planning]]** (Hoạch định nhu cầu khách hàng)
@@ -405,6 +419,9 @@ Quy trình **[[New Product Development]]** (Phát triển sản phẩm mới - [
 
 ### Định nghĩa (Definition)
 **[[Customer Relationship Management]]** (Quy trình quản lý quan hệ khách hàng / [[CRM]]) bao gồm các hoạt động nhằm thu hút, phục vụ, và duy trì mối quan hệ với khách hàng trong suốt vòng đời.
+
+![Figure 14.8 - Customer Relationship Process](/images/figures/ch14_fig14.8.jpg)
+> *Figure 14.8: Quy trình quản lý quan hệ khách hàng — Marketing, Đặt hàng, và Dịch vụ khách hàng*
 
 ### Các hoạt động chính
 
@@ -479,32 +496,4 @@ Chương này ít công thức toán học, tập trung vào khung khái niệm 
 ---
 
 > **Xem thêm**: [[CH12 - Supply Chain Design]] | [[CH13 - Supply Chain Logistics Networks]] | [[CH15 - Supply Chain Sustainability]]
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 14.1](/images/figures/ch14_fig14.1.jpg)
-> *Figure 14.1*
-
-![Figure 14.2](/images/figures/ch14_fig14.2.jpg)
-> *Figure 14.2*
-
-![Figure 14.3](/images/figures/ch14_fig14.3.jpg)
-> *Figure 14.3*
-
-![Figure 14.4](/images/figures/ch14_fig14.4.jpg)
-> *Figure 14.4*
-
-![Figure 14.5](/images/figures/ch14_fig14.5.jpg)
-> *Figure 14.5*
-
-![Figure 14.6](/images/figures/ch14_fig14.6.jpg)
-> *Figure 14.6*
-
-![Figure 14.7](/images/figures/ch14_fig14.7.jpg)
-> *Figure 14.7*
-
-![Figure 14.8](/images/figures/ch14_fig14.8.jpg)
-> *Figure 14.8*
 

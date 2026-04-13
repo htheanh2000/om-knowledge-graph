@@ -16,6 +16,8 @@ Hãy tưởng tượng một kim tự tháp kế hoạch: trên cùng là [[S&OP
 
 ## Levels in Operations Planning (Các cấp trong lập kế hoạch vận hành)
 
+![Figure 10.1 - Planning Hierarchy](/images/figures/ch10_fig10.1.jpg)
+> *Figure 10.1: Kim tự tháp kế hoạch vận hành -- từ S&OP tổng hợp xuống Scheduling chi tiết*
 
 ### Định nghĩa (Definition)
 Hệ thống lập kế hoạch vận hành được tổ chức thành nhiều cấp, từ dài hạn/tổng quát đến ngắn hạn/chi tiết.
@@ -109,6 +111,11 @@ Hai chiến lược cực đoan trong [[S&OP - Sales and Operations Planning]]: 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+![Figure 10.2 - S&OP Strategies](/images/figures/ch10_fig10.2.jpg)
+> *Figure 10.2: Các chiến lược S&OP -- so sánh Chase Strategy và Level Strategy*
+
+![Figure 10.4 - Chase vs Level Strategy](/images/figures/ch10_fig10.4.jpg)
+> *Figure 10.4: So sánh Chase vs Level -- biểu đồ sản lượng theo nhu cầu qua các kỳ*
 
 #### [[Chase Strategy]] (Chiến lược đuổi theo / Chiến lược theo sát nhu cầu)
 
@@ -273,6 +280,9 @@ So sánh nhiều phương án (Chase vs Level vs Mixed) → chọn phương án 
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+![Figure 10.7 - Workforce Scheduling](/images/figures/ch10_fig10.7.jpg)
+> *Figure 10.7: Lập lịch lao động -- phân bổ nhân viên theo ca và ngày trong tuần*
+
 #### Bài toán lập lịch nhân viên:
 - **Đầu vào**: Nhu cầu nhân lực mỗi ngày/ca, ràng buộc (mỗi người làm 5 ngày nghỉ 2 ngày liên tiếp)
 - **Đầu ra**: Lịch làm việc cụ thể
@@ -338,6 +348,9 @@ Công cụ trực quan để theo dõi lịch trình, hiển thị thời gian b
 [[Sequencing]] (sắp xếp thứ tự) xác định thứ tự các job được xử lý trên một hoặc nhiều máy. [[Priority Rules]] (quy tắc ưu tiên) là các luật đơn giản để quyết định thứ tự.
 
 ### Giải thích chi tiết (Detailed Explanation)
+
+![Figure 10.9 - Job Sequencing](/images/figures/ch10_fig10.9.jpg)
+> *Figure 10.9: Sắp xếp thứ tự công việc (Job Sequencing) -- so sánh các quy tắc ưu tiên SPT, EDD, FCFS*
 
 #### Các [[Priority Rules]] phổ biến:
 
@@ -453,41 +466,4 @@ Khi n job phải qua máy 1 rồi máy 2:
 - [[Makespan]] - Thời gian hoàn thành tổng
 - [[Tardiness]] - Trễ hạn
 - [[Gantt Chart]] - Biểu đồ Gantt
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 10.1](/images/figures/ch10_fig10.1.jpg)
-> *Figure 10.1*
-
-![Figure 10.10](/images/figures/ch10_fig10.10.jpg)
-> *Figure 10.10*
-
-![Figure 10.11](/images/figures/ch10_fig10.11.jpg)
-> *Figure 10.11*
-
-![Figure 10.2](/images/figures/ch10_fig10.2.jpg)
-> *Figure 10.2*
-
-![Figure 10.3](/images/figures/ch10_fig10.3.jpg)
-> *Figure 10.3*
-
-![Figure 10.4](/images/figures/ch10_fig10.4.jpg)
-> *Figure 10.4*
-
-![Figure 10.5](/images/figures/ch10_fig10.5.jpg)
-> *Figure 10.5*
-
-![Figure 10.6](/images/figures/ch10_fig10.6.jpg)
-> *Figure 10.6*
-
-![Figure 10.7](/images/figures/ch10_fig10.7.jpg)
-> *Figure 10.7*
-
-![Figure 10.8](/images/figures/ch10_fig10.8.jpg)
-> *Figure 10.8*
-
-![Figure 10.9](/images/figures/ch10_fig10.9.jpg)
-> *Figure 10.9*
 

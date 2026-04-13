@@ -20,6 +20,9 @@ Chương bao gồm các chủ đề: logistics ngược (reverse logistics), hi�
 ### Định nghĩa (Definition)
 [[Triple Bottom Line]] (TBL hay 3P) là khung đánh giá hiệu suất doanh nghiệp trên ba khía cạnh: **People** (Con người), **Planet** (Hành tinh), **Profit** (Lợi nhuận) — thay vì chỉ đo bằng lợi nhuận tài chính.
 
+![Figure 15.1 - Triple Bottom Line](/images/figures/ch15_fig15.1.jpg)
+> *Figure 15.1: Ba yếu tố phát triển bền vững (Triple Bottom Line) — People, Planet, Profit*
+
 ### 1.1 [[People]] (Con người / Xã hội)
 
 **Ý nghĩa**: Doanh nghiệp có trách nhiệm đối với con người — bao gồm nhân viên, cộng đồng địa phương, người lao động trong toàn bộ chuỗi cung ứng, và xã hội nói chung.
@@ -91,6 +94,9 @@ Chuỗi cung ứng bền vững nằm ở giao điểm cân bằng cả ba yếu
 
 ### Định nghĩa (Definition)
 **[[Reverse Logistics]]** (Logistics ngược) là quá trình di chuyển hàng hóa từ điểm tiêu dùng quay ngược lại điểm sản xuất hoặc điểm xử lý — bao gồm trả hàng, tái chế, tân trang, và xử lý rác thải.
+
+![Figure 15.2 - Reverse Logistics](/images/figures/ch15_fig15.2.jpg)
+> *Figure 15.2: Logistics ngược — dòng chảy sản phẩm từ tiêu dùng quay về tái chế, tân trang, hoặc xử lý*
 
 ### Giải thích chi tiết
 
@@ -177,6 +183,9 @@ Khách hàng → Thu gom → Phân loại → Tái chế / Tân trang / Xử lý
 - Amazon "Frustration-Free Packaging": Loại bỏ bao bì dư thừa → giảm 25% khối lượng đóng gói.
 - Walmart yêu cầu nhà cung cấp giảm 5% bao bì → tiết kiệm hàng triệu đô la vận chuyển.
 
+![Figure 15.3 - Energy Efficiency in Transportation](/images/figures/ch15_fig15.3.jpg)
+> *Figure 15.3: Hiệu quả năng lượng trong vận chuyển — so sánh phát thải CO2 theo phương thức vận tải*
+
 ### 3.3 **[[Transportation Mode]]** (Phương thức vận chuyển)
 
 Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và phát thải khác nhau:
@@ -209,6 +218,9 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 
 ### Định nghĩa (Definition)
 **[[Disaster Relief Supply Chain]]** (Chuỗi cung ứng cứu trợ thiên tai) là mạng lưới logistics được thiết kế để cung cấp hàng cứu trợ (thực phẩm, nước, thuốc, lều trại, áo quần) đến vùng bị ảnh hưởng bởi thiên tai một cách nhanh chóng và hiệu quả.
+
+![Figure 15.4 - Disaster Relief Supply Chain](/images/figures/ch15_fig15.4.jpg)
+> *Figure 15.4: Chuỗi cung ứng cứu trợ thiên tai — các giai đoạn từ chuẩn bị đến phục hồi*
 
 ### Giải thích chi tiết
 
@@ -425,20 +437,4 @@ Chương này tập trung vào khung khái niệm hơn là công thức toán h�
 ---
 
 > **Xem thêm**: [[CH12 - Supply Chain Design]] | [[CH13 - Supply Chain Logistics Networks]] | [[CH14 - Supply Chain Integration]]
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 15.1](/images/figures/ch15_fig15.1.jpg)
-> *Figure 15.1*
-
-![Figure 15.2](/images/figures/ch15_fig15.2.jpg)
-> *Figure 15.2*
-
-![Figure 15.3](/images/figures/ch15_fig15.3.jpg)
-> *Figure 15.3*
-
-![Figure 15.4](/images/figures/ch15_fig15.4.jpg)
-> *Figure 15.4*
 

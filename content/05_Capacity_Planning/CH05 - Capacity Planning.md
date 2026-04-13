@@ -64,6 +64,9 @@ Phòng gym có công suất 200 người/lúc. Giờ cao điểm (5-8pm) có 190
 
 #### Giải thích chi tiết
 
+![Figure 5.1 - Economies of Scale](/images/figures/ch05_fig5.1.jpg)
+> *Figure 5.1: Đồ thị Economies of Scale và Diseconomies of Scale - chi phí trung bình hình chữ U với điểm Best Operating Level*
+
 Tại sao chi phí giảm khi sản xuất nhiều hơn?
 
 1. **Phân bổ [[Fixed Cost]]**: Tiền thuê nhà máy 100 triệu/tháng. Sản xuất 1.000 SP → 100.000/SP. Sản xuất 10.000 SP → 10.000/SP. → Chi phí cố định trên mỗi SP giảm 10 lần!
@@ -111,11 +114,17 @@ Amazon xây dựng nhiều kho nhỏ phân tán thay vì một kho khổng lồ.
 $$\text{Capacity Cushion} = 100\% - \text{Average Utilization Rate (\%)}$$
 
 #### Giải thích chi tiết
+
+![Figure 5.3 - Sizing Capacity Cushions](/images/figures/ch05_fig5.3.jpg)
+> *Figure 5.3: Đệm công suất (Capacity Cushion) - mối quan hệ giữa công suất dự trữ, mức sử dụng và khả năng đáp ứng nhu cầu*
+
 - **Đệm lớn** (công suất dư nhiều): Phù hợp khi nhu cầu biến động mạnh, cần giao nhanh. Ví dụ: phòng cấp cứu bệnh viện cần đệm lớn.
 - **Đệm nhỏ** hoặc **âm**: Phù hợp khi sản phẩm chuẩn hóa, nhu cầu ổn định, chi phí công suất rất cao. Ví dụ: nhà máy lọc dầu.
 
 ### Expansion Strategies (Chiến lược mở rộng)
 
+![Figure 5.2 - Capacity Timing Strategies](/images/figures/ch05_fig5.2.jpg)
+> *Figure 5.2: Chiến lược thời điểm mở rộng công suất - so sánh Expansionist Strategy, Wait-and-See Strategy và Follow-the-Leader*
 
 Có ba chiến lược chính:
 
@@ -210,6 +219,8 @@ Ví dụ: Mô phỏng hoạt động sân bay để xác định cần bao nhiê
 
 ### Decision Trees (Cây quyết định)
 
+![Figure 5.5 - Decision Trees for Capacity](/images/figures/ch05_fig5.5.jpg)
+> *Figure 5.5: Cây quyết định cho hoạch định công suất - phân tích các phương án mở rộng với xác suất và giá trị kỳ vọng*
 
 [[Decision Tree]] đặc biệt hữu ích cho quyết định công suất vì thường có nhiều giai đoạn (mở rộng bây giờ hoặc sau, quy mô lớn hay nhỏ) và nhiều kịch bản nhu cầu. Chi tiết trong [[SA - Decision Making]].
 
@@ -256,23 +267,4 @@ Ví dụ: Mô phỏng hoạt động sân bay để xác định cần bao nhiê
 ---
 
 > **Ghi chú ôn tập**: Chương 5 kết nối với nhiều chương khác: [[SA - Decision Making]] (Break-Even, Decision Tree), [[SB - Waiting Lines]] (Waiting-Line Models), [[CH06 - Constraint Management]] (Bottleneck). Hãy nhớ: Utilization 100% KHÔNG phải mục tiêu, và luôn xem xét cả Economies lẫn Diseconomies of Scale!
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 5.1](/images/figures/ch05_fig5.1.jpg)
-> *Figure 5.1*
-
-![Figure 5.2](/images/figures/ch05_fig5.2.jpg)
-> *Figure 5.2*
-
-![Figure 5.3](/images/figures/ch05_fig5.3.jpg)
-> *Figure 5.3*
-
-![Figure 5.4](/images/figures/ch05_fig5.4.jpg)
-> *Figure 5.4*
-
-![Figure 5.5](/images/figures/ch05_fig5.5.jpg)
-> *Figure 5.5*
 

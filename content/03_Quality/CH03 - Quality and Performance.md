@@ -21,6 +21,9 @@ Hiểu chương này giúp bạn xây dựng hệ thống quản lý chất lư�
 
 ### Giải thích chi tiết
 
+![Figure 3.1 - Costs of Quality](/images/figures/ch03_fig3.1.jpg)
+> *Figure 3.1: Bốn loại chi phí chất lượng (COQ) - Prevention, Appraisal, Internal Failure, External Failure và mối quan hệ giữa chúng*
+
 Có bốn loại chi phí chất lượng:
 
 #### 1. [[Prevention Cost]] (Chi phí phòng ngừa)
@@ -75,6 +78,8 @@ Samsung Galaxy Note 7 (2016): Chi phí lỗi bên ngoài khổng lồ - thu hồ
 
 ### Giải thích chi tiết
 
+![Figure 3.2 - TQM Wheel](/images/figures/ch03_fig3.2.jpg)
+> *Figure 3.2: Bánh xe TQM/Six Sigma - minh họa ba nguyên tắc cốt lõi: Customer Satisfaction, Employee Involvement và Continuous Improvement*
 
 **Ba nguyên tắc cốt lõi:**
 
@@ -208,6 +213,9 @@ Quy trình chỉ có Common Cause Variation gọi là [[In Statistical Control]]
 
 #### Control Charts (Biểu đồ kiểm soát)
 
+![Figure 3.4 - Control Chart](/images/figures/ch03_fig3.4.jpg)
+> *Figure 3.4: Biểu đồ kiểm soát (Control Chart) với UCL, Center Line, LCL - công cụ giám sát quy trình theo thời gian*
+
 [[Control Chart]] là đồ thị theo dõi một chỉ số chất lượng theo thời gian, với ba đường:
 - **[[UCL]]** (Upper Control Limit - Giới hạn kiểm soát trên)
 - **[[Center Line]]** (Đường trung tâm - giá trị trung bình)
@@ -221,6 +229,9 @@ Thông thường: $UCL = \bar{x} + 3\sigma$ và $LCL = \bar{x} - 3\sigma$ (giớ
 - Điểm nằm ngoài UCL hoặc LCL
 - 7 điểm liên tiếp nằm cùng một phía so với Center Line (xu hướng - [[Run]])
 - Mẫu hình bất thường (cyclical patterns)
+
+![Figure 3.5 - Control Charts for Variables](/images/figures/ch03_fig3.5.jpg)
+> *Figure 3.5: Biểu đồ kiểm soát cho biến liên tục - X-bar Chart và R Chart dùng để theo dõi trung bình và phạm vi biến động*
 
 #### Variables Charts vs Attributes Charts
 
@@ -267,6 +278,8 @@ Nhà máy sản xuất chai nước suối kiểm tra dung tích. Mỗi giờ l�
 
 ### Giải thích chi tiết
 
+![Figure 3.8 - Process Capability](/images/figures/ch03_fig3.8.jpg)
+> *Figure 3.8: Năng lực quy trình - so sánh phân bố quy trình với giới hạn đặc tính kỹ thuật (Specification Limits)*
 
 > **Phân biệt quan trọng:**
 > - [[Control Limits]] (UCL, LCL): Do QUY TRÌNH quyết định - "Quy trình đang làm gì"
@@ -282,6 +295,9 @@ $$C_p = \frac{USL - LSL}{6\sigma}$$
 - $C_p = 1$: Vừa đủ (ranh giới)
 - $C_p < 1$: Quy trình không đủ khả năng (biến động lớn hơn specification)
 - **Mục tiêu thường là $C_p \geq 1.33$**
+
+![Figure 3.11 - Process Capability Index](/images/figures/ch03_fig3.11.jpg)
+> *Figure 3.11: Chỉ số năng lực quy trình Cp và Cpk - minh họa sự khác biệt giữa quy trình nằm chính giữa và quy trình bị lệch tâm*
 
 #### Chỉ số Cpk
 
@@ -410,53 +426,4 @@ Lợi ích:
 ---
 
 > **Ghi chú ôn tập**: Chương 3 có nhiều công thức. Hãy chắc chắn phân biệt được Control Limits (do quy trình) vs Specification Limits (do thiết kế), và Cp (centered) vs Cpk (actual). SPC liên kết chặt chẽ với [[CH04 - Lean Systems]] và [[Six Sigma]].
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 3.1](/images/figures/ch03_fig3.1.jpg)
-> *Figure 3.1*
-
-![Figure 3.10](/images/figures/ch03_fig3.10.jpg)
-> *Figure 3.10*
-
-![Figure 3.11](/images/figures/ch03_fig3.11.jpg)
-> *Figure 3.11*
-
-![Figure 3.12](/images/figures/ch03_fig3.12.jpg)
-> *Figure 3.12*
-
-![Figure 3.13](/images/figures/ch03_fig3.13.jpg)
-> *Figure 3.13*
-
-![Figure 3.14](/images/figures/ch03_fig3.14.jpg)
-> *Figure 3.14*
-
-![Figure 3.15](/images/figures/ch03_fig3.15.jpg)
-> *Figure 3.15*
-
-![Figure 3.2](/images/figures/ch03_fig3.2.jpg)
-> *Figure 3.2*
-
-![Figure 3.3](/images/figures/ch03_fig3.3.jpg)
-> *Figure 3.3*
-
-![Figure 3.4](/images/figures/ch03_fig3.4.jpg)
-> *Figure 3.4*
-
-![Figure 3.5](/images/figures/ch03_fig3.5.jpg)
-> *Figure 3.5*
-
-![Figure 3.6](/images/figures/ch03_fig3.6.jpg)
-> *Figure 3.6*
-
-![Figure 3.7](/images/figures/ch03_fig3.7.jpg)
-> *Figure 3.7*
-
-![Figure 3.8](/images/figures/ch03_fig3.8.jpg)
-> *Figure 3.8*
-
-![Figure 3.9](/images/figures/ch03_fig3.9.jpg)
-> *Figure 3.9*
 

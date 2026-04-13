@@ -40,6 +40,9 @@ Quản lý dự án là kỹ năng thiết yếu bất kể bạn làm ngành n�
 #### Định nghĩa (Definition)
 [[WBS]] (Work Breakdown Structure - Cấu trúc phân chia công việc) là sơ đồ phân chia dự án thành các công việc nhỏ hơn, dễ quản lý hơn, theo cấu trúc cây.
 
+![Figure 7.2 - Work Breakdown Structure](/images/figures/ch07_fig7.2.jpg)
+> *Figure 7.2: Cấu trúc phân chia công việc (WBS) -- phân rã dự án thành các gói công việc nhỏ dễ quản lý*
+
 #### Giải thích chi tiết
 - Cấp 1: Tên dự án
 - Cấp 2: Các giai đoạn chính (phases)
@@ -83,6 +86,8 @@ WBS cho dự án "Mở nhà hàng mới":
 
 #### Giải thích chi tiết
 
+![Figure 7.3 - AON Network Diagram](/images/figures/ch07_fig7.3.jpg)
+> *Figure 7.3: Sơ đồ mạng AON (Activity-on-Node) -- biểu diễn các hoạt động và quan hệ thứ tự trong dự án*
 
 **Các mối quan hệ thứ tự ([[Precedence Relationship]]):**
 - **[[Finish-to-Start]] (FS)**: A phải kết thúc trước khi B bắt đầu (phổ biến nhất)
@@ -126,6 +131,8 @@ WBS cho dự án "Mở nhà hàng mới":
 
 #### Giải thích chi tiết
 
+![Figure 7.5 - Critical Path](/images/figures/ch07_fig7.5.jpg)
+> *Figure 7.5: Đường găng (Critical Path) -- chuỗi hoạt động dài nhất quyết định thời gian hoàn thành dự án*
 
 **[[Critical Path]]** (Đường găng) là chuỗi hoạt động liên tiếp dài nhất từ đầu đến cuối dự án. Đặc điểm:
 - Tổng thời gian trên đường găng = thời gian hoàn thành dự án
@@ -219,6 +226,11 @@ $$\text{Slack} = LS - ES = LF - EF$$
 
 ### Giải thích chi tiết
 
+![Figure 7.7 - Cost-Time Tradeoff](/images/figures/ch07_fig7.7.jpg)
+> *Figure 7.7: Biểu đồ đánh đổi chi phí-thời gian -- mối quan hệ giữa chi phí dự án và thời gian hoàn thành*
+
+![Figure 7.8 - Crashing Analysis](/images/figures/ch07_fig7.8.jpg)
+> *Figure 7.8: Phân tích Crashing -- chi phí crash cho mỗi đơn vị thời gian rút ngắn trên đường găng*
 
 **Các khái niệm:**
 - **[[Normal Time]]**: Thời gian hoàn thành bình thường
@@ -454,47 +466,4 @@ Dự án xây nhà kế hoạch 100 ngày, ngân sách 1 tỷ VNĐ. Sau 50 ngày
 ---
 
 > **Ghi chú ôn tập**: Chương 7 đòi hỏi THỰC HÀNH nhiều. Hãy luyện tập: (1) Vẽ AON diagram, (2) Tính Forward Pass và Backward Pass để tìm Critical Path, (3) Tính Crashing, (4) Tính PERT. Sử dụng [[Decision Tree]] từ [[SA - Decision Making]] khi có yếu tố không chắc chắn trong dự án.
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 7.1](/images/figures/ch07_fig7.1.jpg)
-> *Figure 7.1*
-
-![Figure 7.10](/images/figures/ch07_fig7.10.jpg)
-> *Figure 7.10*
-
-![Figure 7.11](/images/figures/ch07_fig7.11.jpg)
-> *Figure 7.11*
-
-![Figure 7.12](/images/figures/ch07_fig7.12.jpg)
-> *Figure 7.12*
-
-![Figure 7.13](/images/figures/ch07_fig7.13.jpg)
-> *Figure 7.13*
-
-![Figure 7.2](/images/figures/ch07_fig7.2.jpg)
-> *Figure 7.2*
-
-![Figure 7.3](/images/figures/ch07_fig7.3.jpg)
-> *Figure 7.3*
-
-![Figure 7.4](/images/figures/ch07_fig7.4.jpg)
-> *Figure 7.4*
-
-![Figure 7.5](/images/figures/ch07_fig7.5.jpg)
-> *Figure 7.5*
-
-![Figure 7.6](/images/figures/ch07_fig7.6.jpg)
-> *Figure 7.6*
-
-![Figure 7.7](/images/figures/ch07_fig7.7.jpg)
-> *Figure 7.7*
-
-![Figure 7.8](/images/figures/ch07_fig7.8.jpg)
-> *Figure 7.8*
-
-![Figure 7.9](/images/figures/ch07_fig7.9.jpg)
-> *Figure 7.9*
 

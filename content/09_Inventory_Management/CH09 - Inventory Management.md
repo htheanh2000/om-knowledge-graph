@@ -137,6 +137,9 @@ Các chiến thuật cụ thể để giảm từng loại tồn kho mà không 
 ### Giải thích chi tiết (Detailed Explanation)
 
 
+![Figure 9.2 - ABC Analysis](/images/figures/ch09_fig9.2.jpg)
+> *Figure 9.2: Phân tích ABC -- phân loại tồn kho theo nguyên tắc Pareto 80/20*
+
 | Nhóm | % SKU | % Giá trị | Cách quản lý |
 |-------|-------|-----------|--------------|
 | **A** | ~20% | ~80% | Kiểm soát chặt chẽ, dự báo thường xuyên, [[Continuous Review System (Q System)]], đàm phán nhà cung cấp kỹ |
@@ -177,6 +180,9 @@ Chuỗi nhà thuốc Long Châu quản lý hàng nghìn SKU. Thuốc đặc tr�
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+![Figure 9.4 - EOQ Concept](/images/figures/ch09_fig9.4.jpg)
+> *Figure 9.4: Mô hình EOQ -- tồn kho biến thiên theo thời gian với lượng đặt hàng cố định Q*
+
 #### Các giả định của mô hình [[EOQ]]:
 1. Nhu cầu ổn định và biết trước (không đổi theo thời gian)
 2. Không có [[Quantity Discounts]] (giá không đổi theo số lượng)
@@ -185,6 +191,9 @@ Chuỗi nhà thuốc Long Châu quản lý hàng nghìn SKU. Thuốc đặc tr�
 5. Không có [[Stockout]] (không hết hàng)
 6. [[Lead Time]] không đổi
 
+
+![Figure 9.5 - EOQ Cost Curves](/images/figures/ch09_fig9.5.jpg)
+> *Figure 9.5: Đường cong chi phí EOQ -- Holding Cost, Ordering Cost, và Total Cost giao nhau tại điểm tối ưu*
 
 #### Derivation (Suy ra công thức):
 
@@ -252,6 +261,9 @@ Chú ý: Holding = Ordering tại điểm tối ưu!
 ### Giải thích chi tiết (Detailed Explanation)
 
 
+![Figure 9.6 - Q System (Continuous Review)](/images/figures/ch09_fig9.6.jpg)
+> *Figure 9.6: Hệ thống Q (Continuous Review) -- đặt hàng lượng cố định Q khi tồn kho chạm Reorder Point R*
+
 #### Hoạt động:
 - Theo dõi tồn kho liên tục (mỗi khi có giao dịch xuất/nhập)
 - Khi Inventory Position ≤ R → đặt hàng Q đơn vị
@@ -315,6 +327,9 @@ $$\sigma_{dLT} = \sqrt{L\sigma_d^2 + \bar{d}^2\sigma_{LT}^2}$$
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+
+![Figure 9.10 - P System (Periodic Review)](/images/figures/ch09_fig9.10.jpg)
+> *Figure 9.10: Hệ thống P (Periodic Review) -- kiểm tra định kỳ và đặt hàng lên mức mục tiêu T*
 
 #### Hoạt động:
 - Mỗi P ngày/tuần, kiểm tra tồn kho
@@ -417,53 +432,4 @@ Chuỗi cửa hàng Circle K:
 - [[Quantity Discounts]] - Chiết khấu số lượng
 - [[Lot Size]] - Kích thước lô
 - [[Demand Variability]] - Độ biến thiên nhu cầu
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 9.1](/images/figures/ch09_fig9.1.jpg)
-> *Figure 9.1*
-
-![Figure 9.10](/images/figures/ch09_fig9.10.jpg)
-> *Figure 9.10*
-
-![Figure 9.11](/images/figures/ch09_fig9.11.jpg)
-> *Figure 9.11*
-
-![Figure 9.12](/images/figures/ch09_fig9.12.jpg)
-> *Figure 9.12*
-
-![Figure 9.13](/images/figures/ch09_fig9.13.jpg)
-> *Figure 9.13*
-
-![Figure 9.14](/images/figures/ch09_fig9.14.jpg)
-> *Figure 9.14*
-
-![Figure 9.15](/images/figures/ch09_fig9.15.jpg)
-> *Figure 9.15*
-
-![Figure 9.2](/images/figures/ch09_fig9.2.jpg)
-> *Figure 9.2*
-
-![Figure 9.3](/images/figures/ch09_fig9.3.jpg)
-> *Figure 9.3*
-
-![Figure 9.4](/images/figures/ch09_fig9.4.jpg)
-> *Figure 9.4*
-
-![Figure 9.5](/images/figures/ch09_fig9.5.jpg)
-> *Figure 9.5*
-
-![Figure 9.6](/images/figures/ch09_fig9.6.jpg)
-> *Figure 9.6*
-
-![Figure 9.7](/images/figures/ch09_fig9.7.jpg)
-> *Figure 9.7*
-
-![Figure 9.8](/images/figures/ch09_fig9.8.jpg)
-> *Figure 9.8*
-
-![Figure 9.9](/images/figures/ch09_fig9.9.jpg)
-> *Figure 9.9*
 

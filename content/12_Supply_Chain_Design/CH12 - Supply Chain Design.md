@@ -43,6 +43,9 @@ Một chuỗi cung ứng hiệu quả là chuỗi cung ứng đồng bộ hóa �
 ### Định nghĩa (Definition)
 **[[Measuring Supply Chain Performance]]** là quá trình sử dụng các chỉ số (metrics) để đánh giá mức độ hiệu quả của chuỗi cung ứng. Hai nhóm chỉ số chính là **[[Inventory Measures]]** (chỉ số tồn kho) và **[[Financial Measures]]** (chỉ số tài chính).
 
+![Figure 12.1 - Supply Chain Inventory Measures](/images/figures/ch12_fig12.1.jpg)
+> *Figure 12.1: Các chỉ số đo lường tồn kho trong chuỗi cung ứng — Weeks of Supply và Inventory Turnover*
+
 ### 2.1 Chỉ số tồn kho (Inventory Measures)
 
 #### **[[Weeks of Supply]]** (Số tuần cung ứng)
@@ -119,6 +122,9 @@ $$\text{Inventory Turnover} = \frac{2{,}600}{200} = 13 \text{ lần/năm}$$
 
 **Ví dụ**: Thời trang nhanh (Zara, H&M), điện thoại thông minh, sản phẩm theo mùa.
 
+![Figure 12.2 - Efficient vs Responsive Supply Chains](/images/figures/ch12_fig12.2.jpg)
+> *Figure 12.2: So sánh chuỗi cung ứng hiệu quả (Efficient) và chuỗi cung ứng đáp ứng nhanh (Responsive)*
+
 ### 3.3 So sánh hai chiến lược
 
 | Yếu tố | Efficient SC | Responsive SC |
@@ -143,6 +149,9 @@ $$\text{Inventory Turnover} = \frac{2{,}600}{200} = 13 \text{ lần/năm}$$
 ### Giải thích chi tiết
 
 Việc thiết kế chuỗi cung ứng không phải là lựa chọn tuyệt đối giữa hiệu quả và đáp ứng nhanh. Thực tế, nhiều công ty sử dụng **chiến lược kết hợp** tùy theo từng dòng sản phẩm hoặc phân khúc thị trường.
+
+![Figure 12.3 - Supply Chain Design Strategies](/images/figures/ch12_fig12.3.jpg)
+> *Figure 12.3: Các chiến lược thiết kế chuỗi cung ứng — từ Make-to-Stock đến Engineer-to-Order*
 
 **Các yếu tố thiết kế chính**:
 
@@ -200,6 +209,9 @@ Việc thiết kế chuỗi cung ứng không phải là lựa chọn tuyệt đ
 - **Giá cả hợp lý**: Nhờ sản xuất hàng loạt các linh kiện tiêu chuẩn, chi phí vẫn được kiểm soát → giá bán không quá cao so với sản phẩm đại trà.
 - **Phản ứng nhanh với thị trường**: Dễ dàng điều chỉnh sản phẩm theo xu hướng mới mà không cần thiết kế lại toàn bộ.
 - **Giảm tồn kho thành phẩm**: Vì sản xuất theo đơn hàng nên ít tồn kho sản phẩm cuối → giảm chi phí tồn kho.
+
+![Figure 12.5 - Mass Customization](/images/figures/ch12_fig12.5.jpg)
+> *Figure 12.5: Tùy chỉnh hàng loạt — kết hợp sản xuất hàng loạt với cá nhân hóa sản phẩm*
 
 ### 6.2 Thiết kế chuỗi cung ứng cho Mass Customization
 
@@ -266,6 +278,9 @@ Tích hợp hoàn toàn ←——————————→ Thuê ngoài hoàn 
 (Full Vertical Integration)        (Full Outsourcing)
 Tự làm tất cả                     Thuê ngoài tất cả
 ```
+
+![Figure 12.8 - Outsourcing Make-or-Buy Decision](/images/figures/ch12_fig12.8.jpg)
+> *Figure 12.8: Khung quyết định Tự làm hay Thuê ngoài (Make-or-Buy) trong chuỗi cung ứng*
 
 ### 7.3 Quyết định **[[Make-or-Buy Decisions]]** (Tự làm hay thuê ngoài)
 
@@ -342,35 +357,4 @@ Tự làm tất cả                     Thuê ngoài tất cả
 ---
 
 > **Xem thêm**: [[CH13 - Supply Chain Logistics Networks]] | [[CH14 - Supply Chain Integration]] | [[CH15 - Supply Chain Sustainability]]
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 12.1](/images/figures/ch12_fig12.1.jpg)
-> *Figure 12.1*
-
-![Figure 12.2](/images/figures/ch12_fig12.2.jpg)
-> *Figure 12.2*
-
-![Figure 12.3](/images/figures/ch12_fig12.3.jpg)
-> *Figure 12.3*
-
-![Figure 12.4](/images/figures/ch12_fig12.4.jpg)
-> *Figure 12.4*
-
-![Figure 12.5](/images/figures/ch12_fig12.5.jpg)
-> *Figure 12.5*
-
-![Figure 12.6](/images/figures/ch12_fig12.6.jpg)
-> *Figure 12.6*
-
-![Figure 12.7](/images/figures/ch12_fig12.7.jpg)
-> *Figure 12.7*
-
-![Figure 12.8](/images/figures/ch12_fig12.8.jpg)
-> *Figure 12.8*
-
-![Figure 12.9](/images/figures/ch12_fig12.9.jpg)
-> *Figure 12.9*
 

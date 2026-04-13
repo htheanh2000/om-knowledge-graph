@@ -23,6 +23,8 @@ Constraint Management bổ sung cho [[Lean Systems]] và [[Six Sigma]]: Lean lo�
 
 #### Key Principles (Nguyên tắc chính)
 
+![Figure 6.1 - Theory of Constraints Steps](/images/figures/ch06_fig6.1.jpg)
+> *Figure 6.1: Năm bước tập trung của TOC - Identify, Exploit, Subordinate, Elevate, Repeat*
 
 **5 bước tập trung của TOC (Five Focusing Steps):**
 
@@ -96,6 +98,9 @@ Bottleneck trong sản xuất dễ nhận diện hơn:
 - Các trạm SAU bottleneck thường rảnh rỗi
 - Bottleneck có [[Utilization]] cao nhất (thường > 90%)
 
+![Figure 6.2 - Bottleneck Identification](/images/figures/ch06_fig6.2.jpg)
+> *Figure 6.2: Nhận diện nút thắt cổ chai - WIP tích tụ trước bottleneck, các trạm sau bottleneck thường rảnh rỗi*
+
 ### Identifying and Relieving Bottlenecks (Nhận diện và giải tỏa nút thắt)
 
 **Cách nhận diện:**
@@ -129,6 +134,8 @@ Bottleneck trong sản xuất dễ nhận diện hơn:
 
 ### Giải thích chi tiết
 
+![Figure 6.4 - Drum-Buffer-Rope](/images/figures/ch06_fig6.4.jpg)
+> *Figure 6.4: Phương pháp Drum-Buffer-Rope (DBR) - Bottleneck là Drum đặt nhịp, Buffer bảo vệ bottleneck, Rope kiểm soát đầu vào*
 
 **Ba thành phần:**
 
@@ -221,6 +228,9 @@ Nếu bottleneck có 480 phút/ngày:
 
 ### Giải thích chi tiết
 
+![Figure 6.5 - Line Balancing](/images/figures/ch06_fig6.5.jpg)
+> *Figure 6.5: Cân bằng dây chuyền (Line Balancing) - phân bổ công việc cho các trạm để giảm thiểu thời gian nhàn rỗi*
+
 **Các khái niệm quan trọng:**
 
 - **[[Work Element]]** (Yếu tố công việc): Đơn vị công việc nhỏ nhất không thể chia nhỏ hơn
@@ -254,6 +264,9 @@ $$\text{Balance Delay} = 100\% - \text{Efficiency}$$
 4. Áp dụng quy tắc gán việc (ví dụ: [[Longest Task Time]] - ưu tiên việc dài nhất)
 5. Gán work elements vào trạm sao cho không vượt cycle time và đúng thứ tự
 6. Tính Efficiency, điều chỉnh nếu cần
+
+![Figure 6.7 - Assembly Line Balancing](/images/figures/ch06_fig6.7.jpg)
+> *Figure 6.7: Ví dụ cân bằng dây chuyền lắp ráp - Precedence Diagram, phân bổ work elements vào trạm và tính Efficiency*
 
 ### Rebalancing Assembly Line (Tái cân bằng dây chuyền)
 
@@ -318,68 +331,4 @@ Nếu thực tế cần 5 trạm: Efficiency = 8/(5×2) = 80% → 20% thời gia
 ---
 
 > **Ghi chú ôn tập**: TOC là triết lý bổ sung cho [[Lean Systems]] và [[Six Sigma]]. Nhớ 5 bước tập trung (Identify → Exploit → Subordinate → Elevate → Repeat), nguyên tắc Product Mix theo TOC (throughput per bottleneck minute), và công thức Line Balancing. Chương này liên kết chặt với [[CH05 - Capacity Planning]] và [[CH04 - Lean Systems]].
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 6.1](/images/figures/ch06_fig6.1.jpg)
-> *Figure 6.1*
-
-![Figure 6.10](/images/figures/ch06_fig6.10.jpg)
-> *Figure 6.10*
-
-![Figure 6.11](/images/figures/ch06_fig6.11.jpg)
-> *Figure 6.11*
-
-![Figure 6.12](/images/figures/ch06_fig6.12.jpg)
-> *Figure 6.12*
-
-![Figure 6.13](/images/figures/ch06_fig6.13.jpg)
-> *Figure 6.13*
-
-![Figure 6.14](/images/figures/ch06_fig6.14.jpg)
-> *Figure 6.14*
-
-![Figure 6.15](/images/figures/ch06_fig6.15.jpg)
-> *Figure 6.15*
-
-![Figure 6.16](/images/figures/ch06_fig6.16.jpg)
-> *Figure 6.16*
-
-![Figure 6.17](/images/figures/ch06_fig6.17.jpg)
-> *Figure 6.17*
-
-![Figure 6.18](/images/figures/ch06_fig6.18.jpg)
-> *Figure 6.18*
-
-![Figure 6.19](/images/figures/ch06_fig6.19.jpg)
-> *Figure 6.19*
-
-![Figure 6.2](/images/figures/ch06_fig6.2.jpg)
-> *Figure 6.2*
-
-![Figure 6.20](/images/figures/ch06_fig6.20.jpg)
-> *Figure 6.20*
-
-![Figure 6.3](/images/figures/ch06_fig6.3.jpg)
-> *Figure 6.3*
-
-![Figure 6.4](/images/figures/ch06_fig6.4.jpg)
-> *Figure 6.4*
-
-![Figure 6.5](/images/figures/ch06_fig6.5.jpg)
-> *Figure 6.5*
-
-![Figure 6.6](/images/figures/ch06_fig6.6.jpg)
-> *Figure 6.6*
-
-![Figure 6.7](/images/figures/ch06_fig6.7.jpg)
-> *Figure 6.7*
-
-![Figure 6.8](/images/figures/ch06_fig6.8.jpg)
-> *Figure 6.8*
-
-![Figure 6.9](/images/figures/ch06_fig6.9.jpg)
-> *Figure 6.9*
 

@@ -21,6 +21,9 @@ Chương trình bày các công cụ quan trọng của Lean: [[Kanban System]],
 
 ### Giải thích chi tiết
 
+![Figure 4.1 - Lean Philosophy](/images/figures/ch04_fig4.1.jpg)
+> *Figure 4.1: Triết lý Lean - loại bỏ lãng phí và tối đa hóa giá trị cho khách hàng thông qua cải tiến liên tục*
+
 #### 8 loại lãng phí ([[Muda]]) - TIMWOODS:
 1. **T - [[Transportation Waste]]** (Vận chuyển): Di chuyển vật liệu/sản phẩm không cần thiết
 2. **I - [[Inventory Waste]]** (Tồn kho): Tồn kho quá mức cần thiết → đóng băng vốn
@@ -55,6 +58,8 @@ Bệnh viện áp dụng Lean: Giảm thời gian chờ khám từ 3 giờ xuố
 
 ### Giải thích chi tiết
 
+![Figure 4.2 - Strategic Characteristics of Lean](/images/figures/ch04_fig4.2.jpg)
+> *Figure 4.2: Các đặc điểm chiến lược của hệ thống Lean - Pull System, Small Lot Sizes, Uniform Loads, Jidoka, 5S và các yếu tố khác*
 
 Các đặc điểm chiến lược:
 
@@ -215,7 +220,8 @@ Xưởng cơ khí truyền thống: tất cả máy tiện ở khu A, máy phay 
 
 ### Giải thích chi tiết
 
-
+![Figure 4.5 - Kanban System](/images/figures/ch04_fig4.5.jpg)
+> *Figure 4.5: Hệ thống Kanban - minh họa cách thẻ Kanban kiểm soát dòng chảy vật liệu giữa các trạm sản xuất*
 
 #### Các quy tắc Kanban:
 1. Mỗi container phải có thẻ Kanban
@@ -223,6 +229,9 @@ Xưởng cơ khí truyền thống: tất cả máy tiện ở khu A, máy phay 
 3. Trạm trước chỉ sản xuất khi nhận được Kanban
 4. Không gửi sản phẩm lỗi sang trạm sau
 5. Số lượng Kanban phải được giảm dần theo thời gian (để lộ vấn đề và cải tiến)
+
+![Figure 4.6 - Kanban Operating Rules](/images/figures/ch04_fig4.6.jpg)
+> *Figure 4.6: Quy tắc vận hành Kanban - dòng chảy Production Kanban và Withdrawal Kanban giữa các trạm*
 
 #### Hai loại Kanban chính:
 - **[[Production Kanban]]** (Kanban sản xuất): Báo hiệu trạm sản xuất cần sản xuất thêm
@@ -270,6 +279,9 @@ Cần ít nhất 1 container Kanban. Trong thực tế thường làm tròn lên
 ### Giải thích chi tiết
 
 
+![Figure 4.7 - Value Stream Mapping Current State](/images/figures/ch04_fig4.7.jpg)
+> *Figure 4.7: Bản đồ dòng giá trị trạng thái hiện tại (Current State Map) - trực quan hóa toàn bộ dòng chảy vật liệu và thông tin*
+
 #### Current State Map (Bản đồ trạng thái hiện tại)
 [[Current State Map]] mô tả quy trình HIỆN TẠI:
 - Tất cả các bước xử lý
@@ -286,6 +298,9 @@ Cần ít nhất 1 container Kanban. Trong thực tế thường làm tròn lên
 - Mũi tên kéo: Pull flow (supermarket)
 - Đường timeline ở dưới: Phân biệt thời gian tạo giá trị vs không tạo giá trị
 
+
+![Figure 4.9 - Value Stream Map Symbols](/images/figures/ch04_fig4.9.jpg)
+> *Figure 4.9: Ký hiệu Value Stream Mapping và bản đồ trạng thái tương lai (Future State Map)*
 
 #### Future State Map (Bản đồ trạng thái tương lai)
 [[Future State Map]] mô tả quy trình SAU KHI cải tiến:
@@ -405,53 +420,4 @@ Dell Computer: Khách đặt hàng → Dell mới đặt linh kiện từ nhà c
 ---
 
 > **Ghi chú ôn tập**: Lean/TPS là chương TRỌNG TÂM. Hãy nhớ: 8 loại lãng phí (TIMWOODS), 5 nguyên tắc Lean, công thức Kanban, và Takt Time. Lean kết nối chặt với [[CH03 - Quality and Performance]] (chất lượng tại nguồn) và [[CH06 - Constraint Management]] (quản lý nút thắt cổ chai).
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 4.1](/images/figures/ch04_fig4.1.jpg)
-> *Figure 4.1*
-
-![Figure 4.10](/images/figures/ch04_fig4.10.jpg)
-> *Figure 4.10*
-
-![Figure 4.11](/images/figures/ch04_fig4.11.jpg)
-> *Figure 4.11*
-
-![Figure 4.12](/images/figures/ch04_fig4.12.jpg)
-> *Figure 4.12*
-
-![Figure 4.13](/images/figures/ch04_fig4.13.jpg)
-> *Figure 4.13*
-
-![Figure 4.14](/images/figures/ch04_fig4.14.jpg)
-> *Figure 4.14*
-
-![Figure 4.15](/images/figures/ch04_fig4.15.jpg)
-> *Figure 4.15*
-
-![Figure 4.2](/images/figures/ch04_fig4.2.jpg)
-> *Figure 4.2*
-
-![Figure 4.3](/images/figures/ch04_fig4.3.jpg)
-> *Figure 4.3*
-
-![Figure 4.4](/images/figures/ch04_fig4.4.jpg)
-> *Figure 4.4*
-
-![Figure 4.5](/images/figures/ch04_fig4.5.jpg)
-> *Figure 4.5*
-
-![Figure 4.6](/images/figures/ch04_fig4.6.jpg)
-> *Figure 4.6*
-
-![Figure 4.7](/images/figures/ch04_fig4.7.jpg)
-> *Figure 4.7*
-
-![Figure 4.8](/images/figures/ch04_fig4.8.jpg)
-> *Figure 4.8*
-
-![Figure 4.9](/images/figures/ch04_fig4.9.jpg)
-> *Figure 4.9*
 

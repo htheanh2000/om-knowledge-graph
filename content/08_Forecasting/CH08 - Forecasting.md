@@ -24,6 +24,9 @@ Dự báo không chỉ là công việc của bộ phận kinh doanh mà là tr�
 #### Demand Patterns (Các mẫu nhu cầu)
 
 
+![Figure 8.1 - Demand Patterns](/images/figures/ch08_fig8.1.jpg)
+> *Figure 8.1: Các mẫu nhu cầu (Demand Patterns) -- Trend, Seasonal, Cyclical, và Random Variation*
+
 Nhu cầu hiếm khi ổn định hoàn toàn. Có 5 thành phần cơ bản của [[Demand Patterns]]:
 
 1. **[[Trend]]** (Xu hướng): Sự tăng hoặc giảm dài hạn trong nhu cầu. Ví dụ: nhu cầu xe điện Tesla tăng liên tục qua các năm do xu hướng xanh hóa giao thông.
@@ -153,6 +156,9 @@ Một cửa hàng Highlands Coffee dự báo bán 200 ly cà phê/ngày. Thực 
 ### Giải thích chi tiết (Detailed Explanation)
 
 
+![Figure 8.3 - Forecast Methods Overview](/images/figures/ch08_fig8.3.jpg)
+> *Figure 8.3: Tổng quan các phương pháp dự báo -- Judgment, Causal, và Time-Series*
+
 Sử dụng khi: sản phẩm mới, không có dữ liệu lịch sử, hoặc môi trường thay đổi nhanh.
 
 1. **[[Sales Force Estimates]]** (Dự báo từ đội ngũ bán hàng)
@@ -195,6 +201,9 @@ Khi Apple ra mắt iPhone đời đầu (2007), không có dữ liệu lịch s�
 
 ### Giải thích chi tiết (Detailed Explanation)
 
+
+![Figure 8.7 - Linear Regression](/images/figures/ch08_fig8.7.jpg)
+> *Figure 8.7: Hồi quy tuyến tính (Linear Regression) -- đường thẳng tốt nhất mô tả mối quan hệ nhân quả*
 
 #### Mô hình hồi quy tuyến tính:
 $$\hat{y} = a + bx$$
@@ -265,6 +274,9 @@ $$F_{t+1} = D_t$$
 
 
 ### 2. [[Moving Average]] (Trung bình trượt)
+
+![Figure 8.4 - Moving Average](/images/figures/ch08_fig8.4.jpg)
+> *Figure 8.4: Phương pháp trung bình trượt (Moving Average) -- so sánh n khác nhau và độ nhạy với dữ liệu*
 
 Lấy trung bình của n kỳ gần nhất:
 $$F_{t+1} = \frac{D_t + D_{t-1} + ... + D_{t-n+1}}{n}$$
@@ -373,6 +385,9 @@ Trong đó:
 [[Seasonal Factors]] (Hệ số mùa vụ / chỉ số mùa vụ) là các giá trị dùng để điều chỉnh dự báo theo mùa, phản ánh sự khác biệt có hệ thống giữa các kỳ trong năm.
 
 ### Giải thích chi tiết (Detailed Explanation)
+
+![Figure 8.9 - Seasonal Patterns](/images/figures/ch08_fig8.9.jpg)
+> *Figure 8.9: Mẫu mùa vụ (Seasonal Patterns) -- hệ số mùa vụ điều chỉnh dự báo theo chu kỳ lặp lại*
 
 #### Quy trình tính [[Seasonal Factors]] theo phương pháp nhân (Multiplicative Method):
 
@@ -495,35 +510,4 @@ Grab Việt Nam sử dụng [[Big Data]] từ hàng triệu chuyến xe mỗi ng
 - [[Predictive Analytics]] - Phân tích dự đoán
 - [[Time-Series Methods]] - Phương pháp chuỗi thời gian
 - [[Causal Methods]] - Phương pháp nhân quả
-
-
----
-## Hình minh họa từ sách (Textbook Figures)
-
-![Figure 8.1](/images/figures/ch08_fig8.1.jpg)
-> *Figure 8.1*
-
-![Figure 8.2](/images/figures/ch08_fig8.2.jpg)
-> *Figure 8.2*
-
-![Figure 8.3](/images/figures/ch08_fig8.3.jpg)
-> *Figure 8.3*
-
-![Figure 8.4](/images/figures/ch08_fig8.4.jpg)
-> *Figure 8.4*
-
-![Figure 8.5](/images/figures/ch08_fig8.5.jpg)
-> *Figure 8.5*
-
-![Figure 8.6](/images/figures/ch08_fig8.6.jpg)
-> *Figure 8.6*
-
-![Figure 8.7](/images/figures/ch08_fig8.7.jpg)
-> *Figure 8.7*
-
-![Figure 8.8](/images/figures/ch08_fig8.8.jpg)
-> *Figure 8.8*
-
-![Figure 8.9](/images/figures/ch08_fig8.9.jpg)
-> *Figure 8.9*
 
