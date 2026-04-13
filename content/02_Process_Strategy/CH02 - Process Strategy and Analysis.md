@@ -49,24 +49,6 @@ Bốn loại quy trình dịch vụ (từ ít tiếp xúc đến nhiều tiếp 
    - Dòng chảy: Linh hoạt ([[Flexible Flow]])
    - Ví dụ: Bác sĩ khám bệnh, tư vấn tài chính, luật sư
 
-> **Sơ đồ Ma trận tiếp xúc khách hàng (Customer-Contact Matrix):**
-
-```mermaid
-flowchart TB
-    subgraph Matrix["Customer-Contact Matrix"]
-        direction TB
-        subgraph High["High Contact & Customization"]
-            FO[Front Office<br/>Consulting, Healthcare<br/>Legal Services]
-        end
-        subgraph Medium["Medium Contact"]
-            HO[Hybrid Office<br/>Bank Branches<br/>Retail Stores]
-        end
-        subgraph Low["Low Contact & Customization"]
-            BO[Back Office<br/>Data Processing<br/>Warehouse Operations]
-        end
-    end
-    High --> Medium --> Low
-```
 
 > **Quy tắc quan trọng**: Mức tiếp xúc khách hàng càng cao → Quy trình càng khó chuẩn hóa → Chi phí càng cao → Nhưng khách hàng hài lòng hơn vì được cá nhân hóa.
 
@@ -122,21 +104,6 @@ Năm loại quy trình sản xuất (từ tùy chỉnh cao/sản lượng thấp
    - Ví dụ: Lọc dầu, sản xuất thép, nhà máy điện, sản xuất giấy
    - Đặc điểm: Tự động hóa cao, vốn đầu tư lớn, dừng máy rất tốn kém
 
-> **Sơ đồ Ma trận sản phẩm - quy trình (Product-Process Matrix):**
-
-```mermaid
-flowchart TB
-    subgraph Matrix["Product-Process Matrix"]
-        direction LR
-        subgraph Volume["Low Volume ──────────── High Volume"]
-            JP["Job Process<br/>Custom products<br/>e.g., Custom furniture"]
-            BP["Batch Process<br/>Moderate variety<br/>e.g., Bakery"]
-            LP["Line Process<br/>Few products, high vol<br/>e.g., Auto assembly"]
-            CF["Continuous Flow<br/>Commodity<br/>e.g., Oil refinery"]
-        end
-    end
-    JP --> BP --> LP --> CF
-```
 
 5. **[[Project Process]]** (Quy trình dự án)
    - Đặc biệt: Mỗi sản phẩm là duy nhất, quy mô lớn, thời gian dài
@@ -306,17 +273,6 @@ Các ký hiệu cơ bản:
 - **Hình oval**: Bắt đầu / Kết thúc
 - **Hình bình hành**: Đầu vào / Đầu ra
 
-> **Sơ đồ minh họa các ký hiệu lưu đồ (Flowchart Symbols):**
-
-```mermaid
-flowchart LR
-    A((Start)) --> B[Operation<br/>□ Rectangle]
-    B --> C{Decision<br/>◇ Diamond}
-    C -->|Yes| D[/Document<br/>▱ Parallelogram/]
-    C -->|No| E[(Database<br/>⬭ Cylinder)]
-    D --> F([End])
-    E --> F
-```
 
 [[Swimlane Flowchart]] (Lưu đồ phân làn) thêm các "làn bơi" để phân biệt ai chịu trách nhiệm cho từng bước. Rất hữu ích khi quy trình liên quan đến nhiều bộ phận.
 
@@ -330,7 +286,7 @@ Các phương pháp chính:
 - **[[Time Study]]** (Nghiên cứu thời gian): Dùng đồng hồ bấm giờ đo thời gian thực tế
 - **[[Work Sampling]]** (Lấy mẫu công việc): Quan sát ngẫu nhiên nhiều lần để ước tính tỷ lệ thời gian dành cho từng hoạt động
 - **[[Elemental Standard Data]]**: Sử dụng dữ liệu thời gian chuẩn đã có sẵn
-- **[[Learning Curves]]** ([[Đường cong học hỏi]]): Thời gian giảm dần khi công nhân quen việc
+- **[[Learning Curves]]** (Đường cong học hỏi): Thời gian giảm dần khi công nhân quen việc
 
 ### Process Charts (Biểu đồ quy trình)
 

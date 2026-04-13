@@ -28,8 +28,8 @@ Mọi tổ chức đều có chức năng vận hành, bất kể họ bán sả
 
 Ba chức năng này phải phối hợp chặt chẽ. Ví dụ: Marketing không thể hứa giao hàng trong 2 ngày nếu Operations cần 5 ngày để sản xuất. Finance không thể cắt ngân sách bảo trì nếu điều đó khiến dây chuyền ngừng hoạt động.
 
-> ![Figure 1.1 - Vai trò của vận hành trong tổ chức](/images/figures/ch01_fig1.1.jpg)
-> *Figure 1.1: Operations là 1 trong 3 chức năng chính (Operations, Finance, Marketing)*
+![Figure 1.1 - Operations Function](/images/figures/ch01_fig1.1.jpg)
+> *Figure 1.1: Operations là 1 trong 3 chức năng chính kết nối vòng tròn: Operations, Finance, Marketing*
 
 ### Ví dụ thực tế
 Hãy tưởng tượng một quán phở. **Operations** là quá trình nấu phở (mua nguyên liệu, nấu nước dùng, phục vụ khách). **Marketing** là quảng cáo quán trên mạng xã hội, chương trình khuyến mãi. **Finance** là quản lý chi phí nguyên liệu, tiền thuê mặt bằng, tính lãi lỗ. Nếu quán muốn thành công, cả ba phải phối hợp nhịp nhàng.
@@ -51,37 +51,14 @@ Hãy tưởng tượng một quán phở. **Operations** là quá trình nấu p
 
 #### How Processes Work (Cách quy trình hoạt động)
 
-> ![Figure 1.2 - Quy trình và Vận hành](/images/figures/ch01_fig1.2.jpg)
-> *Figure 1.2: Input (workers, equipment, materials) → Processes → Output (products, services)*
+![Figure 1.2 - Processes and Operations](/images/figures/ch01_fig1.2.jpg)
+> *Figure 1.2: Inputs (Workers, Equipment, Materials) → Processes & Operations → Outputs (Goods, Services)*
 
 Một [[Process]] (quy trình) là bất kỳ hoạt động nào nhận đầu vào và biến đổi chúng thành đầu ra:
 - **[[Input]]** (Đầu vào): Nguyên vật liệu, thông tin, lao động, năng lượng, vốn
 - **[[Transformation]]** (Quá trình biến đổi): Các hoạt động tạo giá trị gia tăng
 - **[[Output]]** (Đầu ra): Sản phẩm hoàn chỉnh hoặc dịch vụ
 
-> **Hình 1.2 - Mô hình quy trình (Process Model):** Sơ đồ minh họa cách đầu vào được biến đổi thành đầu ra thông qua các quy trình, với vòng phản hồi từ khách hàng.
-
-```mermaid
-flowchart LR
-    subgraph Inputs
-        A[Workers/Managers]
-        B[Equipment/Facilities]
-        C[Materials/Services]
-        D[Land/Energy]
-    end
-    subgraph Processes["Processes & Operations"]
-        E[Process 1]
-        F[Process 2]
-        G[Process 3]
-    end
-    subgraph Outputs
-        H[Products]
-        I[Services]
-        J[Information]
-    end
-    Inputs --> Processes --> Outputs
-    K[External Customers] -.->|Feedback| Processes
-```
 
 Mỗi quy trình có:
 - **[[Customer]]** (Khách hàng): Người nhận đầu ra - có thể là khách hàng bên ngoài hoặc bộ phận khác trong công ty ([[Internal Customer]])
@@ -90,7 +67,7 @@ Mỗi quy trình có:
 #### Nested Processes (Quy trình lồng nhau)
 [[Nested Processes]] là khái niệm cho thấy mỗi quy trình có thể được chia nhỏ thành các quy trình con. Ví dụ: quy trình "sản xuất ô tô" bao gồm quy trình con "lắp ráp động cơ", "sơn thân xe", "kiểm tra chất lượng"... Mỗi quy trình con lại có thể chia nhỏ hơn nữa. Đây gọi là [[Process-within-a-Process]] (quy trình trong quy trình).
 
-> ![Figure 1.3 - Sản xuất vs Dịch vụ](/images/figures/ch01_fig1.3.jpg)
+![Figure 1.3 - Manufacturing vs Service](/images/figures/ch01_fig1.3.jpg)
 > *Figure 1.3: Phổ liên tục từ Manufacturing (hữu hình, ít tiếp xúc KH) đến Service (vô hình, nhiều tiếp xúc KH)*
 
 #### Service vs Manufacturing (Dịch vụ vs Sản xuất)
@@ -142,22 +119,6 @@ Có bốn [[Core Processes]] mà mọi doanh nghiệp đều có:
 - [[Information Systems]] (Hệ thống thông tin)
 - [[Maintenance]] (Bảo trì)
 
-> **Hình 1.4 - Liên kết chuỗi cung ứng (Supply Chain Linkages):** Sơ đồ cho thấy cách các quy trình cốt lõi và quy trình hỗ trợ kết nối từ nhà cung cấp đến khách hàng.
-
-```mermaid
-flowchart LR
-    A[External Suppliers] --> B[Supplier Relationship Process]
-    A --> C[New Service/Product Development]
-    B --> D[Order Fulfillment Process]
-    C --> D
-    C --> E[Customer Relationship Process]
-    D --> F[External Customers]
-    E --> F
-    G[Support Processes] -.-> B
-    G -.-> C
-    G -.-> D
-    G -.-> E
-```
 
 #### Supply Chain Processes (Quy trình chuỗi cung ứng)
 [[Supply Chain]] (Chuỗi cung ứng) là mạng lưới liên kết các tổ chức từ nguyên liệu thô đến sản phẩm cuối cùng. Bao gồm:
@@ -213,8 +174,8 @@ Chiến lược vận hành phải bắt nguồn từ chiến lược công ty v
 
 ### Giải thích chi tiết
 
-> ![Figure 1.5 - Ưu tiên cạnh tranh](/images/figures/ch01_fig1.5.jpg)
-> *Figure 1.5: 4 ưu tiên cạnh tranh: Cost, Quality, Time, Flexibility*
+![Figure 1.5 - Competitive Priorities](/images/figures/ch01_fig1.5.jpg)
+> *Figure 1.5: Corporate Strategy → Market Analysis → Competitive Priorities → Operations Strategy*
 
 Có bốn nhóm ưu tiên cạnh tranh chính:
 
@@ -240,25 +201,6 @@ Có bốn nhóm ưu tiên cạnh tranh chính:
 - **[[Variety]]** (Đa dạng): Cung cấp nhiều loại sản phẩm/dịch vụ
 - Ví dụ: Dell cho phép khách hàng cấu hình laptop theo ý muốn (Customization)
 
-> **Sơ đồ tổng hợp 4 nhóm ưu tiên cạnh tranh (Competitive Priorities):**
-
-```mermaid
-mindmap
-  root((Competitive Priorities))
-    Cost
-      Low-cost operations
-      Inventory management
-    Quality
-      Top quality design
-      Consistent quality
-    Time
-      Delivery speed
-      On-time delivery
-      Development speed
-    Flexibility
-      Customization
-      Volume flexibility
-```
 
 > **Lưu ý quan trọng**: Doanh nghiệp không thể giỏi tất cả cùng lúc. Phải có sự [[Trade-off]] (đánh đổi). Ví dụ: khó vừa rẻ nhất vừa chất lượng cao nhất. Tuy nhiên, lý thuyết [[Sand Cone Model]] cho rằng có thể xây dựng năng lực theo thứ tự: Quality → Time → Flexibility → Cost.
 
@@ -271,6 +213,9 @@ mindmap
 ---
 
 ## Order Winners vs Order Qualifiers
+
+![Figure 1.6 - Order Winners vs Qualifiers](/images/figures/ch01_fig1.6.jpg)
+> *Figure 1.6: Order Winner (doanh thu tăng liên tục) vs Order Qualifier (phải đạt ngưỡng tối thiểu)*
 
 ### Định nghĩa (Definition)
 - **[[Order Winners]]**: Các tiêu chí giúp doanh nghiệp THẮNG đơn hàng - lý do khách hàng chọn bạn thay vì đối thủ.
@@ -302,8 +247,8 @@ Hãy tưởng tượng bạn đang tuyển dụng:
 
 ### Giải thích chi tiết
 
-> ![Figure 1.7 - Cách mạng Công nghiệp 4.0](/images/figures/ch01_fig1.7.jpg)
-> *Figure 1.7: Smart Manufacturing, Smart Products, Smart Supply, Base Technologies*
+![Figure 1.7 - Book Structure](/images/figures/ch01_fig1.7.jpg)
+> *Figure 1.7: Cấu trúc sách - 3 phần: Managing Processes, Managing Customer Demand, Managing Supply Chains*
 
 #### [[Internet of Things]] (IoT - Internet vạn vật)
 IoT là mạng lưới các thiết bị vật lý được kết nối internet, có thể thu thập và trao đổi dữ liệu. Trong vận hành:

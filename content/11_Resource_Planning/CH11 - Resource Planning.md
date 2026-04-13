@@ -380,8 +380,8 @@ ERP II / Cloud ERP  → Mở rộng ra ngoài doanh nghiệp (nhà cung cấp, k
 
 | Module | Chức năng | Liên kết OM |
 |--------|----------|-------------|
-| **[[Manufacturing/Production]]** | MRP, MPS, Shop Floor | [[Material Requirements Planning (MRP)]], [[Scheduling]] |
-| **[[Finance/Accounting]]** | Sổ cái, công nợ, ngân sách | [[Cost Management]] |
+| **[[Manufacturing-Production|Manufacturing/Production]]** | MRP, MPS, Shop Floor | [[Material Requirements Planning (MRP)]], [[Scheduling]] |
+| **[[Finance-Accounting|Finance/Accounting]]** | Sổ cái, công nợ, ngân sách | [[Cost Management]] |
 | **[[Human Resources]]** | Tuyển dụng, lương, đào tạo | [[Workforce Planning]] |
 | **[[Supply Chain Management]]** | Mua hàng, logistics | [[Supply Chain Management]], [[Inventory Management]] |
 | **[[Customer Relationship Management (CRM)]]** | Bán hàng, dịch vụ KH | [[Demand Management]] |

@@ -31,28 +31,6 @@ Chương trình bày các công cụ quan trọng của Lean: [[Kanban System]],
 7. **D - [[Defect Waste]]** (Sai lỗi): Sản phẩm lỗi phải sửa hoặc bỏ
 8. **S - [[Skills Waste]]** (Lãng phí tài năng): Không tận dụng kỹ năng/ý tưởng của nhân viên
 
-> **Sơ đồ 8 loại lãng phí (TIMWOODS):**
-
-```mermaid
-mindmap
-  root((8 Lãng phí<br/>TIMWOODS))
-    T - Transportation
-      Di chuyển vật liệu không cần thiết
-    I - Inventory
-      Tồn kho dư thừa
-    M - Motion
-      Chuyển động thừa của người
-    W - Waiting
-      Chờ đợi
-    O - Overproduction
-      Sản xuất thừa
-    O - Overprocessing
-      Xử lý thừa
-    D - Defects
-      Khuyết tật/Phế phẩm
-    S - Skills waste
-      Lãng phí tài năng
-```
 
 #### Nguyên tắc Lean (5 Lean Principles):
 1. **[[Value]]**: Xác định giá trị từ góc nhìn khách hàng
@@ -164,30 +142,6 @@ Các đặc điểm chiến lược:
           └─────────────────────────┘
 ```
 
-> **Sơ đồ Ngôi nhà TPS (Toyota Production System House):**
-
-```mermaid
-flowchart TB
-    GOAL["🏠 Goal: Highest Quality, Lowest Cost, Shortest Lead Time"]
-    GOAL --- JIT
-    GOAL --- JIDOKA
-    subgraph JIT["JIT - Just-in-Time"]
-        J1[Continuous Flow]
-        J2[Takt Time]
-        J3[Pull System]
-    end
-    subgraph JIDOKA["Jidoka - Tự kiểm tra"]
-        K1[Stop & Notify]
-        K2[Separate Human & Machine Work]
-    end
-    JIT --- FOUNDATION
-    JIDOKA --- FOUNDATION
-    subgraph FOUNDATION["Foundation - Nền tảng"]
-        F1[Heijunka<br/>San bằng sản xuất]
-        F2[Standardized Work<br/>Tiêu chuẩn hóa]
-        F3[Kaizen<br/>Cải tiến liên tục]
-    end
-```
 
 **Hai cột trụ:**
 1. **[[JIT]]** ([[Just-in-Time]]): Sản xuất đúng sản phẩm, đúng số lượng, đúng thời điểm
@@ -282,21 +236,6 @@ Xưởng cơ khí truyền thống: tất cả máy tiện ở khu A, máy phay 
 - **[[Production Kanban]]** (Kanban sản xuất): Báo hiệu trạm sản xuất cần sản xuất thêm
 - **[[Withdrawal Kanban]]** (Kanban rút hàng): Báo hiệu cần di chuyển vật liệu đến trạm tiếp theo
 
-> **Sơ đồ dòng chảy Kanban (Kanban Flow):**
-
-```mermaid
-flowchart LR
-    subgraph WS1["Workstation 1"]
-        P1[Sản xuất]
-    end
-    subgraph WS2["Workstation 2"]
-        P2[Sản xuất]
-    end
-    WS1 -->|"Container + Production Kanban"| STORE[(Kho trung gian)]
-    STORE -->|"Container + Withdrawal Kanban"| WS2
-    WS2 -.->|"Withdrawal Kanban quay lại"| STORE
-    STORE -.->|"Production Kanban quay lại"| WS1
-```
 
 #### Công thức tính số container Kanban:
 

@@ -54,21 +54,6 @@ Chi phí khi khách hàng NHẬN ĐƯỢC sản phẩm lỗi - **ĐẮT NHẤT t
 - Mất khách hàng, mất uy tín
 - Xử lý khiếu nại
 
-> **Sơ đồ Chi phí chất lượng (Cost of Quality):**
-
-```mermaid
-flowchart LR
-    subgraph COQ["Costs of Quality"]
-        subgraph Conformance["Cost of Conformance<br/>(Đầu tư phòng ngừa)"]
-            PC[Prevention Costs<br/>Đào tạo, thiết kế]
-            AC[Appraisal Costs<br/>Kiểm tra, kiểm định]
-        end
-        subgraph NonConformance["Cost of Non-Conformance<br/>(Chi phí do lỗi)"]
-            IF[Internal Failure<br/>Phế phẩm, sửa lại]
-            EF[External Failure<br/>Bảo hành, mất KH]
-        end
-    end
-```
 
 > **Quy tắc 1:10:100**: Phát hiện lỗi ở giai đoạn thiết kế tốn 1 đồng, ở giai đoạn sản xuất tốn 10 đồng, sau khi đến tay khách hàng tốn 100 đồng. → Đầu tư vào [[Prevention Cost]] là hiệu quả nhất!
 
@@ -168,16 +153,6 @@ Trong thống kê, [[Sigma]] (σ) là [[Standard Deviation]] (độ lệch chu�
    - Duy trì cải tiến, ngăn tái phát
    - Công cụ: [[Control Chart]], [[Standard Operating Procedure]] (SOP), đào tạo
 
-> **Sơ đồ chu trình DMAIC (Six Sigma):**
-
-```mermaid
-flowchart LR
-    D[Define<br/>Xác định vấn đề] --> M[Measure<br/>Đo lường hiện trạng]
-    M --> A[Analyze<br/>Phân tích nguyên nhân]
-    A --> I[Improve<br/>Cải tiến quy trình]
-    I --> C[Control<br/>Kiểm soát duy trì]
-    C -.->|Lặp lại| D
-```
 
 **Hệ thống đai (Belt System):**
 - [[Green Belt]]: Nhân viên được đào tạo, dành một phần thời gian cho Six Sigma
@@ -242,18 +217,6 @@ Quy trình chỉ có Common Cause Variation gọi là [[In Statistical Control]]
 
 Thông thường: $UCL = \bar{x} + 3\sigma$ và $LCL = \bar{x} - 3\sigma$ (giới hạn 3-sigma)
 
-> **Minh họa Biểu đồ kiểm soát (Control Chart):**
-
-```mermaid
-xychart-beta
-    title "Control Chart - Biểu đồ kiểm soát"
-    x-axis "Sample Number" [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    y-axis "Measurement" 0 --> 20
-    line "UCL" [16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
-    line "Center" [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
-    line "LCL" [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
-    line "Data" [9, 11, 8, 12, 10, 13, 9, 11, 14, 10]
-```
 
 > ![Figure 3.4 - Biểu đồ kiểm soát](/images/figures/ch03_fig3.4.jpg)
 > *Figure 3.4: Các mẫu bất thường trên Control Chart (trend, shift, cycle)*

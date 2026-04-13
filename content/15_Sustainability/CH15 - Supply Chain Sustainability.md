@@ -6,11 +6,11 @@ aliases: [Phát triển bền vững chuỗi cung ứng, Supply Chain Sustainabi
 
 ## Tổng quan (Overview)
 
-Chương 15 đề cập đến trách nhiệm của doanh nghiệp trong việc thiết kế và vận hành [[chuỗi cung ứng]] một cách [[bền vững]] (sustainable) — nghĩa là không chỉ tối đa hóa lợi nhuận mà còn bảo vệ môi trường và đảm bảo công bằng xã hội. Đây là khái niệm [[Triple Bottom Line]] (Ba điểm mấu chốt): **People** (Con người), **Planet** (Hành tinh), và **Profit** (Lợi nhuận).
+Chương 15 đề cập đến trách nhiệm của doanh nghiệp trong việc thiết kế và vận hành chuỗi cung ứng một cách bền vững (sustainable) — nghĩa là không chỉ tối đa hóa lợi nhuận mà còn bảo vệ môi trường và đảm bảo công bằng xã hội. Đây là khái niệm [[Triple Bottom Line]] (Ba điểm mấu chốt): **People** (Con người), **Planet** (Hành tinh), và **Profit** (Lợi nhuận).
 
-Trong bối cảnh [[biến đổi khí hậu]], ô nhiễm môi trường, và nhận thức ngày càng cao của người tiêu dùng về [[trách nhiệm xã hội]], tính bền vững không còn là "có thì tốt" mà đã trở thành yêu cầu bắt buộc. Nhiều quy định pháp luật, tiêu chuẩn quốc tế (như [[ESG]], [[ISO 14001]]), và áp lực từ nhà đầu tư buộc doanh nghiệp phải tích hợp tính bền vững vào chuỗi cung ứng.
+Trong bối cảnh biến đổi khí hậu, ô nhiễm môi trường, và nhận thức ngày càng cao của người tiêu dùng về trách nhiệm xã hội, tính bền vững không còn là "có thì tốt" mà đã trở thành yêu cầu bắt buộc. Nhiều quy định pháp luật, tiêu chuẩn quốc tế (như [[ESG]], [[ISO 14001]]), và áp lực từ nhà đầu tư buộc doanh nghiệp phải tích hợp tính bền vững vào chuỗi cung ứng.
 
-Chương bao gồm các chủ đề: [[logistics ngược]] (reverse logistics), [[hiệu quả năng lượng]], [[chuỗi cung ứng cứu trợ thiên tai]], [[đạo đức chuỗi cung ứng]], và cách quản lý [[dấu chân carbon]] (carbon footprint).
+Chương bao gồm các chủ đề: logistics ngược (reverse logistics), hiệu quả năng lượng, chuỗi cung ứng cứu trợ thiên tai, đạo đức chuỗi cung ứng, và cách quản lý dấu chân carbon (carbon footprint).
 
 ---
 
@@ -27,14 +27,14 @@ Chương bao gồm các chủ đề: [[logistics ngược]] (reverse logistics),
 **Ý nghĩa**: Doanh nghiệp có trách nhiệm đối với con người — bao gồm nhân viên, cộng đồng địa phương, người lao động trong toàn bộ chuỗi cung ứng, và xã hội nói chung.
 
 **Các khía cạnh chính**:
-- **[[Điều kiện lao động]]** (Working Conditions): Đảm bảo an toàn, lương công bằng, không lao động trẻ em, giờ làm hợp lý
-- **[[Đa dạng và hòa nhập]]** (Diversity & Inclusion): Không phân biệt đối xử
-- **[[Phát triển cộng đồng]]**: Tạo việc làm, hỗ trợ giáo dục, y tế cho cộng đồng xung quanh
-- **[[An toàn sản phẩm]]**: Sản phẩm không gây hại cho người tiêu dùng
-- **[[Quyền con người]]** (Human Rights): Đảm bảo không có [[lao động cưỡng bức]] trong toàn chuỗi cung ứng
+- **[[Working Conditions]]** (Điều kiện lao động): Đảm bảo an toàn, lương công bằng, không lao động trẻ em, giờ làm hợp lý
+- **[[Diversity & Inclusion]]** (Đa dạng và hòa nhập): Không phân biệt đối xử
+- **Phát triển cộng đồng**: Tạo việc làm, hỗ trợ giáo dục, y tế cho cộng đồng xung quanh
+- **An toàn sản phẩm**: Sản phẩm không gây hại cho người tiêu dùng
+- **[[Human Rights]]** (Quyền con người): Đảm bảo không có lao động cưỡng bức trong toàn chuỗi cung ứng
 
 **Ví dụ**:
-- **Patagonia**: Công khai danh sách nhà máy cung cấp, kiểm tra [[điều kiện lao động]] định kỳ, trả lương công bằng cho công nhân ở các nước đang phát triển.
+- **Patagonia**: Công khai danh sách nhà máy cung cấp, kiểm tra điều kiện lao động định kỳ, trả lương công bằng cho công nhân ở các nước đang phát triển.
 - **Vụ Rana Plaza (Bangladesh, 2013)**: Sập nhà máy may mặc → 1.134 người chết. Các thương hiệu thời trang phương Tây bị chỉ trích vì không kiểm soát điều kiện an toàn tại nhà cung cấp → dẫn đến [[Bangladesh Accord on Fire and Building Safety]].
 
 ### 1.2 [[Planet]] (Hành tinh / Môi trường)
@@ -42,11 +42,11 @@ Chương bao gồm các chủ đề: [[logistics ngược]] (reverse logistics),
 **Ý nghĩa**: Giảm thiểu tác động tiêu cực đến môi trường từ hoạt động kinh doanh và chuỗi cung ứng.
 
 **Các khía cạnh chính**:
-- **[[Phát thải khí nhà kính]]** (Greenhouse Gas Emissions): Giảm [[dấu chân carbon]] (carbon footprint)
-- **[[Quản lý chất thải]]** (Waste Management): Giảm thiểu, tái sử dụng, tái chế (3R: Reduce, Reuse, Recycle)
-- **[[Sử dụng tài nguyên]]**: Tiêu thụ nước, năng lượng, nguyên liệu thô một cách hiệu quả
-- **[[Bao bì xanh]]** (Green Packaging): Sử dụng vật liệu đóng gói thân thiện môi trường
-- **[[Ô nhiễm]]**: Kiểm soát ô nhiễm không khí, nước, đất từ hoạt động sản xuất
+- **[[Greenhouse Gas Emissions]]** (Phát thải khí nhà kính): Giảm dấu chân carbon (carbon footprint)
+- **[[Waste Management]]** (Quản lý chất thải): Giảm thiểu, tái sử dụng, tái chế (3R: Reduce, Reuse, Recycle)
+- **Sử dụng tài nguyên**: Tiêu thụ nước, năng lượng, nguyên liệu thô một cách hiệu quả
+- **[[Green Packaging]]** (Bao bì xanh): Sử dụng vật liệu đóng gói thân thiện môi trường
+- **Ô nhiễm**: Kiểm soát ô nhiễm không khí, nước, đất từ hoạt động sản xuất
 
 **Ví dụ**:
 - **IKEA**: Mục tiêu 100% năng lượng tái tạo, sử dụng bông hữu cơ, thiết kế sản phẩm để dễ tháo rời và tái chế.
@@ -57,11 +57,11 @@ Chương bao gồm các chủ đề: [[logistics ngược]] (reverse logistics),
 **Ý nghĩa**: Doanh nghiệp vẫn phải có lợi nhuận để tồn tại và phát triển. Tính bền vững không có nghĩa là hy sinh lợi nhuận — mà là tìm cách tạo lợi nhuận bền vững dài hạn.
 
 **Các khía cạnh chính**:
-- **[[Giá trị kinh tế dài hạn]]**: Không hy sinh tương lai vì lợi nhuận ngắn hạn
-- **[[Tiết kiệm chi phí]]** từ hiệu quả năng lượng và giảm lãng phí
-- **[[Giá trị thương hiệu]]**: Doanh nghiệp bền vững có [[uy tín thương hiệu]] tốt hơn → thu hút khách hàng
-- **[[Quản lý rủi ro]]**: Giảm rủi ro pháp lý, rủi ro uy tín từ vi phạm môi trường/xã hội
-- **[[Thu hút đầu tư]]**: Nhà đầu tư ngày càng quan tâm đến [[ESG]] (Environmental, Social, Governance)
+- **Giá trị kinh tế dài hạn**: Không hy sinh tương lai vì lợi nhuận ngắn hạn
+- **Tiết kiệm chi phí** từ hiệu quả năng lượng và giảm lãng phí
+- **Giá trị thương hiệu**: Doanh nghiệp bền vững có uy tín thương hiệu tốt hơn → thu hút khách hàng
+- **Quản lý rủi ro**: Giảm rủi ro pháp lý, rủi ro uy tín từ vi phạm môi trường/xã hội
+- **Thu hút đầu tư**: Nhà đầu tư ngày càng quan tâm đến [[ESG]] (Environmental, Social, Governance)
 
 **Ví dụ**:
 - **Unilever**: Các thương hiệu "bền vững" (Sustainable Living Brands) tăng trưởng nhanh hơn 69% so với phần còn lại của công ty, chứng minh bền vững = có lợi nhuận.
@@ -83,18 +83,18 @@ Chuỗi cung ứng bền vững nằm ở giao điểm cân bằng cả ba yếu
 ### Liên kết
 - [[ESG]] (Environmental, Social, Governance)
 - [[ISO 14001]] — Hệ thống quản lý môi trường
-- [[Trách nhiệm xã hội doanh nghiệp]] ([[CSR]])
+- Trách nhiệm xã hội doanh nghiệp ([[CSR]])
 - [[SDGs]] — Mục tiêu phát triển bền vững của Liên Hợp Quốc
 
 ---
 
-## 2. [[Logistics ngược]] (Reverse Logistics)
+## 2. **[[Reverse Logistics]]** (Logistics ngược)
 
 > ![Figure 15.3 - Logistics ngược](/images/figures/ch15_fig15.3.jpg)
 > *Figure 15.3: Reverse Logistics flow - thu hồi, tái chế, xử lý sản phẩm cuối vòng đời*
 
 ### Định nghĩa (Definition)
-[[Logistics ngược]] (Reverse Logistics) là quá trình di chuyển hàng hóa từ [[điểm tiêu dùng]] quay ngược lại [[điểm sản xuất]] hoặc [[điểm xử lý]] — bao gồm [[trả hàng]], [[tái chế]], [[tân trang]], và [[xử lý rác thải]].
+**[[Reverse Logistics]]** (Logistics ngược) là quá trình di chuyển hàng hóa từ điểm tiêu dùng quay ngược lại điểm sản xuất hoặc điểm xử lý — bao gồm trả hàng, tái chế, tân trang, và xử lý rác thải.
 
 ### Giải thích chi tiết
 
@@ -112,28 +112,28 @@ Khách hàng → Thu gom → Phân loại → Tái chế / Tân trang / Xử lý
 
 | Hoạt động | Mô tả | Ví dụ |
 |-----------|-------|-------|
-| **[[Trả hàng]]** (Returns) | Khách trả lại sản phẩm lỗi, không vừa, đổi ý | Shopee: trả hàng miễn phí trong 15 ngày |
-| **[[Tái chế]]** (Recycling) | Phân hủy sản phẩm để thu hồi nguyên liệu | Tái chế chai nhựa thành sợi polyester |
-| **[[Tân trang]]** (Refurbishing) | Sửa chữa và bán lại sản phẩm đã qua sử dụng | Apple Refurbished Products — iPhone tân trang |
-| **[[Tái sản xuất]]** (Remanufacturing) | Tháo rời và sản xuất lại sản phẩm | Caterpillar tái sản xuất động cơ xe công trình |
-| **[[Xử lý rác thải]]** (Disposal) | Tiêu hủy an toàn sản phẩm không thể tái chế | Xử lý rác thải điện tử (e-waste) đúng cách |
+| **[[Returns]]** (Trả hàng) | Khách trả lại sản phẩm lỗi, không vừa, đổi ý | Shopee: trả hàng miễn phí trong 15 ngày |
+| **[[Recycling]]** (Tái chế) | Phân hủy sản phẩm để thu hồi nguyên liệu | Tái chế chai nhựa thành sợi polyester |
+| **[[Refurbishing]]** (Tân trang) | Sửa chữa và bán lại sản phẩm đã qua sử dụng | Apple Refurbished Products — iPhone tân trang |
+| **[[Remanufacturing]]** (Tái sản xuất) | Tháo rời và sản xuất lại sản phẩm | Caterpillar tái sản xuất động cơ xe công trình |
+| **[[Disposal]]** (Xử lý rác thải) | Tiêu hủy an toàn sản phẩm không thể tái chế | Xử lý rác thải điện tử (e-waste) đúng cách |
 
 ### Thiết kế chuỗi cung ứng cho Reverse Logistics
 
 Để reverse logistics hiệu quả, chuỗi cung ứng cần được thiết kế từ đầu:
 
-1. **[[Thiết kế để tái chế]]** ([[Design for Recycling]] - DfR): Sản phẩm được thiết kế dễ tháo rời, phân loại vật liệu
+1. **Thiết kế để tái chế** ([[Design for Recycling]] - DfR): Sản phẩm được thiết kế dễ tháo rời, phân loại vật liệu
    - *Ví dụ*: IKEA thiết kế nội thất có thể tháo rời và phân loại gỗ/kim loại/nhựa
 
-2. **[[Mạng lưới thu gom]]** (Collection Network): Hệ thống điểm thu gom sản phẩm cũ
+2. **[[Collection Network]]** (Mạng lưới thu gom): Hệ thống điểm thu gom sản phẩm cũ
    - *Ví dụ*: Điện Máy Xanh thu mua điện thoại cũ; các điểm thu gom pin cũ tại siêu thị
 
-3. **[[Cơ sở phân loại]]** (Sorting Facility): Phân loại sản phẩm thu hồi: còn dùng được → tân trang; không dùng được → tái chế hoặc xử lý
+3. **[[Sorting Facility]]** (Cơ sở phân loại): Phân loại sản phẩm thu hồi: còn dùng được → tân trang; không dùng được → tái chế hoặc xử lý
 
-4. **[[Kinh tế tuần hoàn]]** ([[Circular Economy]]): Mô hình kinh tế khép kín — chất thải của quy trình này là nguyên liệu của quy trình khác
+4. **Kinh tế tuần hoàn** ([[Circular Economy]]): Mô hình kinh tế khép kín — chất thải của quy trình này là nguyên liệu của quy trình khác
    - *Ví dụ*: H&M thu hồi quần áo cũ → tái chế thành sợi vải mới → sản xuất quần áo mới
 
-5. **[[Hệ thống thông tin reverse logistics]]**: Phần mềm theo dõi sản phẩm trả lại, quản lý kho hàng trả, xử lý hoàn tiền
+5. **Hệ thống thông tin reverse logistics**: Phần mềm theo dõi sản phẩm trả lại, quản lý kho hàng trả, xử lý hoàn tiền
 
 ### Ví dụ thực tế
 - **Apple Trade-In**: Khách hàng đổi iPhone cũ → Apple tân trang và bán lại hoặc tái chế. Robot "Daisy" có thể tháo rời 200 iPhone/giờ để thu hồi vật liệu quý (vàng, đất hiếm).
@@ -141,78 +141,78 @@ Khách hàng → Thu gom → Phân loại → Tái chế / Tân trang / Xử lý
 - **Ngành thời trang**: Mỗi năm 92 triệu tấn quần áo bị vứt bỏ trên toàn cầu. Các thương hiệu đang xây dựng chương trình thu hồi (take-back programs).
 
 ### Liên kết
-- [[Kinh tế tuần hoàn]] (Circular Economy)
+- **[[Circular Economy]]** (Kinh tế tuần hoàn)
 - [[Design for Recycling]] (DfR)
 - [[CH12 - Supply Chain Design]] — Thiết kế chuỗi cung ứng
-- [[Quản lý chất thải]] (Waste Management)
+- **[[Waste Management]]** (Quản lý chất thải)
 
 ---
 
-## 3. [[Hiệu quả năng lượng]] (Energy Efficiency)
+## 3. **[[Energy Efficiency]]** (Hiệu quả năng lượng)
 
 ### Định nghĩa (Definition)
-[[Hiệu quả năng lượng]] trong chuỗi cung ứng là việc tối ưu hóa sử dụng năng lượng trong vận chuyển, sản xuất, và lưu trữ hàng hóa nhằm giảm chi phí và [[phát thải khí nhà kính]].
+**[[Energy Efficiency]]** (Hiệu quả năng lượng) trong chuỗi cung ứng là việc tối ưu hóa sử dụng năng lượng trong vận chuyển, sản xuất, và lưu trữ hàng hóa nhằm giảm chi phí và phát thải khí nhà kính.
 
-### 3.1 [[Khoảng cách vận chuyển]] (Transportation Distance)
+### 3.1 **[[Transportation Distance]]** (Khoảng cách vận chuyển)
 
 **Nguyên tắc**: Khoảng cách vận chuyển càng ngắn → tiêu thụ năng lượng càng ít → phát thải càng thấp.
 
 **Chiến lược giảm khoảng cách**:
 - **[[Nearshoring]]**: Đưa sản xuất gần thị trường tiêu thụ
-- **[[Kho phân tán]]**: Đặt kho gần khách hàng
-- **[[Tối ưu hóa tuyến đường]]** (Route Optimization): Sử dụng AI/thuật toán để tìm tuyến đường ngắn nhất
-- **[[Gộp đơn hàng]]** (Order Consolidation): Gom nhiều đơn hàng cùng khu vực vào một chuyến xe
+- **Kho phân tán**: Đặt kho gần khách hàng
+- **[[Route Optimization]]** (Tối ưu hóa tuyến đường): Sử dụng AI/thuật toán để tìm tuyến đường ngắn nhất
+- **[[Order Consolidation]]** (Gộp đơn hàng): Gom nhiều đơn hàng cùng khu vực vào một chuyến xe
 
 **Ví dụ**: 
 - Tiki sử dụng thuật toán tối ưu hóa tuyến đường cho shipper → giảm 20% quãng đường di chuyển.
 - Khái niệm "[[food miles]]" (số km thực phẩm di chuyển từ trang trại đến bàn ăn) — tiêu dùng thực phẩm địa phương giảm food miles.
 
-### 3.2 [[Mật độ hàng hóa]] (Freight Density)
+### 3.2 **[[Freight Density]]** (Mật độ hàng hóa)
 
 **Nguyên tắc**: Sử dụng tối đa không gian container/xe tải = ít chuyến xe hơn = ít năng lượng hơn.
 
 **Chiến lược tăng mật độ**:
-- **[[Thiết kế bao bì tối ưu]]**: Giảm kích thước bao bì, loại bỏ không gian trống
+- **Thiết kế bao bì tối ưu**: Giảm kích thước bao bì, loại bỏ không gian trống
   - *Ví dụ*: IKEA thiết kế nội thất dạng "flat-pack" (phẳng) → xếp được nhiều hơn trong container → giảm 50% chi phí vận chuyển so với đã lắp ráp
-- **[[Xếp hàng hiệu quả]]** (Cube Utilization): Tối đa hóa sử dụng không gian xe tải/container
-- **Tránh "[[vận chuyển không khí]]"**: Nhiều sản phẩm thương mại điện tử được đóng hộp quá lớn so với sản phẩm bên trong → lãng phí không gian vận chuyển
+- **[[Cube Utilization]]** (Xếp hàng hiệu quả): Tối đa hóa sử dụng không gian xe tải/container
+- **Tránh "vận chuyển không khí"**: Nhiều sản phẩm thương mại điện tử được đóng hộp quá lớn so với sản phẩm bên trong → lãng phí không gian vận chuyển
 
 **Ví dụ**: 
 - Amazon "Frustration-Free Packaging": Loại bỏ bao bì dư thừa → giảm 25% khối lượng đóng gói.
 - Walmart yêu cầu nhà cung cấp giảm 5% bao bì → tiết kiệm hàng triệu đô la vận chuyển.
 
-### 3.3 [[Phương thức vận chuyển]] (Transportation Mode)
+### 3.3 **[[Transportation Mode]]** (Phương thức vận chuyển)
 
 Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và phát thải khác nhau:
 
 | Phương thức | Phát thải CO2 (g/tấn-km) | Tốc độ | Chi phí | Phù hợp |
 |------------|--------------------------|--------|---------|---------|
-| **[[Đường hàng không]]** (Air) | ~500 | Rất nhanh | Rất cao | Hàng giá trị cao, khẩn cấp |
-| **[[Đường bộ]]** (Truck) | ~60-150 | Nhanh | Cao | Giao hàng linh hoạt, chặng cuối |
-| **[[Đường sắt]]** (Rail) | ~20-30 | Trung bình | Trung bình | Hàng nặng, khoảng cách xa |
-| **[[Đường biển]]** (Ocean) | ~10-15 | Chậm | Thấp | Hàng khối lượng lớn, xuất nhập khẩu |
-| **[[Đường thủy nội địa]]** (Inland Water) | ~15-20 | Chậm | Rất thấp | Hàng nặng theo sông/kênh |
+| **[[Air]]** (Đường hàng không) | ~500 | Rất nhanh | Rất cao | Hàng giá trị cao, khẩn cấp |
+| **[[Truck]]** (Đường bộ) | ~60-150 | Nhanh | Cao | Giao hàng linh hoạt, chặng cuối |
+| **[[Rail]]** (Đường sắt) | ~20-30 | Trung bình | Trung bình | Hàng nặng, khoảng cách xa |
+| **[[Ocean]]** (Đường biển) | ~10-15 | Chậm | Thấp | Hàng khối lượng lớn, xuất nhập khẩu |
+| **[[Inland Water]]** (Đường thủy nội địa) | ~15-20 | Chậm | Rất thấp | Hàng nặng theo sông/kênh |
 
 **Chiến lược**:
-- **[[Vận tải đa phương thức]]** (Intermodal Transportation): Kết hợp nhiều phương thức (container → tàu biển → đường sắt → xe tải) để tối ưu chi phí và phát thải
-- **[[Xe tải điện]]** (Electric Trucks): Thay thế xe diesel → giảm phát thải trực tiếp
-- **[[Nhiên liệu xanh]]**: Biodiesel, LNG (Liquefied Natural Gas) cho tàu biển
+- **[[Intermodal Transportation]]** (Vận tải đa phương thức): Kết hợp nhiều phương thức (container → tàu biển → đường sắt → xe tải) để tối ưu chi phí và phát thải
+- **[[Electric Trucks]]** (Xe tải điện): Thay thế xe diesel → giảm phát thải trực tiếp
+- **Nhiên liệu xanh**: Biodiesel, LNG (Liquefied Natural Gas) cho tàu biển
 
 **Ví dụ**:
 - **Maersk**: Đặt mục tiêu [[net-zero emissions]] vào 2040, đầu tư vào tàu container chạy bằng [[methanol xanh]].
 - **Viettel Post**: Thử nghiệm xe tải điện giao hàng tại các thành phố lớn.
 
 ### Liên kết
-- [[Dấu chân carbon]] (Carbon Footprint)
+- **[[Carbon Footprint]]** (Dấu chân carbon)
 - [[CH13 - Supply Chain Logistics Networks]] — Mạng lưới logistics
-- [[Phát thải khí nhà kính]] (GHG Emissions)
+- **[[GHG Emissions]]** (Phát thải khí nhà kính)
 
 ---
 
-## 4. [[Chuỗi cung ứng cứu trợ thiên tai]] (Disaster Relief Supply Chains)
+## 4. **[[Disaster Relief Supply Chains]]** (Chuỗi cung ứng cứu trợ thiên tai)
 
 ### Định nghĩa (Definition)
-[[Chuỗi cung ứng cứu trợ thiên tai]] là mạng lưới logistics được thiết kế để cung cấp hàng cứu trợ (thực phẩm, nước, thuốc, lều trại, áo quần) đến vùng bị ảnh hưởng bởi thiên tai một cách nhanh chóng và hiệu quả.
+**[[Disaster Relief Supply Chain]]** (Chuỗi cung ứng cứu trợ thiên tai) là mạng lưới logistics được thiết kế để cung cấp hàng cứu trợ (thực phẩm, nước, thuốc, lều trại, áo quần) đến vùng bị ảnh hưởng bởi thiên tai một cách nhanh chóng và hiệu quả.
 
 ### Giải thích chi tiết
 
@@ -229,10 +229,10 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 
 **Các giai đoạn cứu trợ**:
 
-1. **[[Chuẩn bị]]** (Preparedness): Dự trữ hàng cứu trợ, huấn luyện đội ngũ, lập kế hoạch ứng phó
-2. **[[Phản ứng]]** (Response): Triển khai hàng cứu trợ ngay sau thiên tai (24-72 giờ đầu)
-3. **[[Phục hồi]]** (Recovery): Hỗ trợ tái thiết dài hạn (tuần → tháng)
-4. **[[Giảm thiểu]]** (Mitigation): Đầu tư giảm tác động của thiên tai trong tương lai
+1. **[[Preparedness]]** (Chuẩn bị): Dự trữ hàng cứu trợ, huấn luyện đội ngũ, lập kế hoạch ứng phó
+2. **[[Response]]** (Phản ứng): Triển khai hàng cứu trợ ngay sau thiên tai (24-72 giờ đầu)
+3. **[[Recovery]]** (Phục hồi): Hỗ trợ tái thiết dài hạn (tuần → tháng)
+4. **[[Mitigation]]** (Giảm thiểu): Đầu tư giảm tác động của thiên tai trong tương lai
 
 **Thách thức**:
 - "Last mile" trong cứu trợ cực kỳ khó khăn (đường bị ngập, cầu bị sập)
@@ -242,54 +242,54 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 
 ### Ví dụ thực tế
 - **Hội Chữ thập đỏ quốc tế**: Có mạng lưới kho hàng cứu trợ chiến lược trên toàn thế giới — có thể triển khai hàng đến vùng thiên tai trong 24-48 giờ.
-- **Lũ lụt miền Trung Việt Nam 2020**: Quân đội, Mặt trận Tổ quốc, và hàng ngàn tình nguyện viên phối hợp vận chuyển hàng cứu trợ — nhưng gặp khó khăn do đường bị ngập, cầu bị sập. Nhiều bài học về [[logistics cứu trợ]].
+- **Lũ lụt miền Trung Việt Nam 2020**: Quân đội, Mặt trận Tổ quốc, và hàng ngàn tình nguyện viên phối hợp vận chuyển hàng cứu trợ — nhưng gặp khó khăn do đường bị ngập, cầu bị sập. Nhiều bài học về logistics cứu trợ.
 - **Amazon**: Sử dụng năng lực logistics của mình để hỗ trợ cứu trợ thiên tai — vận chuyển hàng ngàn tấn hàng cứu trợ sau bão Harvey (2017).
 
 ### Liên kết
 - [[CH14 - Supply Chain Integration]] — Gián đoạn chuỗi cung ứng
-- [[Quản lý rủi ro chuỗi cung ứng]] (SCRM)
-- [[Logistics nhân đạo]] (Humanitarian Logistics)
+- **[[SCRM]]** (Quản lý rủi ro chuỗi cung ứng)
+- **[[Humanitarian Logistics]]** (Logistics nhân đạo)
 
 ---
 
-## 5. [[Đạo đức chuỗi cung ứng]] (Supply Chain Ethics)
+## 5. **[[Supply Chain Ethics]]** (Đạo đức chuỗi cung ứng)
 
 ### Định nghĩa (Definition)
-[[Đạo đức chuỗi cung ứng]] là việc áp dụng các nguyên tắc đạo đức vào tất cả quyết định và hoạt động trong chuỗi cung ứng — từ tìm nguồn cung, sản xuất, vận chuyển, đến tiêu thụ và xử lý cuối đời sản phẩm.
+**[[Supply Chain Ethics]]** (Đạo đức chuỗi cung ứng) là việc áp dụng các nguyên tắc đạo đức vào tất cả quyết định và hoạt động trong chuỗi cung ứng — từ tìm nguồn cung, sản xuất, vận chuyển, đến tiêu thụ và xử lý cuối đời sản phẩm.
 
-### 5.1 Đạo đức trong [[quan hệ mua-bán]] (Buyer-Supplier Relationships)
+### 5.1 Đạo đức trong **[[Buyer-Supplier Relationships]]** (quan hệ mua-bán)
 
 **Các vấn đề đạo đức chính**:
 
-- **[[Ép giá nhà cung cấp]]**: Dùng quyền lực mua hàng lớn để ép nhà cung cấp giảm giá đến mức không thể đảm bảo điều kiện lao động tốt
+- **[[Supplier Price Squeezing]]** (Ép giá nhà cung cấp): Dùng quyền lực mua hàng lớn để ép nhà cung cấp giảm giá đến mức không thể đảm bảo điều kiện lao động tốt
   - *Ví dụ*: Các thương hiệu thời trang nhanh ép giá nhà máy may → nhà máy cắt giảm an toàn lao động → thảm họa Rana Plaza
-- **[[Hối lộ và tham nhũng]]**: Đút lót để được chọn làm nhà cung cấp hoặc để "nhắm mắt" trước vi phạm chất lượng
-- **[[Ăn cắp sở hữu trí tuệ]]**: Nhà cung cấp sao chép thiết kế, công nghệ của khách hàng
-- **[[Điều kiện thanh toán bất công]]**: Kéo dài thời hạn thanh toán (90-120 ngày) gây khó khăn tài chính cho nhà cung cấp nhỏ
-- **[[Minh bạch]]** (Transparency): Doanh nghiệp có công khai danh sách nhà cung cấp và điều kiện lao động không?
+- **[[Bribery and Corruption]]** (Hối lộ và tham nhũng): Đút lót để được chọn làm nhà cung cấp hoặc để "nhắm mắt" trước vi phạm chất lượng
+- **[[IP Theft]]** (Ăn cắp sở hữu trí tuệ): Nhà cung cấp sao chép thiết kế, công nghệ của khách hàng
+- **[[Unfair Payment Terms]]** (Điều kiện thanh toán bất công): Kéo dài thời hạn thanh toán (90-120 ngày) gây khó khăn tài chính cho nhà cung cấp nhỏ
+- **[[Transparency]]** (Minh bạch): Doanh nghiệp có công khai danh sách nhà cung cấp và điều kiện lao động không?
 
 **Tiêu chuẩn và quy tắc**:
 - [[SA8000]]: Tiêu chuẩn trách nhiệm xã hội quốc tế
 - [[UN Global Compact]]: 10 nguyên tắc về nhân quyền, lao động, môi trường, chống tham nhũng
 - [[Supplier Code of Conduct]]: Bộ quy tắc ứng xử dành cho nhà cung cấp
 
-### 5.2 Đạo đức trong [[quyết định vị trí cơ sở]] (Facility Location Ethics)
+### 5.2 Đạo đức trong **[[Facility Location Ethics]]** (quyết định vị trí cơ sở)
 
-- **[[Di dời để trốn quy định]]**: Chuyển nhà máy sang nước có quy định môi trường/lao động lỏng lẻo → "[[race to the bottom]]" (cuộc đua xuống đáy)
+- **Di dời để trốn quy định**: Chuyển nhà máy sang nước có quy định môi trường/lao động lỏng lẻo → "[[race to the bottom]]" (cuộc đua xuống đáy)
   - *Ví dụ*: Một số công ty chuyển nhà máy sang nước kém phát triển để tránh quy định xử lý chất thải
-- **[[Tác động đến cộng đồng địa phương]]**: Mở nhà máy tạo việc làm nhưng có thể gây ô nhiễm; đóng nhà máy gây thất nghiệp
+- **Tác động đến cộng đồng địa phương**: Mở nhà máy tạo việc làm nhưng có thể gây ô nhiễm; đóng nhà máy gây thất nghiệp
   - *Ví dụ*: Formosa Hà Tĩnh xả thải ra biển 2016 → ảnh hưởng nghiêm trọng đến ngư dân 4 tỉnh miền Trung
-- **[[Thuế và trách nhiệm]]**: Chuyển lợi nhuận sang "thiên đường thuế" (tax havens) → không đóng góp thuế cho cộng đồng nơi hoạt động
+- **Thuế và trách nhiệm**: Chuyển lợi nhuận sang "thiên đường thuế" (tax havens) → không đóng góp thuế cho cộng đồng nơi hoạt động
 
-### 5.3 Đạo đức trong [[quản lý tồn kho]] (Inventory Management Ethics)
+### 5.3 Đạo đức trong **[[Inventory Management Ethics]]** (quản lý tồn kho)
 
-- **[[Lỗi thời có chủ đích]]** (Planned Obsolescence): Cố tình thiết kế sản phẩm có tuổi thọ ngắn để khách phải mua mới → lãng phí tài nguyên
+- **[[Planned Obsolescence]]** (Lỗi thời có chủ đích): Cố tình thiết kế sản phẩm có tuổi thọ ngắn để khách phải mua mới → lãng phí tài nguyên
   - *Ví dụ*: Apple bị cáo buộc cố tình làm chậm iPhone cũ khi ra mắt model mới
-- **[[Xử lý hàng tồn]]**: Tiêu hủy hàng không bán được thay vì quyên góp
+- **Xử lý hàng tồn**: Tiêu hủy hàng không bán được thay vì quyên góp
   - *Ví dụ*: Burberry từng đốt hàng tồn kho trị giá £28.6 triệu để bảo vệ thương hiệu → bị chỉ trích → sau đó cam kết ngưng hành vi này
-- **[[Đầu cơ tích trữ]]**: Tích trữ hàng hóa thiết yếu để đẩy giá lên cao khi khan hiếm
+- **[[Hoarding]]** (Đầu cơ tích trữ): Tích trữ hàng hóa thiết yếu để đẩy giá lên cao khi khan hiếm
   - *Ví dụ*: Đầu cơ khẩu trang và nước sát khuẩn đầu đại dịch COVID-19
-- **[[An toàn thực phẩm]]**: Bán hàng hết hạn, sửa nhãn hạn sử dụng
+- **An toàn thực phẩm**: Bán hàng hết hạn, sửa nhãn hạn sử dụng
 
 ### Ví dụ thực tế
 - **Nike (thập niên 1990)**: Bị tẩy chay vì điều kiện lao động tồi tệ tại các nhà máy ở châu Á (lương thấp, giờ làm dài, lao động trẻ em). Sau đó Nike cải thiện mạnh mẽ — hiện nay công khai audit nhà cung cấp định kỳ.
@@ -299,7 +299,7 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 ### Liên kết
 - [[Triple Bottom Line]] — People, Planet, Profit
 - [[CH12 - Supply Chain Design]] — Outsourcing có trách nhiệm
-- [[Trách nhiệm xã hội doanh nghiệp]] ([[CSR]])
+- Trách nhiệm xã hội doanh nghiệp ([[CSR]])
 - [[ESG]] — Environmental, Social, Governance
 
 ---
@@ -312,31 +312,31 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 
 ### 6.1 Đo lường và báo cáo
 
-- **[[KPI bền vững]]**: Đặt chỉ số đo lường cụ thể
+- **KPI bền vững**: Đặt chỉ số đo lường cụ thể
   - Phát thải CO2 (tấn/năm)
   - Tỷ lệ tái chế (%)
   - Tỷ lệ năng lượng tái tạo (%)
   - Số vụ vi phạm lao động tại nhà cung cấp
   - Mức tiêu thụ nước (m³/sản phẩm)
-- **[[Báo cáo bền vững]]** (Sustainability Reporting): Theo chuẩn [[GRI]] (Global Reporting Initiative), [[TCFD]], hoặc [[SASB]]
-- **[[Đánh giá vòng đời]]** ([[Life Cycle Assessment]] - LCA): Đánh giá tác động môi trường của sản phẩm từ "nôi đến mồ" (cradle-to-grave)
+- **[[Sustainability Reporting]]** (Báo cáo bền vững): Theo chuẩn [[GRI]] (Global Reporting Initiative), [[TCFD]], hoặc [[SASB]]
+- **[[Life Cycle Assessment]]** (Đánh giá vòng đời - LCA): Đánh giá tác động môi trường của sản phẩm từ "nôi đến mồ" (cradle-to-grave)
 
 ### 6.2 Hợp tác trong chuỗi cung ứng
 
-- **[[Audit nhà cung cấp]]**: Kiểm tra định kỳ điều kiện lao động, môi trường tại nhà cung cấp
-- **[[Phát triển nhà cung cấp]]**: Hỗ trợ nhà cung cấp cải thiện hoạt động bền vững (đào tạo, công nghệ, tài chính)
-- **[[Tiêu chuẩn hóa]]**: Yêu cầu nhà cung cấp đạt chứng nhận [[ISO 14001]], [[SA8000]]
-- **[[Chuỗi cung ứng minh bạch]]**: Công khai thông tin về nhà cung cấp và quy trình sản xuất
+- **Audit nhà cung cấp**: Kiểm tra định kỳ điều kiện lao động, môi trường tại nhà cung cấp
+- **Phát triển nhà cung cấp**: Hỗ trợ nhà cung cấp cải thiện hoạt động bền vững (đào tạo, công nghệ, tài chính)
+- **Tiêu chuẩn hóa**: Yêu cầu nhà cung cấp đạt chứng nhận [[ISO 14001]], [[SA8000]]
+- **Chuỗi cung ứng minh bạch**: Công khai thông tin về nhà cung cấp và quy trình sản xuất
 
 ### 6.3 Chiến lược cụ thể
 
 | Chiến lược | Mô tả | Ví dụ |
 |-----------|-------|-------|
-| **[[Mua sắm xanh]]** (Green Procurement) | Ưu tiên nhà cung cấp có chứng nhận môi trường | Mua giấy từ rừng trồng FSC |
-| **[[Sản xuất sạch hơn]]** (Cleaner Production) | Giảm chất thải và ô nhiễm trong quy trình SX | Sử dụng dung môi không độc hại |
+| **[[Green Procurement]]** (Mua sắm xanh) | Ưu tiên nhà cung cấp có chứng nhận môi trường | Mua giấy từ rừng trồng FSC |
+| **[[Cleaner Production]]** (Sản xuất sạch hơn) | Giảm chất thải và ô nhiễm trong quy trình SX | Sử dụng dung môi không độc hại |
 | **[[Logistics xanh]]** (Green Logistics) | Tối ưu vận chuyển, sử dụng xe điện | Xe giao hàng chạy điện |
-| **[[Bao bì bền vững]]** (Sustainable Packaging) | Giảm, tái sử dụng, tái chế bao bì | Hộp giấy thay thế hộp xốp |
-| **[[Kinh tế tuần hoàn]]** (Circular Economy) | Thiết kế sản phẩm để tái sử dụng/tái chế | Chương trình thu hồi sản phẩm cũ |
+| **[[Sustainable Packaging]]** (Bao bì bền vững) | Giảm, tái sử dụng, tái chế bao bì | Hộp giấy thay thế hộp xốp |
+| **[[Circular Economy]]** (Kinh tế tuần hoàn) | Thiết kế sản phẩm để tái sử dụng/tái chế | Chương trình thu hồi sản phẩm cũ |
 
 ### Liên kết
 - [[ISO 14001]] — Hệ thống quản lý môi trường
@@ -345,10 +345,10 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 
 ---
 
-## 7. [[Dấu chân carbon]] (Carbon Footprint)
+## 7. **[[Carbon Footprint]]** (Dấu chân carbon)
 
 ### Định nghĩa (Definition)
-[[Dấu chân carbon]] (Carbon Footprint) là tổng lượng [[khí nhà kính]] (đo bằng CO2 tương đương — CO2e) được phát thải trực tiếp và gián tiếp bởi một sản phẩm, tổ chức, hoặc hoạt động trong chuỗi cung ứng.
+**[[Carbon Footprint]]** (Dấu chân carbon) là tổng lượng khí nhà kính (đo bằng CO2 tương đương — CO2e) được phát thải trực tiếp và gián tiếp bởi một sản phẩm, tổ chức, hoặc hoạt động trong chuỗi cung ứng.
 
 ### Giải thích chi tiết
 
@@ -363,11 +363,11 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 > **Quan trọng**: Scope 3 thường chiếm 70-90% tổng dấu chân carbon của doanh nghiệp, nhưng là phạm vi khó đo lường và kiểm soát nhất vì liên quan đến toàn bộ chuỗi cung ứng.
 
 **Cách giảm dấu chân carbon trong chuỗi cung ứng**:
-- Chuyển sang [[năng lượng tái tạo]] (solar, wind) cho nhà máy và kho hàng
-- Tối ưu hóa [[vận chuyển]]: giảm khoảng cách, tăng mật độ hàng, dùng phương thức phát thải thấp
+- Chuyển sang năng lượng tái tạo (solar, wind) cho nhà máy và kho hàng
+- Tối ưu hóa vận chuyển: giảm khoảng cách, tăng mật độ hàng, dùng phương thức phát thải thấp
 - Yêu cầu nhà cung cấp giảm phát thải
 - Thiết kế sản phẩm sử dụng ít năng lượng hơn (ví dụ: đèn LED thay bóng sợi đốt)
-- Mua [[tín chỉ carbon]] (carbon credits) để bù đắp phần không thể giảm
+- Mua tín chỉ carbon (carbon credits) để bù đắp phần không thể giảm
 
 **Khái niệm liên quan**:
 - **[[Net-Zero Emissions]]**: Cam kết giảm phát thải ròng về 0 (giảm tối đa + bù đắp phần còn lại)
@@ -380,11 +380,11 @@ Mỗi phương thức vận chuyển có mức tiêu thụ năng lượng và ph
 - **IKEA**: Đầu tư 4 tỷ EUR vào năng lượng tái tạo, sở hữu các trang trại gió (wind farms) tạo ra nhiều năng lượng hơn mức tiêu thụ.
 
 ### Liên kết
-- [[Phát thải khí nhà kính]] (GHG Emissions)
+- **[[GHG Emissions]]** (Phát thải khí nhà kính)
 - [[Net-Zero Emissions]]
 - [[Paris Agreement]] — Hiệp định Paris về biến đổi khí hậu
 - [[ESG]] — Environmental, Social, Governance
-- [[Hiệu quả năng lượng]] — Energy Efficiency
+- Hiệu quả năng lượng — Energy Efficiency
 
 ---
 
@@ -394,7 +394,7 @@ Chương này tập trung vào khung khái niệm hơn là công thức toán h�
 
 | Khái niệm | Công thức / Cách tính |
 |-----------|----------------------|
-| [[Dấu chân carbon]] | $\text{Carbon Footprint} = \text{Scope 1} + \text{Scope 2} + \text{Scope 3}$ (đơn vị: tấn CO2e) |
+| Dấu chân carbon | $\text{Carbon Footprint} = \text{Scope 1} + \text{Scope 2} + \text{Scope 3}$ (đơn vị: tấn CO2e) |
 | [[Carbon Intensity]] | $\frac{\text{Tổng phát thải CO2e}}{\text{Doanh thu hoặc sản lượng}}$ (ví dụ: tấn CO2e / triệu USD doanh thu) |
 | Chi phí logistics ngược | Bao gồm: Chi phí thu gom + Phân loại + Xử lý/Tái chế - Giá trị thu hồi |
 
@@ -403,20 +403,20 @@ Chương này tập trung vào khung khái niệm hơn là công thức toán h�
 ## Từ khóa chính (Key Terms)
 
 - [[Triple Bottom Line]] (People, Planet, Profit)
-- [[Phát triển bền vững]] (Sustainability)
-- [[Logistics ngược]] (Reverse Logistics)
-- [[Kinh tế tuần hoàn]] (Circular Economy)
-- [[Tái chế]] (Recycling)
-- [[Tân trang]] (Refurbishing)
-- [[Tái sản xuất]] (Remanufacturing)
-- [[Hiệu quả năng lượng]] (Energy Efficiency)
-- [[Khoảng cách vận chuyển]] (Transportation Distance)
-- [[Mật độ hàng hóa]] (Freight Density)
-- [[Phương thức vận chuyển]] (Transportation Mode)
-- [[Vận tải đa phương thức]] (Intermodal Transportation)
-- [[Chuỗi cung ứng cứu trợ thiên tai]] (Disaster Relief Supply Chain)
-- [[Đạo đức chuỗi cung ứng]] (Supply Chain Ethics)
-- [[Dấu chân carbon]] (Carbon Footprint)
+- **[[Sustainability]]** (Phát triển bền vững)
+- **[[Reverse Logistics]]** (Logistics ngược)
+- **[[Circular Economy]]** (Kinh tế tuần hoàn)
+- **[[Recycling]]** (Tái chế)
+- **[[Refurbishing]]** (Tân trang)
+- **[[Remanufacturing]]** (Tái sản xuất)
+- **[[Energy Efficiency]]** (Hiệu quả năng lượng)
+- **[[Transportation Distance]]** (Khoảng cách vận chuyển)
+- **[[Freight Density]]** (Mật độ hàng hóa)
+- **[[Transportation Mode]]** (Phương thức vận chuyển)
+- **[[Intermodal Transportation]]** (Vận tải đa phương thức)
+- **[[Disaster Relief Supply Chain]]** (Chuỗi cung ứng cứu trợ thiên tai)
+- **[[Supply Chain Ethics]]** (Đạo đức chuỗi cung ứng)
+- **[[Carbon Footprint]]** (Dấu chân carbon)
 - [[Net-Zero Emissions]]
 - [[Scope 1]] / [[Scope 2]] / [[Scope 3]]
 - [[ESG]] (Environmental, Social, Governance)

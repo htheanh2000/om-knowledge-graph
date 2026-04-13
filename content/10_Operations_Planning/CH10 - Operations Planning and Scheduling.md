@@ -326,7 +326,7 @@ Bệnh viện Bạch Mai cần lập lịch trực cho y tá:
 - **[[Tardiness]]** ($T_j$): max(0, Completion time - Due date) -- số ngày trễ hạn
 - **[[Lateness]]** ($L_j$): Completion time - Due date (có thể âm nếu sớm hạn)
 
-#### Gantt Chart ([[Biểu đồ Gantt]]):
+#### Gantt Chart (Biểu đồ Gantt):
 Công cụ trực quan để theo dõi lịch trình, hiển thị thời gian bắt đầu/kết thúc mỗi job trên mỗi máy.
 
 ### Liên kết (Related Concepts)
@@ -352,7 +352,7 @@ Công cụ trực quan để theo dõi lịch trình, hiển thị thời gian b
 | **[[EDD]]** | Earliest Due Date | Hạn sớm nhất làm trước | **Giảm tardiness tối đa** |
 | **[[CR]]** | Critical Ratio | CR = (Due date - Now) / Processing time remaining; nhỏ nhất trước | Cân bằng giữa hạn và thời gian còn lại |
 | **[[LPT]]** | Longest Processing Time | Job dài nhất làm trước | Dùng cho scheduling trên nhiều máy |
-| **[[S/RO]]** | Slack per Remaining Operations | Slack/Số công đoạn còn lại; nhỏ nhất trước | Xem xét nhiều công đoạn |
+| **[[S-RO|S/RO]]** | Slack per Remaining Operations | Slack/Số công đoạn còn lại; nhỏ nhất trước | Xem xét nhiều công đoạn |
 
 #### Đo lường hiệu quả:
 - **Average Flow Time** (Thời gian trung bình trong hệ thống): $\bar{F} = \frac{\sum F_j}{n}$

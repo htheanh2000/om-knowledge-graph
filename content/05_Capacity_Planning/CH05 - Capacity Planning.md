@@ -72,7 +72,7 @@ Tại sao chi phí giảm khi sản xuất nhiều hơn?
 
 2. **[[Purchasing Discount]]** (Chiết khấu mua hàng): Mua 100 tấn thép rẻ hơn mua 10 tấn (discount theo số lượng)
 
-3. **[[Learning Curve Effect]]** ([[Đường cong học hỏi]]): Sản xuất càng nhiều → công nhân càng quen → năng suất tăng → chi phí giảm
+3. **[[Learning Curve Effect]]** (Đường cong học hỏi): Sản xuất càng nhiều → công nhân càng quen → năng suất tăng → chi phí giảm
 
 4. **[[Specialization]]** (Chuyên môn hóa): Quy mô lớn cho phép phân công lao động chuyên sâu hơn
 
@@ -91,15 +91,6 @@ Tại sao "lớn quá" lại tốn kém hơn?
 
 > **Đồ thị chi phí hình chữ U**: Chi phí trung bình giảm khi tăng sản lượng (Economies of Scale) → đạt điểm tối ưu ([[Best Operating Level]]) → tăng khi sản lượng tiếp tục tăng (Diseconomies of Scale).
 
-> **Biểu đồ Economies & Diseconomies of Scale:** Chi phí trung bình giảm khi tăng sản lượng, đạt điểm tối ưu, rồi tăng trở lại.
-
-```mermaid
-xychart-beta
-    title "Economies & Diseconomies of Scale"
-    x-axis "Output Volume" [100, 200, 300, 400, 500, 600, 700, 800]
-    y-axis "Average Unit Cost" 0 --> 100
-    line "Cost Curve" [90, 70, 55, 45, 42, 45, 55, 70]
-```
 
 ### Ví dụ thực tế
 Amazon xây dựng nhiều kho nhỏ phân tán thay vì một kho khổng lồ. Mỗi kho phục vụ một khu vực → giao hàng nhanh hơn, quản lý dễ hơn. Đây là ví dụ về việc tránh Diseconomies of Scale.
@@ -149,17 +140,6 @@ Có ba chiến lược chính:
    - Ưu: Không bị tụt hậu
    - Nhược: Có thể tạo ra thừa công suất toàn ngành
 
-> **Sơ đồ so sánh 3 chiến lược mở rộng công suất (Capacity Timing Strategies):**
-
-```mermaid
-flowchart TB
-    subgraph Strategies["Capacity Timing Strategies"]
-        direction LR
-        EX["Expansionist<br/>🔵 Mở rộng trước nhu cầu<br/>Rủi ro: dư thừa<br/>Lợi: không mất khách"]
-        WS["Wait-and-See<br/>🟡 Chờ nhu cầu rõ ràng<br/>Rủi ro: mất khách<br/>Lợi: ít rủi ro tài chính"]
-        FL["Follow-the-Leader<br/>🟢 Theo đối thủ<br/>Cân bằng giữa 2 chiến lược"]
-    end
-```
 
 ### Ví dụ thực tế
 - **Expansionist**: TSMC đầu tư hàng tỷ USD xây nhà máy chip trước khi có đơn hàng, vì họ tin nhu cầu chip sẽ tăng. Chiến lược này giúp họ chiếm >50% thị phần chip hợp đồng.
