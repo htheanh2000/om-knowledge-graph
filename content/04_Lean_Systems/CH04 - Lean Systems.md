@@ -279,8 +279,6 @@ Cần ít nhất 1 container Kanban. Trong thực tế thường làm tròn lên
 ### Giải thích chi tiết
 
 
-![Figure 4.7 - Value Stream Mapping Current State](/images/figures/ch04_fig4.7.jpg)
-> *Figure 4.7: Bản đồ dòng giá trị trạng thái hiện tại (Current State Map) - trực quan hóa toàn bộ dòng chảy vật liệu và thông tin*
 
 #### Current State Map (Bản đồ trạng thái hiện tại)
 [[Current State Map]] mô tả quy trình HIỆN TẠI:

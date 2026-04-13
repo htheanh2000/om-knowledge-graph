@@ -115,8 +115,6 @@ $$\text{Capacity Cushion} = 100\% - \text{Average Utilization Rate (\%)}$$
 
 #### Giải thích chi tiết
 
-![Figure 5.3 - Sizing Capacity Cushions](/images/figures/ch05_fig5.3.jpg)
-> *Figure 5.3: Đệm công suất (Capacity Cushion) - mối quan hệ giữa công suất dự trữ, mức sử dụng và khả năng đáp ứng nhu cầu*
 
 - **Đệm lớn** (công suất dư nhiều): Phù hợp khi nhu cầu biến động mạnh, cần giao nhanh. Ví dụ: phòng cấp cứu bệnh viện cần đệm lớn.
 - **Đệm nhỏ** hoặc **âm**: Phù hợp khi sản phẩm chuẩn hóa, nhu cầu ổn định, chi phí công suất rất cao. Ví dụ: nhà máy lọc dầu.

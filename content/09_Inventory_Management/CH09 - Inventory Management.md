@@ -261,8 +261,6 @@ Chú ý: Holding = Ordering tại điểm tối ưu!
 ### Giải thích chi tiết (Detailed Explanation)
 
 
-![Figure 9.6 - Q System (Continuous Review)](/images/figures/ch09_fig9.6.jpg)
-> *Figure 9.6: Hệ thống Q (Continuous Review) -- đặt hàng lượng cố định Q khi tồn kho chạm Reorder Point R*
 
 #### Hoạt động:
 - Theo dõi tồn kho liên tục (mỗi khi có giao dịch xuất/nhập)
